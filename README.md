@@ -520,7 +520,7 @@ _José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impr
 
 ### 🥷 Lucas Carvalho De Vasconcellos <a id="lcarvalho94"></a>
 
-lcarvalho94: js,python,go,php
+pleno: js,python,go,php
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lcarvalho94)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lcarvalho94/)
