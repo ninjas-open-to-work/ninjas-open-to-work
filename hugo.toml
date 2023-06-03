@@ -1,0 +1,6 @@
+languageCode = 'pt-br'
+title = 'ninjas open to work'
+
+[_build]
+  publishResources = false
+  render = true

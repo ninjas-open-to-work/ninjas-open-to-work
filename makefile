@@ -1,10 +1,11 @@
 MAKEFLAGS += --silent
 
 markdown_changed_files=$(shell git status --porcelain | cut -c 1-3 --complement | egrep .md$)
+now=$(shell date '+%F-%H-%M-%S-%N')
 
 lint:
 ifneq ($(shell echo "${markdown_changed_files}" | grep -o .md),)
-	@docker run -t --rm \
+	docker run -t --rm \
 		-v ${PWD}:/workdir \
 		--entrypoint="markdownlint-cli2-config" \
 		davidanson/markdownlint-cli2:latest \
@@ -12,7 +13,12 @@ ifneq ($(shell echo "${markdown_changed_files}" | grep -o .md),)
 endif
 
 lint-all:
-	@echo "running linter on all files"
-	@$(MAKE) lint markdown_changed_files="**/*.md"
+	echo "running linter on all files"
+	$(MAKE) lint markdown_changed_files="**/*.md"
+
+build:
+	echo "To uso template render you need to install https://gohugo.io"
+	[ -e "./content/software-engineers/README.md" ] && rm content/software-engineers/README.md
+	hugo new software-engineers/README.md
 
 .PHONY: lint

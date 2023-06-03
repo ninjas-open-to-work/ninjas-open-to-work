@@ -76,56 +76,8 @@ wordpress
 
 Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
-[Adrian Dellatorre](#adrian-dellatorre) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Alex Tavares](#alex-tavares) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Anderson Reis Souto](#anderson-reis-souto) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[André Dias](#andre-dias) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=androidstudio,swift,kotlin,firebase,java,flutter,webpack,webflow" /> | ⌛
-[André Luiz Da Costa Torres](#andre-luiz-da-costa-torres) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Arthur Givigir](#arthur-givigir) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Bernardo Da Costa Aragão](#bernardo-da-costa-aragao) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Caroline Aquistapace](#caroline-aquistapace) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Charles Schiavinato](#charles-schiavinato) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Diogo Machado](#diogo-machado) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Efraim Andrade](#efraim-andrade) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Fabio Akira Takahashi](#fabio-akira-takahashi) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Felipe Metson](#felipe-metson) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Felipe Alves Betts](#felipe-alves-betts) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Fellipe Maia](#fellipe-maia) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Fernando Erd](#fernando-erd) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Francisco Castro](#francisco-castro) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Gabriel Nascimento](#gabriel-nascimento) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Gabriel Barbosa](#gabriel-barbosa) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Giovanni Severo](#giovanni-severo) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Guilherme Melo](#guilherme-melo) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Gustavo Augusto Brayn](#gustavo-augusto-brayn) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Gustavo Presa Rosa](#gustavo-presa-rosa) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Igor Guimaraes Veludo](#igor-guimaraes-veludo) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Igor Imperiali](#igor-imperiali) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[José Ribeiro](#jose-ribeiro) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[José Vinicius](#jose-vinicius) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Lucas Carvalho De Vasconcellos](#lucas-carvalho-de-vasconcellos) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Lucas Scherpel](#lucas-scherpel) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Lucas Cavalheiro](#lucas-cavalheiro) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Luis Fernando Fontoura Spaniol](#luis-fernando-fontoura-spaniol) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Marcos Dissotti](#marcos-dissotti) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Mateus Nascimento Barbosa](#mateus-nascimento-barbosa) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Matheus Baldas](#matheus-baldas) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Matheus Pelegrinetti](#matheus-pelegrinetti) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Mayara Lima](#mayara-lima) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=docker,flask,go,mysql,python,redis" /> | ⌛
-[Moises Santos](#moises-santos) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Pamela Santos](#pamela-santos) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Pedro Resende Da Silva](#pedro-resende-da-silva) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Rafael Blemer](#rafael-blemer) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Rafael Lima](#rafael-lima) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Raphael Carvalho](#raphael-carvalho) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Rodrigo Oliveira](#rodrigo-oliveira) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Rodrigo Cortezi](#rodrigo-cortezi) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Romulo Monteiro](#romulo-monteiro) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Saul Vieira](#saul-vieira) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Thales Paim Fachinelli](#thales-paim-fachinelli) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Thiago Assis](#thiago-assis) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Vinicius Nunes](#vinicius-nunes) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Yan Mello](#yan-mello) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
+{{ range $.Site.Data.software_engineers }}[{{ .name }}](#{{ .github }}) | {{ if eq .seniority "junior" }}██░░░░{{ else if eq .seniority "intermediate" }}████░░{{ else if eq .seniority "senior" }}██████{{ end }} | <img src="https://skillicons.dev/icons?theme=dark&i={{ .skills }}" /> | ⌛
+{{ end }}
 
 ## Índice de Gerentes de Projeto
 
