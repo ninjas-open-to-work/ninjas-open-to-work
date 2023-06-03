@@ -16,7 +16,7 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 <br />
 
-## Índice de Engenheiros de Software
+## Índice de Engenheiros de Software Ninjas
 
 <!--
 Você pode usar nas habilidades:
@@ -136,7 +136,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 
 <br />
 
-## Índice de Gerentes de Projeto
+## Índice de Gerentes de Projeto Ninjas
 
 nome | skills | back to the fight?
 --- | --- | :--:
@@ -147,7 +147,7 @@ nome | skills | back to the fight?
 
 ---
 
-## Engenheiros de Software
+## Engenheiros de Software Ninjas
 
 ### 🥷 Adrian Dellatorre <a id="dellatorreadrian"></a>
 
@@ -839,7 +839,7 @@ junior: js,python,go,php
 ---
 \
 
-## Gerentes de Projeto
+## Gerentes de Projeto Ninjas
 \
 
 ## Insígnias de habilidades
