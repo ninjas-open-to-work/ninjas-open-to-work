@@ -1,18 +1,18 @@
-Language: [[EN](#)] [[PT-BR](README.pt-br.md)]
+Idioma: [[EN](README.md)] [[PT-BR](#)]
 
 # Ninjas #OpenToWork
 
-Ninja Devs 🥷💻 Ready to fight again!
+Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 ## Seniority
 
 - ██░░░░ **junior**
-- ████░░ **intermediate**
+- ████░░ **pleno**
 - ██████ **senior**
 
-## Software engineers index
+## Índice de Engenheiros de Software
 
-Name | Seniority | Weapons | Back to the fight?
+Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
 [Adrian Dellatorre](#adrian-dellatorre) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,typescript,react,vue,angular,aws,bash,c,cs,cpp,cmake,docker,dotnet,flask,go,jquery,lua,md,mongodb,mysql,nodejs,php,postgres,python,electron,prometheus,nginx,graphql,nestjs,rabbitmq,elixir,django,css,rails,redis,deno,coffeescript,ruby,sqlite,wordpress,bootstrap,rust,spring,scala,symfony" /> | ⌛
 [Alex Tavares](#alex-tavares) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
@@ -65,7 +65,7 @@ Name | Seniority | Weapons | Back to the fight?
 [Vinicius Nunes](#vinicius-nunes) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Yan Mello](#yan-mello) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 
-## Project managers index
+## Índice de Gerentes de Projeto
 
 nome | skills | back to the fight?
 --- | --- | ---
@@ -73,7 +73,7 @@ nome | skills | back to the fight?
 
 ---
 
-## Software engineers
+## Engenheiros de Software
 
 ### 🥷 Adrian Dellatorre <a id="adrian-dellatorre"></a>
 
@@ -664,7 +664,7 @@ _Trabalhei com Saul por algum tempo, mas ele estava se desenvolvendo muito bem, 
 
 ---
 
-## Project managers
+## Gerentes de Projeto
 
 ### 🥷 Camila Ribeiro <a id="camila-ribeiro"></a>
 
@@ -672,7 +672,7 @@ _Trabalhei com Saul por algum tempo, mas ele estava se desenvolvendo muito bem, 
 
 ---
 
-## Weapons badges
+## Insígnias de habilidades
 
 - <https://github.com/tandpfun/skill-icons>
 - <https://home.aveek.io/GitHub-Profile-Badges>
