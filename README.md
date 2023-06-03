@@ -137,7 +137,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 ## Índice de Gerentes de Projeto
 
 nome | skills | back to the fight?
---- | --- | ---
+--- | --- | :--:
 [Camila Ribeiro](#camila-ribeiro-01299992) | pmo,agile | ⌛
 
 
