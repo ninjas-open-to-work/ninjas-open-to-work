@@ -8,11 +8,11 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 ## Seniority
 
-██░░░░ _júnior_
+██░░░░ - _júnior_
 
-████░░ _pleno_
+████░░ - _pleno_
 
-██████ _sênior_
+██████ - _sênior_
 
 <br />
 
