@@ -18,8 +18,7 @@ lint-all:
 
 build:
 	echo "To uso template render you need to install https://gohugo.io"
-	[ -e "./content/software-engineers/README.md" ] && rm content/software-engineers/README.md
-	hugo new software-engineers/README.md
-	mv -f ./content/software-engineers/README.md ./README.md
+	hugo new README.md
+	mv -f ./content/README.md ./README.md
 
 .PHONY: lint

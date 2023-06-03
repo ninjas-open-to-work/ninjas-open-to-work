@@ -4,6 +4,7 @@
   "fix": true,
   "config":{
     "MD013": false,
+    "MD022": false,
     "MD033": false,
     "MD036": false
   },

@@ -77,12 +77,14 @@ wordpress
 Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
 {{ range $.Site.Data.software_engineers }}[{{ .name }}](#{{ .github }}) | {{ if eq .seniority "junior" }}██░░░░{{ else if eq .seniority "intermediate" }}████░░{{ else if eq .seniority "senior" }}██████{{ end }} | <img src="https://skillicons.dev/icons?theme=dark&i={{ .skills }}" /> | ⌛
-{{ end }}
+{{ end }}\
+
 ## Índice de Gerentes de Projeto
 
 nome | skills | back to the fight?
 --- | --- | ---
-[Camila Ribeiro](#camila-ribeiro) | ??? | ⌛
+{{ range $.Site.Data.project_managers }}[{{ .name }}](#{{ .linkedin }}) | {{ .skills }} | ⌛
+{{ end }}\
 
 ---
 
@@ -103,7 +105,22 @@ _{{ .text }}_ <img width="20em" height="20em" src="https://upload.wikimedia.org/
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username={{ .github }})
 
 ---
+{{ end }}\
+
+## Gerentes de Projeto
+{{ range $.Site.Data.projectmanagers }}
+### 🥷 {{ .name }} <a id="{{ .linkedin }}"></a>
+
+{{ .skills }}
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/{{ .linkedin }}/)
+{{ range .testmonials }}
+_{{ .text }}_ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
+**- [{{ .author.name }}]({{ .author.link }}), {{ .author.relation }}**
 {{ end }}
+
+---
+{{ end }}\
 
 ## Insígnias de habilidades
 
