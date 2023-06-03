@@ -91,7 +91,7 @@ nome | skills | back to the fight?
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/alex-tavares)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alex-tavares/)
 
-_Alex Tavares é um desenvolvedor extremamente dedicado e apaixonado pelo que faz. Ele teve uma trajetória desafiadora em que saiu de um emprego certo para ser desenvolvedor, mas sua escolha mostrou-se acertada. Ao longo do último ano, evoluiu de Júnior para Pleno, graças ao seu comprometimento e contribuições fundamentadas. Alex é um profissional humilde, preocupado com seus colegas de trabalho e sempre disposto a aprender e compartilhar conhecimento._\
+_Alex Tavares é um desenvolvedor extremamente dedicado e apaixonado pelo que faz. Ele teve uma trajetória desafiadora em que saiu de um emprego certo para ser desenvolvedor, mas sua escolha mostrou-se acertada. Ao longo do último ano, evoluiu de Júnior para Pleno, graças ao seu comprometimento e contribuições fundamentadas. Alex é um profissional humilde, preocupado com seus colegas de trabalho e sempre disposto a aprender e compartilhar conhecimento._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
 **- Pedro Braga, Software Engineer Front End Colleague**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=alex-tavares)
@@ -149,7 +149,7 @@ _Alex Tavares é um desenvolvedor extremamente dedicado e apaixonado pelo que fa
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/HDBenosx10)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aragao-dev/)
 
-_Muito safo para descobrir/pesquisar sobre problemas e encontrar soluções. Seu forte é backend, mas chegou a pegar algumas coisas de frontend._\
+_Muito safo para descobrir/pesquisar sobre problemas e encontrar soluções. Seu forte é backend, mas chegou a pegar algumas coisas de frontend._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
 **- Daniel Tré, Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=HDBenosx10)
@@ -174,7 +174,7 @@ _Muito safo para descobrir/pesquisar sobre problemas e encontrar soluções. Seu
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/CharlesSchiavinato)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/charles-schiavinato-b973b239/)
 
-_O Charles Schiavinato, desenvolvedor back-end, que com sua experiência e maturidade, era muitas vezes a voz da razão dentro do time._\
+_O Charles Schiavinato, desenvolvedor back-end, que com sua experiência e maturidade, era muitas vezes a voz da razão dentro do time._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
 **- Daniele Reis, Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=CharlesSchiavinato)
@@ -243,7 +243,7 @@ _O Charles Schiavinato, desenvolvedor back-end, que com sua experiência e matur
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/FellipeMaia)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fellipe-maia/)
 
-_Fellipe é um profissional extremamente resiliente, seu forte é o backend, costuma pegar tarefas que não tem muito domínio como forma de desafiar a si mesmo para aprender algo novo, e sempre conseguiu atingir os objetivos._\
+_Fellipe é um profissional extremamente resiliente, seu forte é o backend, costuma pegar tarefas que não tem muito domínio como forma de desafiar a si mesmo para aprender algo novo, e sempre conseguiu atingir os objetivos._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
 **- Daniel Tré, Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=FellipeMaia)
@@ -323,7 +323,7 @@ _Fellipe é um profissional extremamente resiliente, seu forte é o backend, cos
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gustavobrayn)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gustavobrayn/)
 
-_Gustavo Augusto Brayn possui uma história inspiradora e é conhecido por sua abertura ao aprendizado. Durante o período em que trabalharam juntos, ele sempre absorvia o conhecimento compartilhado e ajudava a enxergar novas perspectivas. Mesmo com pouco tempo de trabalho em conjunto, Gustavo demonstrou uma capacidade notável de assimilar conteúdo e estava sempre disposto a compartilhar seu conhecimento._\
+_Gustavo Augusto Brayn possui uma história inspiradora e é conhecido por sua abertura ao aprendizado. Durante o período em que trabalharam juntos, ele sempre absorvia o conhecimento compartilhado e ajudava a enxergar novas perspectivas. Mesmo com pouco tempo de trabalho em conjunto, Gustavo demonstrou uma capacidade notável de assimilar conteúdo e estava sempre disposto a compartilhar seu conhecimento._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
 **- Pedro Braga, Software Engineer Front End Colleague**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=gustavobrayn)
@@ -381,7 +381,7 @@ _Gustavo Augusto Brayn possui uma história inspiradora e é conhecido por sua a
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jviniciusoliveira)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jose-vinicius-os/)
 
-_José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impressão de maturidade e dedicação ao desenvolvimento, bem como um forte desejo de compartilhar e adquirir conhecimento._\
+_José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impressão de maturidade e dedicação ao desenvolvimento, bem como um forte desejo de compartilhar e adquirir conhecimento._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
 **- Pedro Braga, Software Engineer Front End Colleague**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=jviniciusoliveira)
@@ -450,7 +450,7 @@ _José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impr
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mateusxis)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mateusxis/)
 
-_Profissional muito ativo, multi-tarefa, conhece tanto backend quanto frontend, tem bons conhecimentos de banco de dados, e vestiu a camisa de security champion, trazendo sempre a preocupação de se desenvolver aplicações seguras._\
+_Profissional muito ativo, multi-tarefa, conhece tanto backend quanto frontend, tem bons conhecimentos de banco de dados, e vestiu a camisa de security champion, trazendo sempre a preocupação de se desenvolver aplicações seguras._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
 **- Daniel Tré, Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mateusxis)
@@ -475,10 +475,10 @@ _Profissional muito ativo, multi-tarefa, conhece tanto backend quanto frontend, 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Pelegrinetti)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-pelegrinetti/)
 
-_Entende muito bem tanto de front quanto de back. Tivemos ótimas discussões sobre a arquitetura de uma API que fizemos e ele pegava bem rápido as motivações das decisões, conseguindo assim argumentar sobre elas._\
+_Entende muito bem tanto de front quanto de back. Tivemos ótimas discussões sobre a arquitetura de uma API que fizemos e ele pegava bem rápido as motivações das decisões, conseguindo assim argumentar sobre elas._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
 **- Daniel Tré, Tech Lead**
 
-_Matheus Pelegrinetti mostrou grande capacidade de adaptação e habilidade ao assumir o desafio de trabalhar tanto no Backend quanto no Frontend quando não tinha experiência com este. Contribuiu para o desenvolvimento e arquitetura de vários projetos importantes que impactaram positivamente a experiência do usuário. Com sede de aprendizado e uma postura colaborativa, Matheus é uma fonte inesgotável de conhecimento._\
+_Matheus Pelegrinetti mostrou grande capacidade de adaptação e habilidade ao assumir o desafio de trabalhar tanto no Backend quanto no Frontend quando não tinha experiência com este. Contribuiu para o desenvolvimento e arquitetura de vários projetos importantes que impactaram positivamente a experiência do usuário. Com sede de aprendizado e uma postura colaborativa, Matheus é uma fonte inesgotável de conhecimento._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
 **- Pedro Braga, Software Engineer Front End Colleague**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Pelegrinetti)
@@ -492,7 +492,7 @@ _Matheus Pelegrinetti mostrou grande capacidade de adaptação e habilidade ao a
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mayaralima22)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/limay/)
 
-_A Mayara Lima, desenvolvedora back-end, foi minha grande parceira e sempre demonstrou muita responsabilidade em seu trabalho, sendo uma referência em segurança web no time._\
+_A Mayara Lima, desenvolvedora back-end, foi minha grande parceira e sempre demonstrou muita responsabilidade em seu trabalho, sendo uma referência em segurança web no time._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
 **- Daniele Reis, Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mayaralima22)
@@ -506,7 +506,7 @@ _A Mayara Lima, desenvolvedora back-end, foi minha grande parceira e sempre demo
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mdeosjr)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/moisesjr/)
 
-_Muito esforçado, entrou como assistente, sabendo pouco, tem sede por conhecimento, sempre prestou atenção a tudo e por conta disso, pegou o trabalho bem rápido, iniciou trabalhando com frontend, mas pegou diversas tarefas ponta-a-ponta pegando back também._\
+_Muito esforçado, entrou como assistente, sabendo pouco, tem sede por conhecimento, sempre prestou atenção a tudo e por conta disso, pegou o trabalho bem rápido, iniciou trabalhando com frontend, mas pegou diversas tarefas ponta-a-ponta pegando back também._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
 **- Daniele Reis, Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mdeosjr)
@@ -520,7 +520,7 @@ _Muito esforçado, entrou como assistente, sabendo pouco, tem sede por conhecime
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/pamelasantoss)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pamela-santos-frontend/)
 
-_A Pamela Santos, desenvolvedora front-end, extremamente desenrolada e adaptável, sempre entregando um trabalho de alta qualidade._\
+_A Pamela Santos, desenvolvedora front-end, extremamente desenrolada e adaptável, sempre entregando um trabalho de alta qualidade._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
 **- Daniele Reis, Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=pamelasantoss)
@@ -611,8 +611,8 @@ _A Pamela Santos, desenvolvedora front-end, extremamente desenrolada e adaptáve
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vieirasaul)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vieirasaul/)
 
-_Trabalhei com Saul por algum tempo, mas ele estava se desenvolvendo muito bem, é um Dev Jr que com um pouco mais de experiência pode chegar a Pleno, trabalhava mais com Frontend, mas costumava pegar tarefas de backend para expandir seus conhecimentos._\
-**- Daniel Tré, Tech Lead**
+_Trabalhei com Saul por algum tempo, mas ele estava se desenvolvendo muito bem, é um Dev Jr que com um pouco mais de experiência pode chegar a Pleno, trabalhava mais com Frontend, mas costumava pegar tarefas de backend para expandir seus conhecimentos._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
+**- Daniel Tré, Tech Lead** 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=vieirasaul)
 
@@ -676,3 +676,7 @@ _Trabalhei com Saul por algum tempo, mas ele estava se desenvolvendo muito bem, 
 
 - <https://github.com/tandpfun/skill-icons>
 - <https://home.aveek.io/GitHub-Profile-Badges>
+
+## Disclaimers
+
+- Traduções de depoimentos podem ser feitas sem a revisão dos autores. Parte do significado pode ser perdido na tradução. Textos originais serão marcados com a insígnia <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />.

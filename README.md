@@ -676,3 +676,7 @@ _Trabalhei com Saul por algum tempo, mas ele estava se desenvolvendo muito bem, 
 
 - <https://github.com/tandpfun/skill-icons>
 - <https://home.aveek.io/GitHub-Profile-Badges>
+
+## Disclaimers
+
+- Some testimonials' translations are made without owners' review. Be advise that something might get lost in translation. Original texts will also be marked with a badge <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />.
