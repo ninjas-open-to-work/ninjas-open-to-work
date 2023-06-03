@@ -109,7 +109,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Igor Imperiali](#Imperiali) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [José Ribeiro](#jtonynet) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [José Vinicius](#jviniciusoliveira) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Lucas Carvalho De Vasconcellos](#lcarvalho94) |  | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
+[Lucas Carvalho De Vasconcellos](#lcarvalho94) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Lucas Scherpel](#Scherpel) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Lucas Cavalheiro](#lgcavalheiro) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Luis Fernando Fontoura Spaniol](#lffspaniol) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
@@ -520,7 +520,7 @@ _José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impr
 
 ### 🥷 Lucas Carvalho De Vasconcellos <a id="lcarvalho94"></a>
 
-pleno: js,python,go,php
+intermediate: js,python,go,php
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lcarvalho94)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lcarvalho94/)
