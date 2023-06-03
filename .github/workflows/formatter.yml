@@ -1,0 +1,59 @@
+name: Format Code
+
+on:
+  push:
+    branches: [main]
+
+  pull_request:
+    branches-ignore: [main]
+
+jobs:
+
+  format:
+    runs-on: self-hosted
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Github actions step debug
+      if: ${{ vars.RUNNER_DEBUG == '1' }}
+      run: |
+        printf "\n\n\n\n\n\n\n\n" >> readme.md
+        printf "### test - ${{ github.head_ref }} - $(date)" >> readme.md
+        printf "\n\n\n\n\n\n\n\n" >> readme.md
+
+    - uses: DavidAnson/markdownlint-cli2-action@v10
+      with:
+        command: config
+        globs: |
+          .markdownlint-cli2.jsonc
+          **/*.md
+
+    # - name: Get changed files
+    #   id: changed-files
+    #   uses: tj-actions/changed-files@v35
+    #   with:
+    #     files: '**/*.md'
+
+    # - name: Commit and push changes
+    #   if: steps.changed-files.outputs.any_changed == 'true'
+    #   run: |
+    #     git config --global github.user ${{ vars.ENV_FORMATTER_GITHUB_USER }}
+    #     git config --global user.email ${{ vars.ENV_FORMATTER_USER_EMAIL }}
+    #     git config --global user.name ${{ vars.ENV_FORMATTER_USER_NAME }}
+    #     git config --global pull.rebase false
+
+    #     git pull origin ${{ github.head_ref }}
+    #     git add .
+    #     git commit -m "${{ vars.ENV_FORMATTER_COMMIT_MESSAGE }}"
+    #     git push origin ${{ github.head_ref }}
+
+    - uses: EndBug/add-and-commit@v9
+      with:
+        author_email: ${{ vars.ENV_FORMATTER_USER_EMAIL }}
+        author_name: ${{ vars.ENV_FORMATTER_GITHUB_USER }}
+        fetch: true
+        message: ${{ vars.ENV_FORMATTER_COMMIT_MESSAGE }}
+        pull: '--rebase'
+        push: true
