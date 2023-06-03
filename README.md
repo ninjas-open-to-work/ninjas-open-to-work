@@ -6,9 +6,9 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 ## Seniority
 
-- ██░░░░ **junior**
+- ██░░░░ **júnior**
 - ████░░ **pleno**
-- ██████ **senior**
+- ██████ **sênior**
 
 ## Índice de Engenheiros de Software
 
@@ -92,7 +92,7 @@ nome | skills | back to the fight?
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alex-tavares/)
 
 _Alex Tavares é um desenvolvedor extremamente dedicado e apaixonado pelo que faz. Ele teve uma trajetória desafiadora em que saiu de um emprego certo para ser desenvolvedor, mas sua escolha mostrou-se acertada. Ao longo do último ano, evoluiu de Júnior para Pleno, graças ao seu comprometimento e contribuições fundamentadas. Alex é um profissional humilde, preocupado com seus colegas de trabalho e sempre disposto a aprender e compartilhar conhecimento._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
-**- Pedro Braga, Software Engineer Front End Colleague**
+**- [Pedro Lisboa](https://github.com/pedrobslisboa), Software Engineer Front End Colleague**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=alex-tavares)
 
@@ -324,7 +324,7 @@ _Fellipe é um profissional extremamente resiliente, seu forte é o backend, cos
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gustavobrayn/)
 
 _Gustavo Augusto Brayn possui uma história inspiradora e é conhecido por sua abertura ao aprendizado. Durante o período em que trabalharam juntos, ele sempre absorvia o conhecimento compartilhado e ajudava a enxergar novas perspectivas. Mesmo com pouco tempo de trabalho em conjunto, Gustavo demonstrou uma capacidade notável de assimilar conteúdo e estava sempre disposto a compartilhar seu conhecimento._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
-**- Pedro Braga, Software Engineer Front End Colleague**
+**- [Pedro Braga](https://github.com/pedrobslisboa), Software Engineer Front End Colleague**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=gustavobrayn)
 
@@ -382,7 +382,7 @@ _Gustavo Augusto Brayn possui uma história inspiradora e é conhecido por sua a
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jose-vinicius-os/)
 
 _José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impressão de maturidade e dedicação ao desenvolvimento, bem como um forte desejo de compartilhar e adquirir conhecimento._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
-**- Pedro Braga, Software Engineer Front End Colleague**
+**- [Pedro Braga](https://github.com/pedrobslisboa), Software Engineer Front End Colleague**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=jviniciusoliveira)
 
@@ -479,7 +479,7 @@ _Entende muito bem tanto de front quanto de back. Tivemos ótimas discussões so
 **- Daniel Tré, Tech Lead**
 
 _Matheus Pelegrinetti mostrou grande capacidade de adaptação e habilidade ao assumir o desafio de trabalhar tanto no Backend quanto no Frontend quando não tinha experiência com este. Contribuiu para o desenvolvimento e arquitetura de vários projetos importantes que impactaram positivamente a experiência do usuário. Com sede de aprendizado e uma postura colaborativa, Matheus é uma fonte inesgotável de conhecimento._ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
-**- Pedro Braga, Software Engineer Front End Colleague**
+**- [Pedro Braga](https://github.com/pedrobslisboa), Software Engineer Front End Colleague**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Pelegrinetti)
 
