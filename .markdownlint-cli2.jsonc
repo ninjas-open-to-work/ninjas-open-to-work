@@ -7,7 +7,8 @@
     "MD022": false,
     "MD033": false,
     "MD034": false,
-    "MD036": false
+    "MD036": false,
+    "MD051": false
   },
   "outputFormatters": [
     [ "markdownlint-cli2-formatter-summarize", { "byRule": true } ],
