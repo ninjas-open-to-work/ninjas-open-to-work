@@ -32,5 +32,5 @@ jobs:
         # author_name: ${{ vars.ENV_FORMATTER_AUTHOR_NAME }}
         fetch: true
         # message: ${{ vars.ENV_FORMATTER_COMMIT_MESSAGE }}
-        pull: '--rebase'
+        # pull: '--rebase'
         push: true
