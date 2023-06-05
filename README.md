@@ -27,7 +27,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Bernardo Aragão](#HDBenosx10) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,css,ts,html,docker,bash,go,postgres,nextjs,mongodb,redis,mysql,prisma,docker" /> | ⌛
 [Caroline Aquistapace](#aquistapace) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
 [Charles Schiavinato](#CharlesSchiavinato) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,docker,go" /> | ⌛
-[Diogo Machado](#diogomachado1) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
+[Diogo Machado](#diogomachado1) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=go,redis,docker,js,ts,nodejs,express,react,php,python" /> | ⌛
 [Efraim Andrade](#efraim-andrade) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
 [Fabio Akira Takahashi](#akirafabio) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
 [Felipe Metson](#duchometson) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
