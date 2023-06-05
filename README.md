@@ -49,7 +49,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Lucas Scherpel](#scherpel) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs,react,react,flutter,python,go" /> | ⌛
 [Lucas Cavalheiro](#lgcavalheiro) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular,deno,electron,java,maven,graphql,gulp,nodejs,ts,python,react,js" /> | ⌛
 [Luis Fernando Fontoura Spaniol](#lffspaniol) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go,python,angular,mysql,prometheus" /> | ⌛
-[Marcos Dissotti](#marcosdissotti) | ████░░ |  | ⌛
+[Marcos Dissotti](#marcosdissotti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,redux,ts,js,styledcomponents,cs,gcp" /> | ⌛
 [Mateus Barbosa](#mateusxis) | ████░░ |  | ⌛
 [Matheus Baldas](#mbaldas) | ██░░░░ |  | ⌛
 [Matheus Pelegrinetti](#pelegrinetti) | ████░░ |  | ⌛
