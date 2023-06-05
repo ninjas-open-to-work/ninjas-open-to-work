@@ -4,14 +4,16 @@
     "github": "dellatorreadrian",
     "linkedin": "adrian-dellatorre",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Alex Tavares",
     "github": "alex-tavares",
     "linkedin": "alex-tavares",
     "seniority": "intermediate",
-    "skills": "js,python,go,php",
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php",
     "testmonials": [
       {
         "text": "Alex Tavares é um desenvolvedor extremamente dedicado e apaixonado pelo que faz. Ele teve uma trajetória desafiadora em que saiu de um emprego certo para ser desenvolvedor, mas sua escolha mostrou-se acertada. Ao longo do último ano, evoluiu de Júnior para Pleno, graças ao seu comprometimento e contribuições fundamentadas. Alex é um profissional humilde, preocupado com seus colegas de trabalho e sempre disposto a aprender e compartilhar conhecimento.",
@@ -28,14 +30,16 @@
     "github": "andersonpensephp",
     "linkedin": "andersonfront",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "André Dias",
     "github": "andrediasgustavo",
     "linkedin": "andregustavodias",
     "seniority": "senior",
-    "skills": "xcode,swift",
+    "skill_badges": "swift",
+    "skills": "xcode, swift",
     "testmonials": [
       {
         "text": "André é uma pessoa incrivelmente ágil para resolver problemas de qualquer tamanho. Muito competente com as entregas e sempre disponível para ajudar seus colegas de trabalho",
@@ -52,14 +56,16 @@
     "github": "ALCTorres",
     "linkedin": "andr%C3%A9-luiz-da-costa-torres-874b0546",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Arthur Givigir",
     "github": "arthurgivigir",
     "linkedin": "arthur-givigir-b4a64a66",
     "seniority": "senior",
-    "skills": "xcode,swift",
+    "skill_badges": "swift",
+    "skills": "xcode, swift",
     "testmonials": [
       {
         "text": "Arhur foi alguém que eu tive oportunidade de trabalhar 2 vezes, mas por muito pouco tempo, apesar disso, ele se mostrou ser uma pessoa super contribuidora com melhorias e desenvolvimento com qualidade.",
@@ -76,7 +82,8 @@
     "github": "HDBenosx10",
     "linkedin": "aragao-dev",
     "seniority": "junior",
-    "skills": "js,python,go,php",
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php",
     "testmonials": [
       {
         "text": "Muito safo para descobrir/pesquisar sobre problemas e encontrar soluções. Seu forte é backend, mas chegou a pegar algumas coisas de frontend.",
@@ -93,14 +100,16 @@
     "github": "aquistapace",
     "linkedin": "caroline-aquistapace-07095231",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Charles Schiavinato",
     "github": "CharlesSchiavinato",
     "linkedin": "charles-schiavinato-b973b239",
     "seniority": "intermediate",
-    "skills": "js,docker,go",
+    "skill_badges": "js,docker,go",
+    "skills": "js, docker, go",
     "testmonials": [
       {
         "text": "O Charles Schiavinato, desenvolvedor back-end, que com sua experiência e maturidade, era muitas vezes a voz da razão dentro do time. Ele possuía um grande interesse em contribuir e fazer um bom trabalho dentro do time, sempre fazendo observações precisas, que direcionavam o time a um bom caminho, além de preocupar-se em como o time poderia entregar valor em pouco tempo.",
@@ -117,21 +126,24 @@
     "github": "diogomachado1",
     "linkedin": "diogo-machado-807747187",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Efraim Andrade",
     "github": "efraim-andrade",
     "linkedin": "efraim-andrade-517b0a149",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Fabio Akira Takahashi",
     "github": "akirafabio",
     "linkedin": "akirafabio",
     "seniority": "senior",
-    "skills": "xcode,swift",
+    "skill_badges": "swift",
+    "skills": "xcode, swift",
     "testmonials": [
       {
         "text": "Akira é um profissional completo, tanto na parte de desenvolvimento como de entendimento do produto. Muito curioso para entender e melhorar tudo que participa. Profissional de alta qualidade!",
@@ -148,21 +160,24 @@
     "github": "duchometson",
     "linkedin": "felipe-metson-b9b758148",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Felipe Alves Betts",
     "github": "felipebetts",
     "linkedin": "felipe-betts",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Fellipe Maia",
     "github": "FellipeMaia",
     "linkedin": "fellipe-maia",
     "seniority": "intermediate",
-    "skills": "js,python,go,php",
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php",
     "testmonials": [
       {
         "text": "Fellipe é um profissional extremamente resiliente, seu forte é o backend, costuma pegar tarefas que não tem muito domínio como forma de desafiar a si mesmo para aprender algo novo, e sempre conseguiu atingir os objetivos.",
@@ -179,35 +194,40 @@
     "github": "Fernando-Erd",
     "linkedin": "fernandoerd",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Francisco Castro",
     "github": "FranciscoBBC",
     "linkedin": "francisco-castro-330a95123",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Gabriel Nascimento",
     "github": "gabrielrnascimento",
     "linkedin": "gabriel-nascimento-525700124",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Gabriel Barbosa",
     "github": "Garbosa",
     "linkedin": "gabrieln-barbosa",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Giovanni Severo",
     "github": "giosvro",
     "linkedin": "giovanni-severo",
     "seniority": "intermediate",
-    "skills": "xcode,swift",
+    "skill_badges": "swift",
+    "skills": "xcode, swift",
     "testmonials": [
       {
         "text": "Giovanni é uma pessoa que tem muita atenção aos detalhes ao desenvolver qualquer coisa. Grande foco em criar documentações para ajudar o time a desenvolver de forma organizada",
@@ -224,14 +244,16 @@
     "github": "Mufolk",
     "linkedin": "guilhermemelo138",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Gustavo Augusto Brayn",
     "github": "gustavobrayn",
     "linkedin": "gustavobrayn",
     "seniority": "junior",
-    "skills": "js,python,go,php",
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php",
     "testmonials": [
       {
         "text": "Gustavo Augusto Brayn possui uma história inspiradora e é conhecido por sua abertura ao aprendizado. Durante o período em que trabalharam juntos, ele sempre absorvia o conhecimento compartilhado e ajudava a enxergar novas perspectivas. Mesmo com pouco tempo de trabalho em conjunto, Gustavo demonstrou uma capacidade notável de assimilar conteúdo e estava sempre disposto a compartilhar seu conhecimento.",
@@ -248,35 +270,40 @@
     "github": "gustavoPresa",
     "linkedin": "gustavo-presa-rosa",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Igor Guimaraes Veludo",
     "github": "IgorVeludo2",
     "linkedin": "igorveludo",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Igor Imperiali",
     "github": "Imperiali",
     "linkedin": "igor-imperiali",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "José Ribeiro",
     "github": "jtonynet",
     "linkedin": "jos%C3%A9-r-99896a39",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "José Vinicius",
     "github": "jviniciusoliveira",
     "linkedin": "jose-vinicius-os",
     "seniority": "junior",
-    "skills": "js,python,go,php",
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php",
     "testmonials": [
       {
         "text": "José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impressão de maturidade e dedicação ao desenvolvimento, bem como um forte desejo de compartilhar e adquirir conhecimento.",
@@ -293,42 +320,48 @@
     "github": "lcarvalho94",
     "linkedin": "lcarvalho94",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Lucas Scherpel",
     "github": "Scherpel",
     "linkedin": "lucas-scherpel-902116136",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Lucas Cavalheiro",
     "github": "lgcavalheiro",
     "linkedin": "lgcavalheiro",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Luis Fernando Fontoura Spaniol",
     "github": "lffspaniol",
     "linkedin": "lffspaniol",
     "seniority": "senior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Marcos Dissotti",
     "github": "marcosdissotti",
     "linkedin": "marcosdissotti",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Mateus Barbosa",
     "github": "mateusxis",
     "linkedin": "mateusxis",
     "seniority": "intermediate",
-    "skills": "js,python,go,php",
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php",
     "testmonials": [
       {
         "text": "Profissional muito ativo, multi-tarefa, conhece tanto backend quanto frontend, tem bons conhecimentos de banco de dados, e vestiu a camisa de security champion, trazendo sempre a preocupação de se desenvolver aplicações seguras.",
@@ -345,14 +378,16 @@
     "github": "mbaldas",
     "linkedin": "matheusbaldas",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Matheus Pelegrinetti",
     "github": "Pelegrinetti",
     "linkedin": "matheus-pelegrinetti",
     "seniority": "intermediate",
-    "skills": "js,python,go,php",
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php",
     "testmonials": [
       {
         "text": "Entende muito bem tanto de front quanto de back. Tivemos ótimas discussões sobre a arquitetura de uma API que fizemos e ele pegava bem rápido as motivações das decisões, conseguindo assim argumentar sobre elas.",
@@ -377,7 +412,8 @@
     "github": "mayaralima22",
     "linkedin": "limay",
     "seniority": "intermediate",
-    "skills": "docker,flask,go,mysql",
+    "skill_badges": "docker,flask,go,mysql",
+    "skills": "docker, flask, go, mysql",
     "testmonials": [
       {
         "text": "A Mayara Lima, desenvolvedora back-end, foi minha grande parceira e sempre demonstrou muita responsabilidade em seu trabalho, sendo uma referência em segurança web no time. Além de estar constantemente preocupada com o desempenho do time, a Mayara também era capaz de manter uma comunicação clara com pessoas de diferentes backgrounds.",
@@ -394,7 +430,8 @@
     "github": "mdeosjr",
     "linkedin": "moisesjr",
     "seniority": "junior",
-    "skills": "js,python,go,php",
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php",
     "testmonials": [
       {
         "text": "Muito esforçado, entrou como assistente, sabendo pouco, tem sede por conhecimento, sempre prestou atenção a tudo e por conta disso, pegou o trabalho bem rápido, iniciou trabalhando com frontend, mas pegou diversas tarefas ponta-a-ponta pegando back também.",
@@ -411,7 +448,8 @@
     "github": "pamelasantoss",
     "linkedin": "pamela-santos-frontend",
     "seniority": "junior",
-    "skills": "react,next,html,wordpress",
+    "skill_badges": "react,next,html,wordpress",
+    "skills": "react, next, html, wordpress",
     "testmonials": [
       {
         "text": "A Pamela Santos, desenvolvedora front-end, extremamente desenrolada e adaptável, sempre entregando um trabalho de alta qualidade. O time sempre podia contar com ela para entregar as demandas mais urgentes em tempo hábil.",
@@ -428,7 +466,8 @@
     "github": "pedr-oResende",
     "linkedin": "pedro-resende-da-silva-228384177",
     "seniority": "junior",
-    "skills": "androidstudio,kotlin",
+    "skill_badges": "androidstudio,kotlin",
+    "skills": "androidstudio, kotlin",
     "testmonials": [
       {
         "text": "Pedro é uma pessoa com um potencial incrível, tivemos pouco tempo trabalhando juntos, mesmo assim pude notar que é bem atualizado.",
@@ -445,7 +484,8 @@
     "github": "Rblemer",
     "linkedin": "rafael-blemer-8b278b138",
     "seniority": "junior",
-    "skills": "androidstudio,kotlin",
+    "skill_badges": "androidstudio,kotlin",
+    "skills": "androidstudio, kotlin",
     "testmonials": [
       {
         "text": "Rafael começou conosco e tinha bem pouca experiência, mas muita vontade de aprender e fazer acontecer. Se desenvolveu muito no tempo que trabalhamos juntos e foi incrível ver o seu desenvolvimento. Tem sempre muitas idéias de como fazer as coisas e está sempre disponível para ajudar seus colegas.",
@@ -462,35 +502,40 @@
     "github": "rafaellrf09",
     "linkedin": "rafaellrf",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Raphael Carvalho",
     "github": "zraphael",
     "linkedin": "raphael-de-carvalho",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Rodrigo Oliveira",
     "github": "rodrigosdo",
     "linkedin": "rodrigosdo",
     "seniority": "senior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Rodrigo Cortezi",
     "github": "rodrigovcortezi",
     "linkedin": "rodrigo-cortezi",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Romulo Monteiro",
     "github": "Romulomga",
     "linkedin": "romulomga",
     "seniority": "senior",
-    "skills": "xcode,swift",
+    "skill_badges": "swift",
+    "skills": "xcode, swift",
     "testmonials": [
       {
         "text": "Romulo é um profissional excelente, faz o ambiente ficar muito mais leve. Tá sempre disposto a ajudar qualquer um com o que precisar. É uma pessoa muito compentente!",
@@ -507,7 +552,8 @@
     "github": "vieirasaul",
     "linkedin": "vieirasaul",
     "seniority": "junior",
-    "skills": "js,python,go,php",
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php",
     "testmonials": [
       {
         "text": "Trabalhei com Saul por algum tempo, mas ele estava se desenvolvendo muito bem, é um Dev Jr que com um pouco mais de experiência pode chegar a Pleno, trabalhava mais com Frontend, mas costumava pegar tarefas de backend para expandir seus conhecimentos.",
@@ -524,27 +570,31 @@
     "github": "ThalesFachinelli",
     "linkedin": "thales-paim-fachinelli-b8b455b4",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Thiago Assis",
     "github": "assisthiago",
     "linkedin": "thiagomassis",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Vinicius Nunes",
     "github": "viniciusnuunes",
     "linkedin": "viniciuspnunes",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   },
   {
     "name": "Yan Mello",
     "github": "YDoro",
     "linkedin": "yan-mello-1a6429127",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skill_badges": "js,python,go,php",
+    "skills": "js, python, go, php"
   }
 ]
