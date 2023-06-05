@@ -100,10 +100,10 @@
     "github": "CharlesSchiavinato",
     "linkedin": "charles-schiavinato-b973b239",
     "seniority": "intermediate",
-    "skills": "js,python,go,php",
+    "skills": "js,docker,go",
     "testmonials": [
       {
-        "text": "O Charles Schiavinato, desenvolvedor back-end, que com sua experiência e maturidade, era muitas vezes a voz da razão dentro do time.",
+        "text": "O Charles Schiavinato, desenvolvedor back-end, que com sua experiência e maturidade, era muitas vezes a voz da razão dentro do time. Ele possuía um grande interesse em contribuir e fazer um bom trabalho dentro do time, sempre fazendo observações precisas, que direcionavam o time a um bom caminho, além de preocupar-se em como o time poderia entregar valor em pouco tempo.",
         "author": {
           "name": "Daniele Reis",
           "link": "https://github.com/danielesreis",
@@ -380,7 +380,7 @@
     "skills": "docker,flask,go,mysql",
     "testmonials": [
       {
-        "text": "A Mayara Lima, desenvolvedora back-end, foi minha grande parceira e sempre demonstrou muita responsabilidade em seu trabalho, sendo uma referência em segurança web no time.",
+        "text": "A Mayara Lima, desenvolvedora back-end, foi minha grande parceira e sempre demonstrou muita responsabilidade em seu trabalho, sendo uma referência em segurança web no time. Além de estar constantemente preocupada com o desempenho do time, a Mayara também era capaz de manter uma comunicação clara com pessoas de diferentes backgrounds.",
         "author": {
           "name": "Daniele Reis",
           "link": "https://github.com/danielesreis",
@@ -411,10 +411,10 @@
     "github": "pamelasantoss",
     "linkedin": "pamela-santos-frontend",
     "seniority": "junior",
-    "skills": "js,python,go,php",
+    "skills": "react,next,html,wordpress",
     "testmonials": [
       {
-        "text": "A Pamela Santos, desenvolvedora front-end, extremamente desenrolada e adaptável, sempre entregando um trabalho de alta qualidade.",
+        "text": "A Pamela Santos, desenvolvedora front-end, extremamente desenrolada e adaptável, sempre entregando um trabalho de alta qualidade. O time sempre podia contar com ela para entregar as demandas mais urgentes em tempo hábil.",
         "author": {
           "name": "Daniele Reis",
           "link": "https://github.com/danielesreis",
