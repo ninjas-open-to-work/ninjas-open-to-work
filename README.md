@@ -52,7 +52,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Marcos Dissotti](#marcosdissotti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,redux,ts,js,styledcomponents,cs,gcp" /> | ⌛
 [Mateus Barbosa](#mateusxis) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs,react,express,mongodb,graphql,python,django" /> | ⌛
 [Matheus Baldas](#mbaldas) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,ts,cssnginx,docker,webpack,jest,cs,nodejs,nextjs,php" /> | ⌛
-[Matheus Pelegrinetti](#pelegrinetti) | ████░░ |  | ⌛
+[Matheus Pelegrinetti](#pelegrinetti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,ts,js,css,nextjs" /> | ⌛
 [Mayara Lima](#mayaralima22) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,flask,go,mysql" /> | ⌛
 [Moises Santos](#mdeosjr) | ██░░░░ |  | ⌛
 [Pamela Santos](#pamelasantoss) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,next,html,wordpress" /> | ⌛
