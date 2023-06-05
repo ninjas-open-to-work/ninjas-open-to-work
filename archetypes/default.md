@@ -98,7 +98,7 @@ nome | skills | back to the fight?
 ### 🥷 {{ .name }} <a id="{{ .github }}"></a> [☝️](#se_index)
 
 🛡️🗡️: {{ title .skills }}
-{{ with .seniority.description }}📜: {{ . }}
+{{ with .subtitle }}📜: {{ . }}
 {{ end }}
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/{{ .github }})
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/{{ .linkedin }}/)
