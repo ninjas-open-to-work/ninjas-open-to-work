@@ -207,7 +207,17 @@
     "github": "giosvro",
     "linkedin": "giovanni-severo",
     "seniority": "intermediate",
-    "skills": "js,python,go,php"
+    "skills": "xcode,swift",
+    "testmonials": [
+      {
+        "text": "Giovanni é uma pessoa que tem muita atenção aos detalhes ao desenvolver qualquer coisa. Grande foco em criar documentações para ajudar o time a desenvolver de forma organizada",
+        "author": {
+          "name": "Daniel Pucciariello",
+          "link": "https://github.com/danielpucci",
+          "relation": "Tech Lead"
+        }
+      }
+    ]
   },
   {
     "name": "Guilherme Melo",
