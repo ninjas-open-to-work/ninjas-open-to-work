@@ -17,7 +17,7 @@ lint-all:
 	$(MAKE) lint markdown_changed_files="**/*.md"
 
 build:
-	echo "To uso template render you need to install https://gohugo.io"
+	echo "To use template render you need to install https://gohugo.io"
 	hugo new default/README.md
 	mv -f ./content/default/README.md ./README.md
 
