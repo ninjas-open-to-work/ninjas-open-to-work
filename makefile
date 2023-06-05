@@ -17,8 +17,12 @@ lint-all:
 	$(MAKE) lint markdown_changed_files="**/*.md"
 
 build:
-	echo "To use template render you need to install https://gohugo.io"
-	hugo new default/README.md
-	mv -f ./content/default/README.md ./README.md
+	-[ -f content/default/README.md ] && rm -f content/default/README.md
+	docker run --rm \
+		-v ${PWD}:/src \
+		--user $(shell id -u):$(shell id -g) \
+		klakegg/hugo:alpine \
+		new default/README.md
+	mv -f content/default/README.md ./README.md
 
 .PHONY: lint
