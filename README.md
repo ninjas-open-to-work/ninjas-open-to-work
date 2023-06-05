@@ -58,7 +58,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Pamela Santos](#pamelasantoss) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,next,html,wordpress" /> | ⌛
 [Pedro Resende Da Silva](#pedr-oresende) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio,kotlin" /> | ✅✅✅
 [Rafael Blemer](#rblemer) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio,kotlin" /> | ⌛
-[Rafael Lima](#rafaellrf09) | ██░░░░ |  | ⌛
+[Rafael Lima](#rafaellrf09) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go,nest,graphql,mongodb,spring,vue,php,laravel,nodejs,java" /> | ⌛
 [Raphael Carvalho](#zraphael) | ██░░░░ |  | ⌛
 [Rodrigo Oliveira](#rodrigosdo) | ██████ |  | ⌛
 [Rodrigo Cortezi](#rodrigovcortezi) | ██░░░░ |  | ⌛
