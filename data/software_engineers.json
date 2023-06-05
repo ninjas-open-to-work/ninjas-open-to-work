@@ -59,7 +59,17 @@
     "github": "arthurgivigir",
     "linkedin": "arthur-givigir-b4a64a66",
     "seniority": "senior",
-    "skills": "js,python,go,php"
+    "skills": "xcode,swift",
+    "testmonials": [
+      {
+        "text": "Arhur foi alguém que eu tive oportunidade de trabalhar 2 vezes, mas por muito pouco tempo, apesar disso, ele se mostrou ser uma pessoa super contribuidora com melhorias e desenvolvimento com qualidade.",
+        "author": {
+          "name": "Daniel Pucciariello",
+          "link": "https://github.com/danielpucci",
+          "relation": "Tech Lead"
+        }
+      }
+    ]
   },
   {
     "name": "Bernardo Aragão",
