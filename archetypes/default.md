@@ -4,8 +4,6 @@ Idioma: [[EN](./README.us-en.md)] [[PT-BR](/README.md)]
 
 Devs ninjas 🥷💻 Prontos para lutar novamente!
 
-<br />
-
 ## Seniority
 
 ██░░░░ - _júnior_
@@ -13,8 +11,6 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 ████░░ - _pleno_
 
 ██████ - _sênior_
-
-<br />
 
 ## Índice de Engenheiros de Software Ninjas
 
@@ -84,7 +80,6 @@ Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
 {{ range $.Site.Data.software_engineers }}[{{ .name }}](#{{ .github }}) | {{ if eq .seniority "junior" }}██░░░░{{ else if eq .seniority "intermediate" }}████░░{{ else if eq .seniority "senior" }}██████{{ end }} | <img height="22" src="https://skillicons.dev/icons?theme=dark&i={{ .skill_badges }}" /> | ⌛
 {{ end }}
-<br />
 
 ## Índice de Gerentes de Projeto Ninjas
 
@@ -92,11 +87,12 @@ nome | skills | back to the fight?
 --- | --- | :--:
 {{ range $.Site.Data.project_managers }}[{{ .name }}](#{{ .linkedin }}) | {{ .skills }} | ⌛
 {{ end }}
-<br />
 
----
+<hr />
+{{ if $.Site.Data.software_engineers }}
 
 ## Engenheiros de Software Ninjas
+
 {{ range $.Site.Data.software_engineers }}
 ### 🥷 {{ .name }} <a id="{{ .github }}"></a>
 
@@ -111,28 +107,19 @@ nome | skills | back to the fight?
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username={{ .github }})
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username={{ .github }})
-
----
-{{ end }}
-<br />
-
+<hr />
+{{ end }}{{ end }}{{ if $.Site.Data.project_managers }}
 ## Gerentes de Projeto Ninjas
 {{ range $.Site.Data.project_managers }}
-
 ### 🥷 {{ .name }} <a id="{{ .linkedin }}"></a>
 
 {{ title .skills }}
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/{{ .linkedin }}/)
 {{ range .testmonials }}
-_{{ .text }}_ <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />\
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _{{ .text }}_\
 **- [{{ .author.name }}]({{ .author.link }}), {{ .author.relation }}**
-{{ end }}
-<br />
-
----
-{{ end }}
-<br />
+{{ end }}<hr />{{ end }}{{ end }}
 
 ## Insígnias de habilidades
 
@@ -142,3 +129,8 @@ _{{ .text }}_ <img width="20em" height="20em" src="https://upload.wikimedia.org/
 ## Disclaimers
 
 - Traduções de depoimentos podem ser feitas sem a revisão dos autores. Parte do significado pode ser perdido na tradução. Textos originais serão marcados com a insígnia <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />.
+
+<style>
+h2   {padding: 50px 0 50px 0;}
+hr   {padding: 50px 0 50px 0;}
+</style>
