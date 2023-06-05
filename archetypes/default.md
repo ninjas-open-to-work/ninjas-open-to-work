@@ -14,8 +14,6 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 <hr />
 
-## Índice de Engenheiros de Software Ninjas
-
 <!--
 Você pode usar nas habilidades:
 
@@ -75,15 +73,16 @@ symfony
 typescript
 vue
 wordpress
-
 -->
+
+## Índice de Engenheiros de Software Ninjas <a id="se_index"></a>
 
 Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
 {{ range $.Site.Data.software_engineers }}[{{ .name }}](#{{ .github }}) | {{ if eq .seniority.level "junior" }}██░░░░{{ else if eq .seniority.level "intermediate" }}████░░{{ else if eq .seniority.level "senior" }}██████{{ end }} | <img height="22" src="https://skillicons.dev/icons?theme=dark&i={{ .skill_badges }}" /> | {{ if .hired }}✅{{ else }}⌛{{ end }}
 {{ end }}
 
-## Índice de Gerentes de Projeto Ninjas
+## Índice de Gerentes de Projeto Ninjas <a id="pm_index"></a>
 
 nome | skills | back to the fight?
 --- | --- | :--:
@@ -96,7 +95,7 @@ nome | skills | back to the fight?
 ## Engenheiros de Software Ninjas
 
 {{ range $.Site.Data.software_engineers }}
-### 🥷 {{ .name }} <a id="{{ .github }}"></a>
+### 🥷 {{ .name }} <a id="{{ .github }}"></a> [☝️](#se_index)
 
 🛡️🗡️: {{ title .skills }}
 {{ with .seniority.description }}📜: {{ . }}

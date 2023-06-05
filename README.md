@@ -14,8 +14,6 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 <hr />
 
-## Índice de Engenheiros de Software Ninjas
-
 <!--
 Você pode usar nas habilidades:
 
@@ -75,8 +73,9 @@ symfony
 typescript
 vue
 wordpress
-
 -->
+
+## Índice de Engenheiros de Software Ninjas <a id="se_index"></a>
 
 Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
@@ -132,7 +131,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Yan Mello](#YDoro) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 
 
-## Índice de Gerentes de Projeto Ninjas
+## Índice de Gerentes de Projeto Ninjas <a id="pm_index"></a>
 
 nome | skills | back to the fight?
 --- | --- | :--:
@@ -145,7 +144,7 @@ nome | skills | back to the fight?
 ## Engenheiros de Software Ninjas
 
 
-### 🥷 Adrian Dellatorre <a id="dellatorreadrian"></a>
+### 🥷 Adrian Dellatorre <a id="dellatorreadrian"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -157,7 +156,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=dellatorreadrian)
 <hr />
 
-### 🥷 Alex Tavares <a id="alex-tavares"></a>
+### 🥷 Alex Tavares <a id="alex-tavares"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -172,7 +171,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=alex-tavares)
 <hr />
 
-### 🥷 Anderson Reis Souto <a id="andersonpensephp"></a>
+### 🥷 Anderson Reis Souto <a id="andersonpensephp"></a> [☝️](#se_index)
 
 🛡️🗡️: HTML, CSS, JS, PHP, Python, JQuery, React, NodeJs, MySQL, MongoDB, Redis, Docker
 
@@ -187,7 +186,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=andersonpensephp)
 <hr />
 
-### 🥷 André Dias <a id="andrediasgustavo"></a>
+### 🥷 André Dias <a id="andrediasgustavo"></a> [☝️](#se_index)
 
 🛡️🗡️: Xcode, Swift
 
@@ -202,7 +201,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=andrediasgustavo)
 <hr />
 
-### 🥷 André Luiz Da Costa Torres <a id="ALCTorres"></a>
+### 🥷 André Luiz Da Costa Torres <a id="ALCTorres"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -214,7 +213,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=ALCTorres)
 <hr />
 
-### 🥷 Arthur Givigir <a id="arthurgivigir"></a>
+### 🥷 Arthur Givigir <a id="arthurgivigir"></a> [☝️](#se_index)
 
 🛡️🗡️: Xcode, Swift
 
@@ -229,7 +228,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=arthurgivigir)
 <hr />
 
-### 🥷 Bernardo Aragão <a id="HDBenosx10"></a>
+### 🥷 Bernardo Aragão <a id="HDBenosx10"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -244,7 +243,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=HDBenosx10)
 <hr />
 
-### 🥷 Caroline Aquistapace <a id="aquistapace"></a>
+### 🥷 Caroline Aquistapace <a id="aquistapace"></a> [☝️](#se_index)
 
 🛡️🗡️: HTML, CSS, JS, PHP, JQuery, React, NodeJs, MySQL, MongoDB, Redis, Docker
 
@@ -259,7 +258,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=aquistapace)
 <hr />
 
-### 🥷 Charles Schiavinato <a id="CharlesSchiavinato"></a>
+### 🥷 Charles Schiavinato <a id="CharlesSchiavinato"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Docker, Go
 
@@ -274,7 +273,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=CharlesSchiavinato)
 <hr />
 
-### 🥷 Diogo Machado <a id="diogomachado1"></a>
+### 🥷 Diogo Machado <a id="diogomachado1"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -286,7 +285,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=diogomachado1)
 <hr />
 
-### 🥷 Efraim Andrade <a id="efraim-andrade"></a>
+### 🥷 Efraim Andrade <a id="efraim-andrade"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -298,7 +297,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=efraim-andrade)
 <hr />
 
-### 🥷 Fabio Akira Takahashi <a id="akirafabio"></a>
+### 🥷 Fabio Akira Takahashi <a id="akirafabio"></a> [☝️](#se_index)
 
 🛡️🗡️: Xcode, Swift
 
@@ -313,7 +312,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=akirafabio)
 <hr />
 
-### 🥷 Felipe Metson <a id="duchometson"></a>
+### 🥷 Felipe Metson <a id="duchometson"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -325,7 +324,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=duchometson)
 <hr />
 
-### 🥷 Felipe Alves Betts <a id="felipebetts"></a>
+### 🥷 Felipe Alves Betts <a id="felipebetts"></a> [☝️](#se_index)
 
 🛡️🗡️: HTML, CSS, JS, React, NodeJS, Docker
 
@@ -340,7 +339,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=felipebetts)
 <hr />
 
-### 🥷 Fellipe Maia <a id="FellipeMaia"></a>
+### 🥷 Fellipe Maia <a id="FellipeMaia"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -355,7 +354,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=FellipeMaia)
 <hr />
 
-### 🥷 Fernando Erd <a id="Fernando-Erd"></a>
+### 🥷 Fernando Erd <a id="Fernando-Erd"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -367,7 +366,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Fernando-Erd)
 <hr />
 
-### 🥷 Francisco Castro <a id="FranciscoBBC"></a>
+### 🥷 Francisco Castro <a id="FranciscoBBC"></a> [☝️](#se_index)
 
 🛡️🗡️: HTML, CSS, JS, Typescript, PHP, Wordpress, JQuery, React, NodeJs, GraphQL, MySQL, MongoDB, Redis, Docker
 
@@ -382,7 +381,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=FranciscoBBC)
 <hr />
 
-### 🥷 Gabriel Nascimento <a id="gabrielrnascimento"></a>
+### 🥷 Gabriel Nascimento <a id="gabrielrnascimento"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -394,7 +393,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gabrielrnascimento)
 <hr />
 
-### 🥷 Gabriel Barbosa <a id="Garbosa"></a>
+### 🥷 Gabriel Barbosa <a id="Garbosa"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -406,7 +405,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Garbosa)
 <hr />
 
-### 🥷 Giovanni Severo <a id="giosvro"></a>
+### 🥷 Giovanni Severo <a id="giosvro"></a> [☝️](#se_index)
 
 🛡️🗡️: Xcode, Swift
 
@@ -421,7 +420,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=giosvro)
 <hr />
 
-### 🥷 Guilherme Melo <a id="Mufolk"></a>
+### 🥷 Guilherme Melo <a id="Mufolk"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -433,7 +432,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Mufolk)
 <hr />
 
-### 🥷 Gustavo Augusto Brayn <a id="gustavobrayn"></a>
+### 🥷 Gustavo Augusto Brayn <a id="gustavobrayn"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -448,7 +447,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gustavobrayn)
 <hr />
 
-### 🥷 Gustavo Presa Rosa <a id="gustavoPresa"></a>
+### 🥷 Gustavo Presa Rosa <a id="gustavoPresa"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -460,7 +459,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gustavoPresa)
 <hr />
 
-### 🥷 Igor Guimaraes Veludo <a id="IgorVeludo2"></a>
+### 🥷 Igor Guimaraes Veludo <a id="IgorVeludo2"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -472,7 +471,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=IgorVeludo2)
 <hr />
 
-### 🥷 Igor Imperiali <a id="Imperiali"></a>
+### 🥷 Igor Imperiali <a id="Imperiali"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -484,7 +483,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Imperiali)
 <hr />
 
-### 🥷 José Ribeiro <a id="jtonynet"></a>
+### 🥷 José Ribeiro <a id="jtonynet"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -496,7 +495,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=jtonynet)
 <hr />
 
-### 🥷 José Vinicius <a id="jviniciusoliveira"></a>
+### 🥷 José Vinicius <a id="jviniciusoliveira"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -511,7 +510,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=jviniciusoliveira)
 <hr />
 
-### 🥷 Lucas Carvalho De Vasconcellos <a id="lcarvalho94"></a>
+### 🥷 Lucas Carvalho De Vasconcellos <a id="lcarvalho94"></a> [☝️](#se_index)
 
 🛡️🗡️: HTML, CSS, JS, PHP, C#, NodeJs, React, MySQL, MongoDB, Redis, Docker
 
@@ -526,7 +525,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lcarvalho94)
 <hr />
 
-### 🥷 Lucas Scherpel <a id="Scherpel"></a>
+### 🥷 Lucas Scherpel <a id="Scherpel"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -538,7 +537,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Scherpel)
 <hr />
 
-### 🥷 Lucas Cavalheiro <a id="lgcavalheiro"></a>
+### 🥷 Lucas Cavalheiro <a id="lgcavalheiro"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -550,7 +549,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lgcavalheiro)
 <hr />
 
-### 🥷 Luis Fernando Fontoura Spaniol <a id="lffspaniol"></a>
+### 🥷 Luis Fernando Fontoura Spaniol <a id="lffspaniol"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -562,7 +561,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lffspaniol)
 <hr />
 
-### 🥷 Marcos Dissotti <a id="marcosdissotti"></a>
+### 🥷 Marcos Dissotti <a id="marcosdissotti"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -574,7 +573,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=marcosdissotti)
 <hr />
 
-### 🥷 Mateus Barbosa <a id="mateusxis"></a>
+### 🥷 Mateus Barbosa <a id="mateusxis"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -589,7 +588,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mateusxis)
 <hr />
 
-### 🥷 Matheus Baldas <a id="mbaldas"></a>
+### 🥷 Matheus Baldas <a id="mbaldas"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -601,7 +600,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mbaldas)
 <hr />
 
-### 🥷 Matheus Pelegrinetti <a id="Pelegrinetti"></a>
+### 🥷 Matheus Pelegrinetti <a id="Pelegrinetti"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -619,7 +618,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Pelegrinetti)
 <hr />
 
-### 🥷 Mayara Lima <a id="mayaralima22"></a>
+### 🥷 Mayara Lima <a id="mayaralima22"></a> [☝️](#se_index)
 
 🛡️🗡️: Docker, Flask, Go, Mysql
 
@@ -634,7 +633,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mayaralima22)
 <hr />
 
-### 🥷 Moises Santos <a id="mdeosjr"></a>
+### 🥷 Moises Santos <a id="mdeosjr"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -649,7 +648,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mdeosjr)
 <hr />
 
-### 🥷 Pamela Santos <a id="pamelasantoss"></a>
+### 🥷 Pamela Santos <a id="pamelasantoss"></a> [☝️](#se_index)
 
 🛡️🗡️: React, Next, Html, Wordpress
 
@@ -664,7 +663,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=pamelasantoss)
 <hr />
 
-### 🥷 Pedro Resende Da Silva <a id="pedr-oResende"></a>
+### 🥷 Pedro Resende Da Silva <a id="pedr-oResende"></a> [☝️](#se_index)
 
 🛡️🗡️: Androidstudio, Kotlin
 
@@ -679,7 +678,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=pedr-oResende)
 <hr />
 
-### 🥷 Rafael Blemer <a id="Rblemer"></a>
+### 🥷 Rafael Blemer <a id="Rblemer"></a> [☝️](#se_index)
 
 🛡️🗡️: Androidstudio, Kotlin
 
@@ -694,7 +693,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Rblemer)
 <hr />
 
-### 🥷 Rafael Lima <a id="rafaellrf09"></a>
+### 🥷 Rafael Lima <a id="rafaellrf09"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -706,7 +705,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rafaellrf09)
 <hr />
 
-### 🥷 Raphael Carvalho <a id="zraphael"></a>
+### 🥷 Raphael Carvalho <a id="zraphael"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -718,7 +717,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=zraphael)
 <hr />
 
-### 🥷 Rodrigo Oliveira <a id="rodrigosdo"></a>
+### 🥷 Rodrigo Oliveira <a id="rodrigosdo"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -730,7 +729,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rodrigosdo)
 <hr />
 
-### 🥷 Rodrigo Cortezi <a id="rodrigovcortezi"></a>
+### 🥷 Rodrigo Cortezi <a id="rodrigovcortezi"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -742,7 +741,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rodrigovcortezi)
 <hr />
 
-### 🥷 Romulo Monteiro <a id="Romulomga"></a>
+### 🥷 Romulo Monteiro <a id="Romulomga"></a> [☝️](#se_index)
 
 🛡️🗡️: Xcode, Swift
 
@@ -757,7 +756,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Romulomga)
 <hr />
 
-### 🥷 Saul Vieira <a id="vieirasaul"></a>
+### 🥷 Saul Vieira <a id="vieirasaul"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -772,7 +771,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=vieirasaul)
 <hr />
 
-### 🥷 Thales Paim Fachinelli <a id="ThalesFachinelli"></a>
+### 🥷 Thales Paim Fachinelli <a id="ThalesFachinelli"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -784,7 +783,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=ThalesFachinelli)
 <hr />
 
-### 🥷 Thiago Assis <a id="assisthiago"></a>
+### 🥷 Thiago Assis <a id="assisthiago"></a> [☝️](#se_index)
 
 🛡️🗡️: HTML, CSS, JS, PHP, Python, Flask, Django, JQuery, Nodejs, MySQL, MongoDB, Redis, Docker
 
@@ -799,7 +798,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=assisthiago)
 <hr />
 
-### 🥷 Vinicius Nunes <a id="viniciusnuunes"></a>
+### 🥷 Vinicius Nunes <a id="viniciusnuunes"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
@@ -811,7 +810,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=viniciusnuunes)
 <hr />
 
-### 🥷 Yan Mello <a id="YDoro"></a>
+### 🥷 Yan Mello <a id="YDoro"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
 
