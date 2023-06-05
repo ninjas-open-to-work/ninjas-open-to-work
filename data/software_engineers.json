@@ -615,7 +615,7 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "docker,flask,go,mysql,python",
+    "skill_badges": "docker,flask,go,mysql,python,vue,rabbitmq,cs,js,java,kotlin,mongodb",
     "skills": "docker, flask, go, mysql",
     "testmonials": [
       {
