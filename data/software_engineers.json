@@ -8,7 +8,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Alex Tavares",
@@ -29,7 +30,8 @@
           "relation": "Software Engineer Front End Colleague"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Anderson Reis Souto",
@@ -50,7 +52,8 @@
           "relation": "Software Engineer Front End Colleague"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "André Dias",
@@ -71,7 +74,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "André Luiz Da Costa Torres",
@@ -82,7 +86,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Arthur Givigir",
@@ -103,7 +108,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Bernardo Aragão",
@@ -124,7 +130,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Caroline Aquistapace",
@@ -145,7 +152,8 @@
           "relation": "Software Engineer Front End Colleague"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Charles Schiavinato",
@@ -166,7 +174,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Diogo Machado",
@@ -177,7 +186,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Efraim Andrade",
@@ -188,7 +198,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Fabio Akira Takahashi",
@@ -209,7 +220,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Felipe Metson",
@@ -220,7 +232,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Felipe Alves Betts",
@@ -241,7 +254,8 @@
           "relation": "Software Engineer Front End Colleague"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Fellipe Maia",
@@ -262,7 +276,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Fernando Erd",
@@ -273,7 +288,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Francisco Castro",
@@ -294,7 +310,8 @@
           "relation": "Software Engineer Front End Colleague"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Gabriel Nascimento",
@@ -305,7 +322,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Gabriel Barbosa",
@@ -316,7 +334,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Giovanni Severo",
@@ -337,7 +356,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Guilherme Melo",
@@ -348,7 +368,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Gustavo Augusto Brayn",
@@ -369,7 +390,8 @@
           "relation": "Software Engineer Front End Colleague"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Gustavo Presa Rosa",
@@ -380,7 +402,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Igor Guimaraes Veludo",
@@ -391,7 +414,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Igor Imperiali",
@@ -402,7 +426,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "José Ribeiro",
@@ -413,7 +438,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "José Vinicius",
@@ -434,7 +460,8 @@
           "relation": "Software Engineer Front End Colleague"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Lucas Carvalho De Vasconcellos",
@@ -455,7 +482,8 @@
           "relation": "Software Engineer Front End Colleague"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Lucas Scherpel",
@@ -466,7 +494,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Lucas Cavalheiro",
@@ -477,7 +506,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Luis Fernando Fontoura Spaniol",
@@ -488,7 +518,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Marcos Dissotti",
@@ -499,7 +530,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Mateus Barbosa",
@@ -520,7 +552,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Matheus Baldas",
@@ -531,7 +564,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Matheus Pelegrinetti",
@@ -560,7 +594,8 @@
           "relation": "Software Engineer Front End Colleague"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Mayara Lima",
@@ -581,7 +616,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Moises Santos",
@@ -602,7 +638,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Pamela Santos",
@@ -623,7 +660,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Pedro Resende Da Silva",
@@ -644,7 +682,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": true
   },
   {
     "name": "Rafael Blemer",
@@ -665,7 +704,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Rafael Lima",
@@ -676,7 +716,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Raphael Carvalho",
@@ -687,7 +728,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Rodrigo Oliveira",
@@ -698,7 +740,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Rodrigo Cortezi",
@@ -709,7 +752,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Romulo Monteiro",
@@ -730,7 +774,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Saul Vieira",
@@ -751,7 +796,8 @@
           "relation": "Tech Lead"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Thales Paim Fachinelli",
@@ -762,7 +808,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Thiago Assis",
@@ -783,7 +830,8 @@
           "relation": "Software Engineer Front End Colleague"
         }
       }
-    ]
+    ],
+    "hired": false
   },
   {
     "name": "Vinicius Nunes",
@@ -794,7 +842,8 @@
       "description": ""
     },
     "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skills": "js, python, go, php",
+    "hired": false
   },
   {
     "name": "Yan Mello",

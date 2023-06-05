@@ -118,7 +118,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Mayara Lima](#mayaralima22) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=docker,flask,go,mysql" /> | ⌛
 [Moises Santos](#mdeosjr) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Pamela Santos](#pamelasantoss) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=react,next,html,wordpress" /> | ⌛
-[Pedro Resende Da Silva](#pedr-oResende) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=androidstudio,kotlin" /> | ⌛
+[Pedro Resende Da Silva](#pedr-oResende) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=androidstudio,kotlin" /> | ✅
 [Rafael Blemer](#Rblemer) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=androidstudio,kotlin" /> | ⌛
 [Rafael Lima](#rafaellrf09) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Raphael Carvalho](#zraphael) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
