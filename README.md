@@ -61,7 +61,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Rafael Lima](#rafaellrf09) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go,nest,graphql,mongodb,spring,vue,php,laravel,nodejs,java" /> | ⌛
 [Raphael Carvalho](#zraphael) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,css,html,ts,solidity,go,python,bash,webpack,styledcomponents,react,nodejs,aws,java,cs,sequelize" /> | ⌛
 [Rodrigo Oliveira](#rodrigosdo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go,python,redis,aws,php,mysql,postgres,docker,gcp" /> | ⌛
-[Rodrigo Cortezi](#rodrigovcortezi) | ██░░░░ |  | ⌛
+[Rodrigo Cortezi](#rodrigovcortezi) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,nodejs,c,python,ruby,go" /> | ⌛
 [Romulo Monteiro](#romulomga) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [Saul Vieira](#vieirasaul) | ██░░░░ |  | ⌛
 [Thales Paim Fachinelli](#thalesfachinelli) | ████░░ |  | ⌛
