@@ -100,7 +100,7 @@ nome | skills | back to the fight?
 {{ range $.Site.Data.software_engineers }}
 ### 🥷 {{ .name }} <a id="{{ .github }}"></a>
 
-{{ .seniority }}: {{ .skills }}
+{{ .seniority }}: {{ title .skills }}
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/{{ .github }})
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/{{ .linkedin }}/)
@@ -121,7 +121,7 @@ nome | skills | back to the fight?
 
 ### 🥷 {{ .name }} <a id="{{ .linkedin }}"></a>
 
-{{ .skills }}
+{{ title .skills }}
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/{{ .linkedin }}/)
 {{ range .testmonials }}
