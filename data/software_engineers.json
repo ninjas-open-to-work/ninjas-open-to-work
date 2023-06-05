@@ -490,7 +490,17 @@
     "github": "Romulomga",
     "linkedin": "romulomga",
     "seniority": "senior",
-    "skills": "js,python,go,php"
+    "skills": "xcode,swift",
+    "testmonials": [
+      {
+        "text": "Romulo é um profissional excelente, faz o ambiente ficar muito mais leve. Tá sempre disposto a ajudar qualquer um com o que precisar. É uma pessoa muito compentente!",
+        "author": {
+          "name": "Daniel Pucciariello",
+          "link": "https://github.com/danielpucci",
+          "relation": "Tech Lead"
+        }
+      }
+    ]
   },
   {
     "name": "Saul Vieira",
