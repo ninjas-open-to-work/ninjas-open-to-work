@@ -14,72 +14,11 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 <hr />
 
-<!--
-Você pode usar nas habilidades:
-
-mobile:
-androidstudio
-firebase
-flutter
-java
-kotlin
-swift
-webflow
-webpack
-
-web:
-angular
-aws
-bash
-bootstrap
-c
-cmake
-coffeescript
-cpp
-cs
-css
-deno
-django
-docker
-dotnet
-electron
-elixir
-flask
-go
-graphql
-jquery
-js
-lua
-md
-mongodb
-mysql
-nestjs
-nginx
-nodejs
-php
-postgres
-prometheus
-python
-rabbitmq
-rails
-react
-redis
-ruby
-rust
-scala
-spring
-sqlite
-symfony
-typescript
-vue
-wordpress
--->
-
 ## Índice de Engenheiros de Software Ninjas <a id="se_index"></a>
 
 Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
-[Adrian Dellatorre](#dellatorreadrian) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
+[Adrian Dellatorre](#dellatorreadrian) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=php,cpp,java,postgres,go,git" /> | ⌛
 [Alex Tavares](#alex-tavares) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Anderson Reis Souto](#andersonpensephp) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,python,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
 [André Dias](#andrediasgustavo) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
@@ -146,7 +85,7 @@ nome | skills | back to the fight?
 
 ### 🥷 Adrian Dellatorre <a id="dellatorreadrian"></a> [☝️](#se_index)
 
-🛡️🗡️: Js, Python, Go, Php
+🛡️🗡️: 
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dellatorreadrian)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adrian-dellatorre/)

@@ -14,67 +14,6 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 <hr />
 
-<!--
-Você pode usar nas habilidades:
-
-mobile:
-androidstudio
-firebase
-flutter
-java
-kotlin
-swift
-webflow
-webpack
-
-web:
-angular
-aws
-bash
-bootstrap
-c
-cmake
-coffeescript
-cpp
-cs
-css
-deno
-django
-docker
-dotnet
-electron
-elixir
-flask
-go
-graphql
-jquery
-js
-lua
-md
-mongodb
-mysql
-nestjs
-nginx
-nodejs
-php
-postgres
-prometheus
-python
-rabbitmq
-rails
-react
-redis
-ruby
-rust
-scala
-spring
-sqlite
-symfony
-typescript
-vue
-wordpress
--->
-
 ## Índice de Engenheiros de Software Ninjas <a id="se_index"></a>
 
 Nome | Senioridade | Habilidades | De volta à luta?
