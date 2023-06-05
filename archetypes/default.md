@@ -18,7 +18,7 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
-{{ range $.Site.Data.software_engineers }}[{{ .name }}](#{{ .github }}) | {{ if eq .seniority.level "junior" }}██░░░░{{ else if eq .seniority.level "intermediate" }}████░░{{ else if eq .seniority.level "senior" }}██████{{ end }} | {{ with .skill_badges }}<img src="https://skillicons.dev/icons?perline=9&theme=dark&i={{ . }}" />{{end}} | {{ if .hired }}✅✅✅{{ else }}⌛{{ end }}
+{{ range $.Site.Data.software_engineers }}[{{ .name }}](#{{ lower .github }}) | {{ if eq .seniority.level "junior" }}██░░░░{{ else if eq .seniority.level "intermediate" }}████░░{{ else if eq .seniority.level "senior" }}██████{{ end }} | {{ with .skill_badges }}<img src="https://skillicons.dev/icons?perline=9&theme=dark&i={{ . }}" />{{end}} | {{ if .hired }}✅✅✅{{ else }}⌛{{ end }}
 {{ end }}
 
 ## Índice de Gerentes de Projeto Ninjas <a id="pm_index"></a>
@@ -34,7 +34,7 @@ nome | skills | back to the fight?
 ## Engenheiros de Software Ninjas
 
 {{ range $.Site.Data.software_engineers }}
-### 🥷 {{ .name }} <a id="{{ .github }}"></a> [☝️](#se_index)
+### 🥷 {{ .name }} <a id="{{ lower .github }}"></a> [☝️](#se_index)
 
 {{ with .skills }}🛡️🗡️: {{ title . }}
 {{end}}

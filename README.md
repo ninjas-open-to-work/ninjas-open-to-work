@@ -22,52 +22,52 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Alex Tavares](#alex-tavares) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,js,ts" /> | ⌛
 [Anderson Reis Souto](#andersonpensephp) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,php,python,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
 [André Dias](#andrediasgustavo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
-[André Luiz Da Costa Torres](#ALCTorres) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=php,go" /> | ⌛
+[André Luiz Da Costa Torres](#alctorres) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=php,go" /> | ⌛
 [Arthur Givigir](#arthurgivigir) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
-[Bernardo Aragão](#HDBenosx10) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,css,ts,html,docker,bash,go,postgres,nextjs,mongodb,redis,mysql,prisma,docker" /> | ⌛
+[Bernardo Aragão](#hdbenosx10) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,css,ts,html,docker,bash,go,postgres,nextjs,mongodb,redis,mysql,prisma,docker" /> | ⌛
 [Caroline Aquistapace](#aquistapace) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,php,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
-[Charles Schiavinato](#CharlesSchiavinato) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,docker,go" /> | ⌛
+[Charles Schiavinato](#charlesschiavinato) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,docker,go" /> | ⌛
 [Diogo Machado](#diogomachado1) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go,redis,docker,js,ts,nodejs,express,react,php,python" /> | ⌛
 [Efraim Andrade](#efraim-andrade) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=vue,firebase,ts,nodejs,js,nextjs,html,css,java,dart,ruby,python,react,styledcomponents,jquery,jest" /> | ⌛
 [Fabio Akira Takahashi](#akirafabio) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [Felipe Metson](#duchometson) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=flask,sqlite,python,cs,angular,django,go,c" /> | ⌛
 [Felipe Alves Betts](#felipebetts) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,react,nodejs,docker" /> | ⌛
-[Fellipe Maia](#FellipeMaia) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=mongodb,jest,nodejs,js,aws,elixir" /> | ⌛
-[Fernando Erd](#Fernando-Erd) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=c,python,html,cpp,js,bash,ruby,vim,docker,go,mongodb" /> | ⌛
-[Francisco Castro](#FranciscoBBC) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,typescript,php,wordpress,jquery,react,nodejs,graphql,mysql,mongodb,redis,docker" /> | ⌛
+[Fellipe Maia](#fellipemaia) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=mongodb,jest,nodejs,js,aws,elixir" /> | ⌛
+[Fernando Erd](#fernando-erd) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=c,python,html,cpp,js,bash,ruby,vim,docker,go,mongodb" /> | ⌛
+[Francisco Castro](#franciscobbc) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,typescript,php,wordpress,jquery,react,nodejs,graphql,mysql,mongodb,redis,docker" /> | ⌛
 [Gabriel Nascimento](#gabrielrnascimento) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,js,css,html,python,bash,docker,postgres" /> | ⌛
-[Gabriel Barbosa](#Garbosa) | ██░░░░ |  | ⌛
+[Gabriel Barbosa](#garbosa) | ██░░░░ |  | ⌛
 [Giovanni Severo](#giosvro) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
-[Guilherme Melo](#Mufolk) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular,nodejs,mongodb,react,python,java,js,c,html,css,cpp,ts,vue,fortran,react,nextjs" /> | ⌛
+[Guilherme Melo](#mufolk) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular,nodejs,mongodb,react,python,java,js,c,html,css,cpp,ts,vue,fortran,react,nextjs" /> | ⌛
 [Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,nodejs,react,js" /> | ⌛
-[Gustavo Presa Rosa](#gustavoPresa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python,js,redis,docker,java,django,html,css,postgres,graphql,mysql,go" /> | ⌛
-[Igor Guimaraes Veludo](#IgorVeludo2) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,js,css,html,nest,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express" /> | ⌛
-[Igor Imperiali](#Imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,flutter,vue,express,python,java,react," /> | ⌛
+[Gustavo Presa Rosa](#gustavopresa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python,js,redis,docker,java,django,html,css,postgres,graphql,mysql,go" /> | ⌛
+[Igor Guimaraes Veludo](#igorveludo2) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,js,css,html,nest,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express" /> | ⌛
+[Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,flutter,vue,express,python,java,react," /> | ⌛
 [José Ribeiro](#jtonynet) | ████░░ |  | ⌛
 [José Vinicius](#jviniciusoliveira) | ██░░░░ |  | ⌛
 [Lucas Carvalho De Vasconcellos](#lcarvalho94) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,php,cs,nodejs,react,mysql,mongodb,redis,docker" /> | ⌛
-[Lucas Scherpel](#Scherpel) | ████░░ |  | ⌛
+[Lucas Scherpel](#scherpel) | ████░░ |  | ⌛
 [Lucas Cavalheiro](#lgcavalheiro) | ██░░░░ |  | ⌛
 [Luis Fernando Fontoura Spaniol](#lffspaniol) | ██████ |  | ⌛
 [Marcos Dissotti](#marcosdissotti) | ████░░ |  | ⌛
 [Mateus Barbosa](#mateusxis) | ████░░ |  | ⌛
 [Matheus Baldas](#mbaldas) | ██░░░░ |  | ⌛
-[Matheus Pelegrinetti](#Pelegrinetti) | ████░░ |  | ⌛
+[Matheus Pelegrinetti](#pelegrinetti) | ████░░ |  | ⌛
 [Mayara Lima](#mayaralima22) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,flask,go,mysql" /> | ⌛
 [Moises Santos](#mdeosjr) | ██░░░░ |  | ⌛
 [Pamela Santos](#pamelasantoss) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,next,html,wordpress" /> | ⌛
-[Pedro Resende Da Silva](#pedr-oResende) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio,kotlin" /> | ✅✅✅
-[Rafael Blemer](#Rblemer) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio,kotlin" /> | ⌛
+[Pedro Resende Da Silva](#pedr-oresende) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio,kotlin" /> | ✅✅✅
+[Rafael Blemer](#rblemer) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio,kotlin" /> | ⌛
 [Rafael Lima](#rafaellrf09) | ██░░░░ |  | ⌛
 [Raphael Carvalho](#zraphael) | ██░░░░ |  | ⌛
 [Rodrigo Oliveira](#rodrigosdo) | ██████ |  | ⌛
 [Rodrigo Cortezi](#rodrigovcortezi) | ██░░░░ |  | ⌛
-[Romulo Monteiro](#Romulomga) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
+[Romulo Monteiro](#romulomga) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [Saul Vieira](#vieirasaul) | ██░░░░ |  | ⌛
-[Thales Paim Fachinelli](#ThalesFachinelli) | ████░░ |  | ⌛
+[Thales Paim Fachinelli](#thalesfachinelli) | ████░░ |  | ⌛
 [Thiago Assis](#assisthiago) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,php,python,flask,django,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
 [Vinicius Nunes](#viniciusnuunes) | ████░░ |  | ⌛
-[Yan Mello](#YDoro) | ██░░░░ |  | ⌛
+[Yan Mello](#ydoro) | ██░░░░ |  | ⌛
 
 
 ## Índice de Gerentes de Projeto Ninjas <a id="pm_index"></a>
@@ -142,7 +142,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=andrediasgustavo)
 <hr />
 
-### 🥷 André Luiz Da Costa Torres <a id="ALCTorres"></a> [☝️](#se_index)
+### 🥷 André Luiz Da Costa Torres <a id="alctorres"></a> [☝️](#se_index)
 
 
 
@@ -170,7 +170,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=arthurgivigir)
 <hr />
 
-### 🥷 Bernardo Aragão <a id="HDBenosx10"></a> [☝️](#se_index)
+### 🥷 Bernardo Aragão <a id="hdbenosx10"></a> [☝️](#se_index)
 
 
 
@@ -201,7 +201,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=aquistapace)
 <hr />
 
-### 🥷 Charles Schiavinato <a id="CharlesSchiavinato"></a> [☝️](#se_index)
+### 🥷 Charles Schiavinato <a id="charlesschiavinato"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Docker, Go
 
@@ -285,7 +285,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=felipebetts)
 <hr />
 
-### 🥷 Fellipe Maia <a id="FellipeMaia"></a> [☝️](#se_index)
+### 🥷 Fellipe Maia <a id="fellipemaia"></a> [☝️](#se_index)
 
 
 
@@ -300,7 +300,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=FellipeMaia)
 <hr />
 
-### 🥷 Fernando Erd <a id="Fernando-Erd"></a> [☝️](#se_index)
+### 🥷 Fernando Erd <a id="fernando-erd"></a> [☝️](#se_index)
 
 
 
@@ -312,7 +312,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Fernando-Erd)
 <hr />
 
-### 🥷 Francisco Castro <a id="FranciscoBBC"></a> [☝️](#se_index)
+### 🥷 Francisco Castro <a id="franciscobbc"></a> [☝️](#se_index)
 
 🛡️🗡️: HTML, CSS, JS, Typescript, PHP, Wordpress, JQuery, React, NodeJs, GraphQL, MySQL, MongoDB, Redis, Docker
 
@@ -340,7 +340,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gabrielrnascimento)
 <hr />
 
-### 🥷 Gabriel Barbosa <a id="Garbosa"></a> [☝️](#se_index)
+### 🥷 Gabriel Barbosa <a id="garbosa"></a> [☝️](#se_index)
 
 
 
@@ -368,7 +368,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=giosvro)
 <hr />
 
-### 🥷 Guilherme Melo <a id="Mufolk"></a> [☝️](#se_index)
+### 🥷 Guilherme Melo <a id="mufolk"></a> [☝️](#se_index)
 
 
 
@@ -395,7 +395,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gustavobrayn)
 <hr />
 
-### 🥷 Gustavo Presa Rosa <a id="gustavoPresa"></a> [☝️](#se_index)
+### 🥷 Gustavo Presa Rosa <a id="gustavopresa"></a> [☝️](#se_index)
 
 
 
@@ -407,7 +407,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gustavoPresa)
 <hr />
 
-### 🥷 Igor Guimaraes Veludo <a id="IgorVeludo2"></a> [☝️](#se_index)
+### 🥷 Igor Guimaraes Veludo <a id="igorveludo2"></a> [☝️](#se_index)
 
 
 
@@ -419,7 +419,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=IgorVeludo2)
 <hr />
 
-### 🥷 Igor Imperiali <a id="Imperiali"></a> [☝️](#se_index)
+### 🥷 Igor Imperiali <a id="imperiali"></a> [☝️](#se_index)
 
 
 
@@ -474,7 +474,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lcarvalho94)
 <hr />
 
-### 🥷 Lucas Scherpel <a id="Scherpel"></a> [☝️](#se_index)
+### 🥷 Lucas Scherpel <a id="scherpel"></a> [☝️](#se_index)
 
 
 
@@ -549,7 +549,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mbaldas)
 <hr />
 
-### 🥷 Matheus Pelegrinetti <a id="Pelegrinetti"></a> [☝️](#se_index)
+### 🥷 Matheus Pelegrinetti <a id="pelegrinetti"></a> [☝️](#se_index)
 
 
 
@@ -614,7 +614,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=pamelasantoss)
 <hr />
 
-### 🥷 Pedro Resende Da Silva <a id="pedr-oResende"></a> [☝️](#se_index)
+### 🥷 Pedro Resende Da Silva <a id="pedr-oresende"></a> [☝️](#se_index)
 
 🛡️🗡️: Androidstudio, Kotlin
 
@@ -630,7 +630,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=pedr-oResende)
 <hr />
 
-### 🥷 Rafael Blemer <a id="Rblemer"></a> [☝️](#se_index)
+### 🥷 Rafael Blemer <a id="rblemer"></a> [☝️](#se_index)
 
 🛡️🗡️: Androidstudio, Kotlin
 
@@ -694,7 +694,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rodrigovcortezi)
 <hr />
 
-### 🥷 Romulo Monteiro <a id="Romulomga"></a> [☝️](#se_index)
+### 🥷 Romulo Monteiro <a id="romulomga"></a> [☝️](#se_index)
 
 🛡️🗡️: Xcode, Swift
 
@@ -725,7 +725,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=vieirasaul)
 <hr />
 
-### 🥷 Thales Paim Fachinelli <a id="ThalesFachinelli"></a> [☝️](#se_index)
+### 🥷 Thales Paim Fachinelli <a id="thalesfachinelli"></a> [☝️](#se_index)
 
 
 
@@ -765,7 +765,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=viniciusnuunes)
 <hr />
 
-### 🥷 Yan Mello <a id="YDoro"></a> [☝️](#se_index)
+### 🥷 Yan Mello <a id="ydoro"></a> [☝️](#se_index)
 
 
 
