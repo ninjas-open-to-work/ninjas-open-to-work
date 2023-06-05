@@ -749,7 +749,7 @@
       "level": "senior"
     },
     "subtitle": "",
-    "skill_badges": "",
+    "skill_badges": "go,python,redis,aws,php,mysql,postgres,docker,gcp",
     "skills": "",
     "hired": false
   },
