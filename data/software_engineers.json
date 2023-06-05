@@ -131,7 +131,17 @@
     "github": "akirafabio",
     "linkedin": "akirafabio",
     "seniority": "senior",
-    "skills": "js,python,go,php"
+    "skills": "xcode,swift",
+    "testmonials": [
+      {
+        "text": "Akira é um profissional completo, tanto na parte de desenvolvimento como de entendimento do produto. Muito curioso para entender e melhorar tudo que participa. Profissional de alta qualidade!",
+        "author": {
+          "name": "Daniel Pucciariello",
+          "link": "https://github.com/danielpucci",
+          "relation": "Tech Lead"
+        }
+      }
+    ]
   },
   {
     "name": "Felipe Metson",
