@@ -435,7 +435,17 @@
     "github": "Rblemer",
     "linkedin": "rafael-blemer-8b278b138",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skills": "androidstudio,kotlin",
+    "testmonials": [
+      {
+        "text": "Rafael começou conosco e tinha bem pouca experiência, mas muita vontade de aprender e fazer acontecer. Se desenvolveu muito no tempo que trabalhamos juntos e foi incrível ver o seu desenvolvimento. Tem sempre muitas idéias de como fazer as coisas e está sempre disponível para ajudar seus colegas.",
+        "author": {
+          "name": "Daniel Pucciariello",
+          "link": "https://github.com/danielpucci",
+          "relation": "Tech Lead"
+        }
+      }
+    ]
   },
   {
     "name": "Rafael Lima",
