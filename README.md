@@ -46,7 +46,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [José Ribeiro](#jtonynet) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python,mysql,php,go,mongodb,redis" /> | ⌛
 [José Vinicius](#jviniciusoliveira) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs,js,react,php,jquery,cs,aws" /> | ⌛
 [Lucas Carvalho De Vasconcellos](#lcarvalho94) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,php,cs,nodejs,react,mysql,mongodb,redis,docker" /> | ⌛
-[Lucas Scherpel](#scherpel) | ████░░ |  | ⌛
+[Lucas Scherpel](#scherpel) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs,react,react,flutter,python,go" /> | ⌛
 [Lucas Cavalheiro](#lgcavalheiro) | ██░░░░ |  | ⌛
 [Luis Fernando Fontoura Spaniol](#lffspaniol) | ██████ |  | ⌛
 [Marcos Dissotti](#marcosdissotti) | ████░░ |  | ⌛
