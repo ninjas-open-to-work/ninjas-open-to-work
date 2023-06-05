@@ -34,8 +34,18 @@
     "name": "André Dias",
     "github": "andrediasgustavo",
     "linkedin": "andregustavodias",
-    "seniority": "intermediate",
-    "skills": "androidstudio,swift,kotlin,firebase"
+    "seniority": "senior",
+    "skills": "xcode,swift",
+    "testmonials": [
+      {
+        "text": "André é uma pessoa incrivelmente ágil para resolver problemas de qualquer tamanho. Muito competente com as entregas e sempre disponível para ajudar seus colegas de trabalho",
+        "author": {
+          "name": "Daniel Pucciariello",
+          "link": "https://github.com/danielpucci",
+          "relation": "Tech Lead"
+        }
+      }
+    ]
   },
   {
     "name": "André Luiz Da Costa Torres",
