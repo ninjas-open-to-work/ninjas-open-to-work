@@ -88,7 +88,7 @@ nome | skills | back to the fight?
 {{ range $.Site.Data.project_managers }}[{{ .name }}](#{{ .linkedin }}) | {{ .skills }} | ⌛
 {{ end }}
 
-<hr />
+<hr class="hr" />
 {{ if $.Site.Data.software_engineers }}
 
 ## Engenheiros de Software Ninjas
@@ -107,7 +107,7 @@ nome | skills | back to the fight?
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username={{ .github }})
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username={{ .github }})
-<hr />
+<hr class="hr" />
 {{ end }}{{ end }}{{ if $.Site.Data.project_managers }}
 ## Gerentes de Projeto Ninjas
 {{ range $.Site.Data.project_managers }}
@@ -119,7 +119,7 @@ nome | skills | back to the fight?
 {{ range .testmonials }}
 <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _{{ .text }}_\
 **- [{{ .author.name }}]({{ .author.link }}), {{ .author.relation }}**
-{{ end }}<hr />{{ end }}{{ end }}
+{{ end }}<hr class="hr" />{{ end }}{{ end }}
 
 ## Insígnias de habilidades
 
@@ -133,4 +133,5 @@ nome | skills | back to the fight?
 <style>
 h2   {padding: 50px 0 50px 0;}
 hr   {padding: 50px 0 50px 0;}
+.hr   {padding: 50px 0 50px 0;}
 </style>
