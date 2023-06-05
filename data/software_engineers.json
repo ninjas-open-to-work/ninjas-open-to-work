@@ -3,7 +3,10 @@
     "name": "Adrian Dellatorre",
     "github": "dellatorreadrian",
     "linkedin": "adrian-dellatorre",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -11,7 +14,10 @@
     "name": "Alex Tavares",
     "github": "alex-tavares",
     "linkedin": "alex-tavares",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php",
     "testmonials": [
@@ -29,7 +35,10 @@
     "name": "Anderson Reis Souto",
     "github": "andersonpensephp",
     "linkedin": "andersonfront",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "html,css,js,php,python,jquery,react,nodejs,mysql,mongodb,redis,docker",
     "testmonials": [
@@ -47,7 +56,10 @@
     "name": "André Dias",
     "github": "andrediasgustavo",
     "linkedin": "andregustavodias",
-    "seniority": "senior",
+    "seniority": {
+      "level": "senior",
+      "description": ""
+    },
     "skill_badges": "swift",
     "skills": "xcode, swift",
     "testmonials": [
@@ -65,7 +77,10 @@
     "name": "André Luiz Da Costa Torres",
     "github": "ALCTorres",
     "linkedin": "andr%C3%A9-luiz-da-costa-torres-874b0546",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -73,7 +88,10 @@
     "name": "Arthur Givigir",
     "github": "arthurgivigir",
     "linkedin": "arthur-givigir-b4a64a66",
-    "seniority": "senior",
+    "seniority": {
+      "level": "senior",
+      "description": ""
+    },
     "skill_badges": "swift",
     "skills": "xcode, swift",
     "testmonials": [
@@ -91,7 +109,10 @@
     "name": "Bernardo Aragão",
     "github": "HDBenosx10",
     "linkedin": "aragao-dev",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php",
     "testmonials": [
@@ -109,7 +130,10 @@
     "name": "Caroline Aquistapace",
     "github": "aquistapace",
     "linkedin": "caroline-aquistapace-07095231",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "html,css,js,php,jquery,react,nodejs,mysql,mongodb,redis,docker",
     "testmonials": [
@@ -127,7 +151,10 @@
     "name": "Charles Schiavinato",
     "github": "CharlesSchiavinato",
     "linkedin": "charles-schiavinato-b973b239",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,docker,go",
     "skills": "js, docker, go",
     "testmonials": [
@@ -145,7 +172,10 @@
     "name": "Diogo Machado",
     "github": "diogomachado1",
     "linkedin": "diogo-machado-807747187",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -153,7 +183,10 @@
     "name": "Efraim Andrade",
     "github": "efraim-andrade",
     "linkedin": "efraim-andrade-517b0a149",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -161,7 +194,10 @@
     "name": "Fabio Akira Takahashi",
     "github": "akirafabio",
     "linkedin": "akirafabio",
-    "seniority": "senior",
+    "seniority": {
+      "level": "senior",
+      "description": ""
+    },
     "skill_badges": "swift",
     "skills": "xcode, swift",
     "testmonials": [
@@ -179,7 +215,10 @@
     "name": "Felipe Metson",
     "github": "duchometson",
     "linkedin": "felipe-metson-b9b758148",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -187,7 +226,10 @@
     "name": "Felipe Alves Betts",
     "github": "felipebetts",
     "linkedin": "felipe-betts",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "html,css,js,react,nodejs,docker",
     "testmonials": [
@@ -205,7 +247,10 @@
     "name": "Fellipe Maia",
     "github": "FellipeMaia",
     "linkedin": "fellipe-maia",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php",
     "testmonials": [
@@ -223,7 +268,10 @@
     "name": "Fernando Erd",
     "github": "Fernando-Erd",
     "linkedin": "fernandoerd",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -231,7 +279,10 @@
     "name": "Francisco Castro",
     "github": "FranciscoBBC",
     "linkedin": "francisco-castro-330a95123",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "html,css,js,typescript,php,wordpress,jquery,react,nodejs,graphql,mysql,mongodb,redis,docker",
     "testmonials": [
@@ -249,7 +300,10 @@
     "name": "Gabriel Nascimento",
     "github": "gabrielrnascimento",
     "linkedin": "gabriel-nascimento-525700124",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -257,7 +311,10 @@
     "name": "Gabriel Barbosa",
     "github": "Garbosa",
     "linkedin": "gabrieln-barbosa",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -265,7 +322,10 @@
     "name": "Giovanni Severo",
     "github": "giosvro",
     "linkedin": "giovanni-severo",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "swift",
     "skills": "xcode, swift",
     "testmonials": [
@@ -283,7 +343,10 @@
     "name": "Guilherme Melo",
     "github": "Mufolk",
     "linkedin": "guilhermemelo138",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -291,7 +354,10 @@
     "name": "Gustavo Augusto Brayn",
     "github": "gustavobrayn",
     "linkedin": "gustavobrayn",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php",
     "testmonials": [
@@ -309,7 +375,10 @@
     "name": "Gustavo Presa Rosa",
     "github": "gustavoPresa",
     "linkedin": "gustavo-presa-rosa",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -317,7 +386,10 @@
     "name": "Igor Guimaraes Veludo",
     "github": "IgorVeludo2",
     "linkedin": "igorveludo",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -325,7 +397,10 @@
     "name": "Igor Imperiali",
     "github": "Imperiali",
     "linkedin": "igor-imperiali",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -333,7 +408,10 @@
     "name": "José Ribeiro",
     "github": "jtonynet",
     "linkedin": "jos%C3%A9-r-99896a39",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -341,7 +419,10 @@
     "name": "José Vinicius",
     "github": "jviniciusoliveira",
     "linkedin": "jose-vinicius-os",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php",
     "testmonials": [
@@ -359,7 +440,10 @@
     "name": "Lucas Carvalho De Vasconcellos",
     "github": "lcarvalho94",
     "linkedin": "lcarvalho94",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "html,css,js,php,c#,nodejs,react,mysql,mongodb,redis,docker",
     "testmonials": [
@@ -377,7 +461,10 @@
     "name": "Lucas Scherpel",
     "github": "Scherpel",
     "linkedin": "lucas-scherpel-902116136",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -385,7 +472,10 @@
     "name": "Lucas Cavalheiro",
     "github": "lgcavalheiro",
     "linkedin": "lgcavalheiro",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -393,7 +483,10 @@
     "name": "Luis Fernando Fontoura Spaniol",
     "github": "lffspaniol",
     "linkedin": "lffspaniol",
-    "seniority": "senior",
+    "seniority": {
+      "level": "senior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -401,7 +494,10 @@
     "name": "Marcos Dissotti",
     "github": "marcosdissotti",
     "linkedin": "marcosdissotti",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -409,7 +505,10 @@
     "name": "Mateus Barbosa",
     "github": "mateusxis",
     "linkedin": "mateusxis",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php",
     "testmonials": [
@@ -427,7 +526,10 @@
     "name": "Matheus Baldas",
     "github": "mbaldas",
     "linkedin": "matheusbaldas",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -435,7 +537,10 @@
     "name": "Matheus Pelegrinetti",
     "github": "Pelegrinetti",
     "linkedin": "matheus-pelegrinetti",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php",
     "testmonials": [
@@ -461,7 +566,10 @@
     "name": "Mayara Lima",
     "github": "mayaralima22",
     "linkedin": "limay",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "docker,flask,go,mysql",
     "skills": "docker, flask, go, mysql",
     "testmonials": [
@@ -479,7 +587,10 @@
     "name": "Moises Santos",
     "github": "mdeosjr",
     "linkedin": "moisesjr",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php",
     "testmonials": [
@@ -497,7 +608,10 @@
     "name": "Pamela Santos",
     "github": "pamelasantoss",
     "linkedin": "pamela-santos-frontend",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "react,next,html,wordpress",
     "skills": "react, next, html, wordpress",
     "testmonials": [
@@ -515,7 +629,10 @@
     "name": "Pedro Resende Da Silva",
     "github": "pedr-oResende",
     "linkedin": "pedro-resende-da-silva-228384177",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "androidstudio,kotlin",
     "skills": "androidstudio, kotlin",
     "testmonials": [
@@ -533,7 +650,10 @@
     "name": "Rafael Blemer",
     "github": "Rblemer",
     "linkedin": "rafael-blemer-8b278b138",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "androidstudio,kotlin",
     "skills": "androidstudio, kotlin",
     "testmonials": [
@@ -551,7 +671,10 @@
     "name": "Rafael Lima",
     "github": "rafaellrf09",
     "linkedin": "rafaellrf",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -559,7 +682,10 @@
     "name": "Raphael Carvalho",
     "github": "zraphael",
     "linkedin": "raphael-de-carvalho",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -567,7 +693,10 @@
     "name": "Rodrigo Oliveira",
     "github": "rodrigosdo",
     "linkedin": "rodrigosdo",
-    "seniority": "senior",
+    "seniority": {
+      "level": "senior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -575,7 +704,10 @@
     "name": "Rodrigo Cortezi",
     "github": "rodrigovcortezi",
     "linkedin": "rodrigo-cortezi",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -583,7 +715,10 @@
     "name": "Romulo Monteiro",
     "github": "Romulomga",
     "linkedin": "romulomga",
-    "seniority": "senior",
+    "seniority": {
+      "level": "senior",
+      "description": ""
+    },
     "skill_badges": "swift",
     "skills": "xcode, swift",
     "testmonials": [
@@ -601,7 +736,10 @@
     "name": "Saul Vieira",
     "github": "vieirasaul",
     "linkedin": "vieirasaul",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php",
     "testmonials": [
@@ -619,7 +757,10 @@
     "name": "Thales Paim Fachinelli",
     "github": "ThalesFachinelli",
     "linkedin": "thales-paim-fachinelli-b8b455b4",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -627,7 +768,10 @@
     "name": "Thiago Assis",
     "github": "assisthiago",
     "linkedin": "thiagomassis",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "html,css,js,php,python,flask,django,jquery,react,nodejs,mysql,mongodb,redis,docker",
     "testmonials": [
@@ -645,7 +789,10 @@
     "name": "Vinicius Nunes",
     "github": "viniciusnuunes",
     "linkedin": "viniciuspnunes",
-    "seniority": "intermediate",
+    "seniority": {
+      "level": "intermediate",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   },
@@ -653,7 +800,10 @@
     "name": "Yan Mello",
     "github": "YDoro",
     "linkedin": "yan-mello-1a6429127",
-    "seniority": "junior",
+    "seniority": {
+      "level": "junior",
+      "description": ""
+    },
     "skill_badges": "js,python,go,php",
     "skills": "js, python, go, php"
   }
