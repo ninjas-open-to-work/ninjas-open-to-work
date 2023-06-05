@@ -19,7 +19,7 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
 [Adrian Dellatorre](#dellatorreadrian) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=php,cpp,java,postgres,go,git" /> | ⌛
-[Alex Tavares](#alex-tavares) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
+[Alex Tavares](#alex-tavares) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=react,js,ts" /> | ⌛
 [Anderson Reis Souto](#andersonpensephp) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,python,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
 [André Dias](#andrediasgustavo) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
 [André Luiz Da Costa Torres](#ALCTorres) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
@@ -97,7 +97,7 @@ nome | skills | back to the fight?
 
 ### 🥷 Alex Tavares <a id="alex-tavares"></a> [☝️](#se_index)
 
-🛡️🗡️: Js, Python, Go, Php
+🛡️🗡️: 
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/alex-tavares)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alex-tavares/)
