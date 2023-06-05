@@ -129,6 +129,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Vinicius Nunes](#viniciusnuunes) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Yan Mello](#YDoro) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 
+<hr class="hr" />
 
 ## Índice de Gerentes de Projeto Ninjas
 

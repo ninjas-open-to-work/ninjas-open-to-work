@@ -80,6 +80,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
 {{ range $.Site.Data.software_engineers }}[{{ .name }}](#{{ .github }}) | {{ if eq .seniority "junior" }}██░░░░{{ else if eq .seniority "intermediate" }}████░░{{ else if eq .seniority "senior" }}██████{{ end }} | <img height="22" src="https://skillicons.dev/icons?theme=dark&i={{ .skill_badges }}" /> | ⌛
 {{ end }}
+<hr class="hr" />
 
 ## Índice de Gerentes de Projeto Ninjas
 
