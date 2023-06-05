@@ -59,7 +59,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Pedro Resende Da Silva](#pedr-oresende) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio,kotlin" /> | ✅✅✅
 [Rafael Blemer](#rblemer) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio,kotlin" /> | ⌛
 [Rafael Lima](#rafaellrf09) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go,nest,graphql,mongodb,spring,vue,php,laravel,nodejs,java" /> | ⌛
-[Raphael Carvalho](#zraphael) | ██░░░░ |  | ⌛
+[Raphael Carvalho](#zraphael) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,css,html,ts,solidity,go,python,bash,webpack,styledcomponents,react,nodejs,aws,java,cs,sequelize" /> | ⌛
 [Rodrigo Oliveira](#rodrigosdo) | ██████ |  | ⌛
 [Rodrigo Cortezi](#rodrigovcortezi) | ██░░░░ |  | ⌛
 [Romulo Monteiro](#romulomga) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
