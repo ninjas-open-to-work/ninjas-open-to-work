@@ -80,7 +80,7 @@ wordpress
 
 Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
-{{ range $.Site.Data.software_engineers }}[{{ .name }}](#{{ .github }}) | {{ if eq .seniority "junior" }}██░░░░{{ else if eq .seniority "intermediate" }}████░░{{ else if eq .seniority "senior" }}██████{{ end }} | <img height="22" src="https://skillicons.dev/icons?theme=dark&i={{ .skill_badges }}" /> | ⌛
+{{ range $.Site.Data.software_engineers }}[{{ .name }}](#{{ .github }}) | {{ if eq .seniority.level "junior" }}██░░░░{{ else if eq .seniority.level "intermediate" }}████░░{{ else if eq .seniority.level "senior" }}██████{{ end }} | <img height="22" src="https://skillicons.dev/icons?theme=dark&i={{ .skill_badges }}" /> | {{ if .hired }}✅{{ else }}⌛{{ end }}
 {{ end }}
 
 ## Índice de Gerentes de Projeto Ninjas
@@ -98,8 +98,9 @@ nome | skills | back to the fight?
 {{ range $.Site.Data.software_engineers }}
 ### 🥷 {{ .name }} <a id="{{ .github }}"></a>
 
-{{ .seniority }}: {{ title .skills }}
-
+🛡️🗡️: {{ title .skills }}
+{{ with .seniority.description }}📜: {{ . }}
+{{ end }}
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/{{ .github }})
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/{{ .linkedin }}/)
 {{ range .testmonials }}
