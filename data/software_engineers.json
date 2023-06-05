@@ -428,7 +428,17 @@
     "github": "pedr-oResende",
     "linkedin": "pedro-resende-da-silva-228384177",
     "seniority": "junior",
-    "skills": "js,python,go,php"
+    "skills": "androidstudio,kotlin",
+    "testmonials": [
+      {
+        "text": "Pedro é uma pessoa com um potencial incrível, tivemos pouco tempo trabalhando juntos, mesmo assim pude notar que é bem atualizado.",
+        "author": {
+          "name": "Daniel Pucciariello",
+          "link": "https://github.com/danielpucci",
+          "relation": "Tech Lead"
+        }
+      }
+    ]
   },
   {
     "name": "Rafael Blemer",
