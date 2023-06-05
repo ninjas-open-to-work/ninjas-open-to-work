@@ -821,8 +821,8 @@ PMO, Agile
 
 - Traduções de depoimentos podem ser feitas sem a revisão dos autores. Parte do significado pode ser perdido na tradução. Textos originais serão marcados com a insígnia <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />.
 
-<style>
+<style type="text/css">
 h2   {padding: 50px 0 50px 0;}
-hr   {padding: 50px 0 50px 0;}
-.hr   {padding: 50px 0 50px 0;}
+hr   {padding: 50px 0 50px 0; border: 1px solid;}
+.hr   {padding: 50px 0 50px 0; border: 1px solid;}
 </style>
