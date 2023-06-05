@@ -44,7 +44,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Igor Guimaraes Veludo](#igorveludo2) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,js,css,html,nest,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express" /> | ⌛
 [Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,flutter,vue,express,python,java,react" /> | ⌛
 [José Ribeiro](#jtonynet) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python,mysql,php,go,mongodb,redis" /> | ⌛
-[José Vinicius](#jviniciusoliveira) | ██░░░░ |  | ⌛
+[José Vinicius](#jviniciusoliveira) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs,js,react,php,jquery,cs,aws" /> | ⌛
 [Lucas Carvalho De Vasconcellos](#lcarvalho94) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,php,cs,nodejs,react,mysql,mongodb,redis,docker" /> | ⌛
 [Lucas Scherpel](#scherpel) | ████░░ |  | ⌛
 [Lucas Cavalheiro](#lgcavalheiro) | ██░░░░ |  | ⌛
