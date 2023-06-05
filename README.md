@@ -51,7 +51,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Luis Fernando Fontoura Spaniol](#lffspaniol) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go,python,angular,mysql,prometheus" /> | ⌛
 [Marcos Dissotti](#marcosdissotti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,redux,ts,js,styledcomponents,cs,gcp" /> | ⌛
 [Mateus Barbosa](#mateusxis) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs,react,express,mongodb,graphql,python,django" /> | ⌛
-[Matheus Baldas](#mbaldas) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,ts,cssnginx,docker,webpack,jest,cs,nodejs,nextjs,php" /> | ⌛
+[Matheus Baldas](#mbaldas) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,ts,css,nginx,docker,webpack,jest,cs,nodejs,nextjs,php" /> | ⌛
 [Matheus Pelegrinetti](#pelegrinetti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,ts,js,css,nextjs" /> | ⌛
 [Mayara Lima](#mayaralima22) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,flask,go,mysql,python,vue,rabbitmq,cs,js,java,kotlin,mongodb" /> | ⌛
 [Moises Santos](#mdeosjr) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,ts,html,css,bash,java,nodejs,react,nextjs,docker,redis" /> | ⌛
@@ -66,7 +66,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Saul Vieira](#vieirasaul) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,styledcomponents,webpack,ts,js,nodejs" /> | ⌛
 [Thales Paim Fachinelli](#thalesfachinelli) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,mongodb,kotlin,spring,cs,dotnet,nodejs,react,kubernetes,java" /> | ⌛
 [Thiago Assis](#assisthiago) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,php,python,flask,django,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
-[Vinicius Nunes](#viniciusnuunes) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=dotnet,cs,python,kotlin,,gulp,docker,redis,js,mysql,mongodb,ts,nodejs,gitlab" /> | ⌛
+[Vinicius Nunes](#viniciusnuunes) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=dotnet,cs,python,kotlin,gulp,docker,redis,js,mysql,mongodb,ts,nodejs,gitlab" /> | ⌛
 [Yan Mello](#ydoro) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs,ts,laravel,php,selenium,docker,mongodb,yarn,husky,python,mysql,react" /> | ⌛
 
 
