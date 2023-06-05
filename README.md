@@ -30,7 +30,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Diogo Machado](#diogomachado1) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=go,redis,docker,js,ts,nodejs,express,react,php,python" /> | ⌛
 [Efraim Andrade](#efraim-andrade) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=vue,firebase,ts,nodejs,js,nextjs,html,css,java,dart,ruby,python,react,styledcomponents,jquery,jest" /> | ⌛
 [Fabio Akira Takahashi](#akirafabio) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
-[Felipe Metson](#duchometson) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
+[Felipe Metson](#duchometson) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=flask,sqlite,python,cs,angular,django,go,c" /> | ⌛
 [Felipe Alves Betts](#felipebetts) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,react,nodejs,docker" /> | ⌛
 [Fellipe Maia](#FellipeMaia) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
 [Fernando Erd](#Fernando-Erd) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
