@@ -41,7 +41,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Guilherme Melo](#Mufolk) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=angular,nodejs,mongodb,react,python,java,js,c,html,css,cpp,ts,vue,fortran,react,nextjs" /> | ⌛
 [Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=ts,nodejs,react,js" /> | ⌛
 [Gustavo Presa Rosa](#gustavoPresa) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=python,js,redis,docker,java,django,html,css,postgres,graphql,mysql,go" /> | ⌛
-[Igor Guimaraes Veludo](#IgorVeludo2) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
+[Igor Guimaraes Veludo](#IgorVeludo2) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=ts,js,css,html,nest,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express" /> | ⌛
 [Igor Imperiali](#Imperiali) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
 [José Ribeiro](#jtonynet) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
 [José Vinicius](#jviniciusoliveira) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛

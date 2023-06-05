@@ -413,7 +413,7 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "",
+    "skill_badges": "ts,js,css,html,nest,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express",
     "skills": "",
     "hired": false
   },
