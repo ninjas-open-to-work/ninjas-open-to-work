@@ -332,9 +332,19 @@
     "seniority": {
       "level": "junior"
     },
+    "testmonials": [
+      {
+        "text": "Gabriel é um ótimo desenvolvedor, que trabalha muito bem em equipe, assume as missões entregadas a ele da melhor forma, procurando sempre desenvolver seguindo as melhores praticas e orientações. Participou de uma reimplantação de SAP Business One onde atuou em diversas frentes, como desenvolvimento backend e frontend de integrações, e addons internos no SAP B1, e por ultimo criação de relatórios em SQL e HANA para o SAP B1.",
+        "author": {
+          "name": "Paulo Sérgio da Silva Jr.",
+          "link": "https://www.linkedin.com/paulsrgiojr",
+          "relation": "Tech Lead"
+        }
+      }
+    ],
+    "skill_badges": "js,nodejs,mysql,sqlserver,C#, HANA, SAP B1",
+    "skills": "JS, NodeJs, MySQL, SQLServer, C#, HANA, SAP B1",
     "subtitle": "",
-    "skill_badges": "",
-    "skills": "",
     "hired": false
   },
   {
