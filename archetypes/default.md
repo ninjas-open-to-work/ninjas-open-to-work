@@ -36,7 +36,8 @@ nome | skills | back to the fight?
 {{ range $.Site.Data.software_engineers }}
 ### 🥷 {{ .name }} <a id="{{ .github }}"></a> [☝️](#se_index)
 
-🛡️🗡️: {{ title .skills }}
+{{ with .skills }}🛡️🗡️: {{ title . }}
+{{end}}
 {{ with .subtitle }}📜: {{ . }}
 {{ end }}
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/{{ .github }})
