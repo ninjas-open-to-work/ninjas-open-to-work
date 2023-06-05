@@ -35,7 +35,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Fellipe Maia](#FellipeMaia) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=mongodb,jest,nodejs,js,aws,elixir" /> | ⌛
 [Fernando Erd](#Fernando-Erd) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=c,python,html,cpp,js,bash,ruby,vim,docker,go,mongodb" /> | ⌛
 [Francisco Castro](#FranciscoBBC) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,typescript,php,wordpress,jquery,react,nodejs,graphql,mysql,mongodb,redis,docker" /> | ⌛
-[Gabriel Nascimento](#gabrielrnascimento) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
+[Gabriel Nascimento](#gabrielrnascimento) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=ts,js,css,html,python,bash,docker,postgres" /> | ⌛
 [Gabriel Barbosa](#Garbosa) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
 [Giovanni Severo](#giosvro) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
 [Guilherme Melo](#Mufolk) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
