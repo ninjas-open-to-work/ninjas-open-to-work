@@ -22,7 +22,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Alex Tavares](#alex-tavares) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=react,js,ts" /> | ⌛
 [Anderson Reis Souto](#andersonpensephp) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,python,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
 [André Dias](#andrediasgustavo) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
-[André Luiz Da Costa Torres](#ALCTorres) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
+[André Luiz Da Costa Torres](#ALCTorres) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=php,go" /> | ⌛
 [Arthur Givigir](#arthurgivigir) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
 [Bernardo Aragão](#HDBenosx10) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
 [Caroline Aquistapace](#aquistapace) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
