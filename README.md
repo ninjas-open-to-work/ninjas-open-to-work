@@ -12,7 +12,7 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 ██████ - _sênior_
 
-<hr class="hr" />
+<hr />
 
 ## Índice de Engenheiros de Software Ninjas
 
@@ -139,7 +139,7 @@ nome | skills | back to the fight?
 [Camila Ribeiro](#camila-ribeiro-01299992) | PMO, Agile | ⌛
 
 
-<hr class="hr" />
+<hr />
 
 
 ## Engenheiros de Software Ninjas
@@ -155,7 +155,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=dellatorreadrian)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=dellatorreadrian)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Alex Tavares <a id="alex-tavares"></a>
 
@@ -170,7 +170,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=alex-tavares)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=alex-tavares)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Anderson Reis Souto <a id="andersonpensephp"></a>
 
@@ -182,7 +182,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=andersonpensephp)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=andersonpensephp)
-<hr class="hr" />
+<hr />
 
 ### 🥷 André Dias <a id="andrediasgustavo"></a>
 
@@ -197,7 +197,7 @@ senior: Xcode, Swift
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=andrediasgustavo)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=andrediasgustavo)
-<hr class="hr" />
+<hr />
 
 ### 🥷 André Luiz Da Costa Torres <a id="ALCTorres"></a>
 
@@ -209,7 +209,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=ALCTorres)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=ALCTorres)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Arthur Givigir <a id="arthurgivigir"></a>
 
@@ -224,7 +224,7 @@ senior: Xcode, Swift
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=arthurgivigir)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=arthurgivigir)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Bernardo Aragão <a id="HDBenosx10"></a>
 
@@ -239,7 +239,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=HDBenosx10)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=HDBenosx10)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Caroline Aquistapace <a id="aquistapace"></a>
 
@@ -251,7 +251,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=aquistapace)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=aquistapace)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Charles Schiavinato <a id="CharlesSchiavinato"></a>
 
@@ -266,7 +266,7 @@ intermediate: Js, Docker, Go
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=CharlesSchiavinato)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=CharlesSchiavinato)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Diogo Machado <a id="diogomachado1"></a>
 
@@ -278,7 +278,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=diogomachado1)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=diogomachado1)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Efraim Andrade <a id="efraim-andrade"></a>
 
@@ -290,7 +290,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=efraim-andrade)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=efraim-andrade)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Fabio Akira Takahashi <a id="akirafabio"></a>
 
@@ -305,7 +305,7 @@ senior: Xcode, Swift
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=akirafabio)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=akirafabio)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Felipe Metson <a id="duchometson"></a>
 
@@ -317,7 +317,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=duchometson)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=duchometson)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Felipe Alves Betts <a id="felipebetts"></a>
 
@@ -329,7 +329,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=felipebetts)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=felipebetts)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Fellipe Maia <a id="FellipeMaia"></a>
 
@@ -344,7 +344,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=FellipeMaia)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=FellipeMaia)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Fernando Erd <a id="Fernando-Erd"></a>
 
@@ -356,7 +356,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Fernando-Erd)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Fernando-Erd)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Francisco Castro <a id="FranciscoBBC"></a>
 
@@ -368,7 +368,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=FranciscoBBC)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=FranciscoBBC)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Gabriel Nascimento <a id="gabrielrnascimento"></a>
 
@@ -380,7 +380,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=gabrielrnascimento)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gabrielrnascimento)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Gabriel Barbosa <a id="Garbosa"></a>
 
@@ -392,7 +392,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Garbosa)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Garbosa)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Giovanni Severo <a id="giosvro"></a>
 
@@ -407,7 +407,7 @@ intermediate: Xcode, Swift
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=giosvro)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=giosvro)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Guilherme Melo <a id="Mufolk"></a>
 
@@ -419,7 +419,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Mufolk)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Mufolk)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Gustavo Augusto Brayn <a id="gustavobrayn"></a>
 
@@ -434,7 +434,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=gustavobrayn)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gustavobrayn)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Gustavo Presa Rosa <a id="gustavoPresa"></a>
 
@@ -446,7 +446,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=gustavoPresa)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gustavoPresa)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Igor Guimaraes Veludo <a id="IgorVeludo2"></a>
 
@@ -458,7 +458,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=IgorVeludo2)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=IgorVeludo2)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Igor Imperiali <a id="Imperiali"></a>
 
@@ -470,7 +470,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Imperiali)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Imperiali)
-<hr class="hr" />
+<hr />
 
 ### 🥷 José Ribeiro <a id="jtonynet"></a>
 
@@ -482,7 +482,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=jtonynet)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=jtonynet)
-<hr class="hr" />
+<hr />
 
 ### 🥷 José Vinicius <a id="jviniciusoliveira"></a>
 
@@ -497,7 +497,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=jviniciusoliveira)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=jviniciusoliveira)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Lucas Carvalho De Vasconcellos <a id="lcarvalho94"></a>
 
@@ -509,7 +509,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=lcarvalho94)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lcarvalho94)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Lucas Scherpel <a id="Scherpel"></a>
 
@@ -521,7 +521,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Scherpel)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Scherpel)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Lucas Cavalheiro <a id="lgcavalheiro"></a>
 
@@ -533,7 +533,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=lgcavalheiro)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lgcavalheiro)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Luis Fernando Fontoura Spaniol <a id="lffspaniol"></a>
 
@@ -545,7 +545,7 @@ senior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=lffspaniol)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lffspaniol)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Marcos Dissotti <a id="marcosdissotti"></a>
 
@@ -557,7 +557,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=marcosdissotti)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=marcosdissotti)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Mateus Barbosa <a id="mateusxis"></a>
 
@@ -572,7 +572,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mateusxis)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mateusxis)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Matheus Baldas <a id="mbaldas"></a>
 
@@ -584,7 +584,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mbaldas)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mbaldas)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Matheus Pelegrinetti <a id="Pelegrinetti"></a>
 
@@ -602,7 +602,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Pelegrinetti)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Pelegrinetti)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Mayara Lima <a id="mayaralima22"></a>
 
@@ -617,7 +617,7 @@ intermediate: Docker, Flask, Go, Mysql
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mayaralima22)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mayaralima22)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Moises Santos <a id="mdeosjr"></a>
 
@@ -632,7 +632,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mdeosjr)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mdeosjr)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Pamela Santos <a id="pamelasantoss"></a>
 
@@ -647,7 +647,7 @@ junior: React, Next, Html, Wordpress
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=pamelasantoss)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=pamelasantoss)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Pedro Resende Da Silva <a id="pedr-oResende"></a>
 
@@ -662,7 +662,7 @@ junior: Androidstudio, Kotlin
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=pedr-oResende)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=pedr-oResende)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Rafael Blemer <a id="Rblemer"></a>
 
@@ -677,7 +677,7 @@ junior: Androidstudio, Kotlin
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Rblemer)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Rblemer)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Rafael Lima <a id="rafaellrf09"></a>
 
@@ -689,7 +689,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=rafaellrf09)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rafaellrf09)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Raphael Carvalho <a id="zraphael"></a>
 
@@ -701,7 +701,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=zraphael)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=zraphael)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Rodrigo Oliveira <a id="rodrigosdo"></a>
 
@@ -713,7 +713,7 @@ senior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=rodrigosdo)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rodrigosdo)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Rodrigo Cortezi <a id="rodrigovcortezi"></a>
 
@@ -725,7 +725,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=rodrigovcortezi)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rodrigovcortezi)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Romulo Monteiro <a id="Romulomga"></a>
 
@@ -740,7 +740,7 @@ senior: Xcode, Swift
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Romulomga)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Romulomga)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Saul Vieira <a id="vieirasaul"></a>
 
@@ -755,7 +755,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=vieirasaul)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=vieirasaul)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Thales Paim Fachinelli <a id="ThalesFachinelli"></a>
 
@@ -767,7 +767,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=ThalesFachinelli)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=ThalesFachinelli)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Thiago Assis <a id="assisthiago"></a>
 
@@ -779,7 +779,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=assisthiago)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=assisthiago)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Vinicius Nunes <a id="viniciusnuunes"></a>
 
@@ -791,7 +791,7 @@ intermediate: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=viniciusnuunes)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=viniciusnuunes)
-<hr class="hr" />
+<hr />
 
 ### 🥷 Yan Mello <a id="YDoro"></a>
 
@@ -803,7 +803,7 @@ junior: Js, Python, Go, Php
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=YDoro)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=YDoro)
-<hr class="hr" />
+<hr />
 
 ## Gerentes de Projeto Ninjas
 
@@ -812,7 +812,7 @@ junior: Js, Python, Go, Php
 PMO, Agile
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/camila-ribeiro-01299992/)
-<hr class="hr" />
+<hr />
 
 ## Insígnias de habilidades
 
@@ -822,9 +822,3 @@ PMO, Agile
 ## Disclaimers
 
 - Traduções de depoimentos podem ser feitas sem a revisão dos autores. Parte do significado pode ser perdido na tradução. Textos originais serão marcados com a insígnia <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />.
-
-<style type="text/css">
-h2   {padding: 50px 0 50px 0;}
-hr   {padding: 50px 0 50px 0; border: 1px solid;}
-.hr   {padding: 50px 0 50px 0; border: 1px solid;}
-</style>
