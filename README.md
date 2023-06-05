@@ -63,7 +63,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Rodrigo Oliveira](#rodrigosdo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go,python,redis,aws,php,mysql,postgres,docker,gcp" /> | ⌛
 [Rodrigo Cortezi](#rodrigovcortezi) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,nodejs,c,python,ruby,go" /> | ⌛
 [Romulo Monteiro](#romulomga) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
-[Saul Vieira](#vieirasaul) | ██░░░░ |  | ⌛
+[Saul Vieira](#vieirasaul) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,styledcomponents,webpack,ts,js,nodejs" /> | ⌛
 [Thales Paim Fachinelli](#thalesfachinelli) | ████░░ |  | ⌛
 [Thiago Assis](#assisthiago) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,php,python,flask,django,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
 [Vinicius Nunes](#viniciusnuunes) | ████░░ |  | ⌛
