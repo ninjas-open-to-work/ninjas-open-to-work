@@ -36,14 +36,14 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Fernando Erd](#fernando-erd) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=c,python,html,cpp,js,bash,ruby,vim,docker,go,mongodb" /> | ⌛
 [Francisco Castro](#franciscobbc) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,typescript,php,wordpress,jquery,react,nodejs,graphql,mysql,mongodb,redis,docker" /> | ⌛
 [Gabriel Nascimento](#gabrielrnascimento) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,js,css,html,python,bash,docker,postgres" /> | ⌛
-[Gabriel Barbosa](#garbosa) | ██░░░░ |  | ⌛
+[Gabriel Barbosa](#garbosa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,nodejs,mysql,cs" /> | ⌛
 [Giovanni Severo](#giosvro) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [Guilherme Melo](#mufolk) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular,nodejs,mongodb,react,python,java,js,c,html,css,cpp,ts,vue,fortran,react,nextjs" /> | ⌛
 [Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,nodejs,react,js" /> | ⌛
 [Gustavo Presa Rosa](#gustavopresa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python,js,redis,docker,java,django,html,css,postgres,graphql,mysql,go" /> | ⌛
 [Igor Guimaraes Veludo](#igorveludo2) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,js,css,html,nest,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express" /> | ⌛
-[Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,flutter,vue,express,python,java,react," /> | ⌛
-[José Ribeiro](#jtonynet) | ████░░ |  | ⌛
+[Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,flutter,vue,express,python,java,react" /> | ⌛
+[José Ribeiro](#jtonynet) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python,mysql,php,go,mongodb,redis" /> | ⌛
 [José Vinicius](#jviniciusoliveira) | ██░░░░ |  | ⌛
 [Lucas Carvalho De Vasconcellos](#lcarvalho94) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,php,cs,nodejs,react,mysql,mongodb,redis,docker" /> | ⌛
 [Lucas Scherpel](#scherpel) | ████░░ |  | ⌛
@@ -342,10 +342,14 @@ nome | skills | back to the fight?
 
 ### 🥷 Gabriel Barbosa <a id="garbosa"></a> [☝️](#se_index)
 
+🛡️🗡️: JS, NodeJs, MySQL, SQLServer, C#, HANA, SAP B1
 
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Garbosa)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrieln-barbosa/)
+
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Gabriel é um ótimo desenvolvedor, que trabalha muito bem em equipe, assume as missões entregadas a ele da melhor forma, procurando sempre desenvolver seguindo as melhores praticas e orientações. Participou de uma reimplantação de SAP Business One onde atuou em diversas frentes, como desenvolvimento backend e frontend de integrações, e addons internos no SAP B1, e por ultimo criação de relatórios em SQL e HANA para o SAP B1._\
+**- [Paulo Sérgio da Silva Jr.](https://www.linkedin.com/paulsrgiojr), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Garbosa)
 

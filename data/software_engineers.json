@@ -342,7 +342,7 @@
         }
       }
     ],
-    "skill_badges": "js,nodejs,mysql,sqlserver,C#, HANA, SAP B1",
+    "skill_badges": "js,nodejs,mysql,cs",
     "skills": "JS, NodeJs, MySQL, SQLServer, C#, HANA, SAP B1",
     "subtitle": "",
     "hired": false
@@ -435,7 +435,7 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "docker,flutter,vue,express,python,java,react,",
+    "skill_badges": "docker,flutter,vue,express,python,java,react",
     "skills": "",
     "hired": false
   },
@@ -447,7 +447,7 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "",
+    "skill_badges": "python,mysql,php,go,mongodb,redis",
     "skills": "",
     "hired": false
   },
