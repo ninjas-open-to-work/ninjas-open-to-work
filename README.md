@@ -82,21 +82,21 @@ Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
 [Adrian Dellatorre](#dellatorreadrian) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Alex Tavares](#alex-tavares) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Anderson Reis Souto](#andersonpensephp) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
+[Anderson Reis Souto](#andersonpensephp) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,python,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
 [André Dias](#andrediasgustavo) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
 [André Luiz Da Costa Torres](#ALCTorres) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Arthur Givigir](#arthurgivigir) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
 [Bernardo Aragão](#HDBenosx10) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Caroline Aquistapace](#aquistapace) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
+[Caroline Aquistapace](#aquistapace) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
 [Charles Schiavinato](#CharlesSchiavinato) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,docker,go" /> | ⌛
 [Diogo Machado](#diogomachado1) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Efraim Andrade](#efraim-andrade) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Fabio Akira Takahashi](#akirafabio) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
 [Felipe Metson](#duchometson) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Felipe Alves Betts](#felipebetts) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
+[Felipe Alves Betts](#felipebetts) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,react,nodejs,docker" /> | ⌛
 [Fellipe Maia](#FellipeMaia) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Fernando Erd](#Fernando-Erd) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Francisco Castro](#FranciscoBBC) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
+[Francisco Castro](#FranciscoBBC) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,typescript,php,wordpress,jquery,react,nodejs,graphql,mysql,mongodb,redis,docker" /> | ⌛
 [Gabriel Nascimento](#gabrielrnascimento) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Gabriel Barbosa](#Garbosa) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Giovanni Severo](#giosvro) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
@@ -107,7 +107,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Igor Imperiali](#Imperiali) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [José Ribeiro](#jtonynet) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [José Vinicius](#jviniciusoliveira) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Lucas Carvalho De Vasconcellos](#lcarvalho94) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
+[Lucas Carvalho De Vasconcellos](#lcarvalho94) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,cs,nodejs,react,mysql,mongodb,redis,docker" /> | ⌛
 [Lucas Scherpel](#Scherpel) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Lucas Cavalheiro](#lgcavalheiro) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Luis Fernando Fontoura Spaniol](#lffspaniol) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
@@ -127,7 +127,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Romulo Monteiro](#Romulomga) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
 [Saul Vieira](#vieirasaul) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Thales Paim Fachinelli](#ThalesFachinelli) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
-[Thiago Assis](#assisthiago) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
+[Thiago Assis](#assisthiago) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,python,flask,django,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
 [Vinicius Nunes](#viniciusnuunes) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 [Yan Mello](#YDoro) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,python,go,php" /> | ⌛
 
@@ -174,7 +174,7 @@ nome | skills | back to the fight?
 
 ### 🥷 Anderson Reis Souto <a id="andersonpensephp"></a>
 
-🛡️🗡️: Html,css,js,php,python,jquery,react,nodejs,mysql,mongodb,redis,docker
+🛡️🗡️: HTML, CSS, JS, PHP, Python, JQuery, React, NodeJs, MySQL, MongoDB, Redis, Docker
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andersonpensephp)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andersonfront/)
@@ -246,7 +246,7 @@ nome | skills | back to the fight?
 
 ### 🥷 Caroline Aquistapace <a id="aquistapace"></a>
 
-🛡️🗡️: Html,css,js,php,jquery,react,nodejs,mysql,mongodb,redis,docker
+🛡️🗡️: HTML, CSS, JS, PHP, JQuery, React, NodeJs, MySQL, MongoDB, Redis, Docker
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aquistapace)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/caroline-aquistapace-07095231/)
@@ -327,7 +327,7 @@ nome | skills | back to the fight?
 
 ### 🥷 Felipe Alves Betts <a id="felipebetts"></a>
 
-🛡️🗡️: Html,css,js,react,nodejs,docker
+🛡️🗡️: HTML, CSS, JS, React, NodeJS, Docker
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/felipebetts)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipe-betts/)
@@ -369,7 +369,7 @@ nome | skills | back to the fight?
 
 ### 🥷 Francisco Castro <a id="FranciscoBBC"></a>
 
-🛡️🗡️: Html,css,js,typescript,php,wordpress,jquery,react,nodejs,graphql,mysql,mongodb,redis,docker
+🛡️🗡️: HTML, CSS, JS, Typescript, PHP, Wordpress, JQuery, React, NodeJs, GraphQL, MySQL, MongoDB, Redis, Docker
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/FranciscoBBC)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francisco-castro-330a95123/)
@@ -513,7 +513,7 @@ nome | skills | back to the fight?
 
 ### 🥷 Lucas Carvalho De Vasconcellos <a id="lcarvalho94"></a>
 
-🛡️🗡️: Html,css,js,php,c#,nodejs,react,mysql,mongodb,redis,docker
+🛡️🗡️: HTML, CSS, JS, PHP, C#, NodeJs, React, MySQL, MongoDB, Redis, Docker
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lcarvalho94)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lcarvalho94/)
@@ -786,7 +786,7 @@ nome | skills | back to the fight?
 
 ### 🥷 Thiago Assis <a id="assisthiago"></a>
 
-🛡️🗡️: Html,css,js,php,python,flask,django,jquery,react,nodejs,mysql,mongodb,redis,docker
+🛡️🗡️: HTML, CSS, JS, PHP, Python, Flask, Django, JQuery, Nodejs, MySQL, MongoDB, Redis, Docker
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/assisthiago)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thiagomassis/)
