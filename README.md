@@ -18,56 +18,56 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
-[Adrian Dellatorre](#dellatorreadrian) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=php,cpp,java,postgres,go,git" /> | ⌛
-[Alex Tavares](#alex-tavares) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=react,js,ts" /> | ⌛
-[Anderson Reis Souto](#andersonpensephp) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,python,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
-[André Dias](#andrediasgustavo) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
-[André Luiz Da Costa Torres](#ALCTorres) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=php,go" /> | ⌛
-[Arthur Givigir](#arthurgivigir) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
-[Bernardo Aragão](#HDBenosx10) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,css,ts,html,docker,bash,go,postgres,nextjs,mongodb,redis,mysql,prisma,docker" /> | ⌛
-[Caroline Aquistapace](#aquistapace) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
-[Charles Schiavinato](#CharlesSchiavinato) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=js,docker,go" /> | ⌛
-[Diogo Machado](#diogomachado1) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=go,redis,docker,js,ts,nodejs,express,react,php,python" /> | ⌛
-[Efraim Andrade](#efraim-andrade) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=vue,firebase,ts,nodejs,js,nextjs,html,css,java,dart,ruby,python,react,styledcomponents,jquery,jest" /> | ⌛
-[Fabio Akira Takahashi](#akirafabio) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
-[Felipe Metson](#duchometson) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=flask,sqlite,python,cs,angular,django,go,c" /> | ⌛
-[Felipe Alves Betts](#felipebetts) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,react,nodejs,docker" /> | ⌛
-[Fellipe Maia](#FellipeMaia) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=mongodb,jest,nodejs,js,aws,elixir" /> | ⌛
-[Fernando Erd](#Fernando-Erd) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=c,python,html,cpp,js,bash,ruby,vim,docker,go,mongodb" /> | ⌛
-[Francisco Castro](#FranciscoBBC) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,typescript,php,wordpress,jquery,react,nodejs,graphql,mysql,mongodb,redis,docker" /> | ⌛
-[Gabriel Nascimento](#gabrielrnascimento) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=ts,js,css,html,python,bash,docker,postgres" /> | ⌛
-[Gabriel Barbosa](#Garbosa) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Giovanni Severo](#giosvro) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
-[Guilherme Melo](#Mufolk) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=angular,nodejs,mongodb,react,python,java,js,c,html,css,cpp,ts,vue,fortran,react,nextjs" /> | ⌛
-[Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=ts,nodejs,react,js" /> | ⌛
-[Gustavo Presa Rosa](#gustavoPresa) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=python,js,redis,docker,java,django,html,css,postgres,graphql,mysql,go" /> | ⌛
-[Igor Guimaraes Veludo](#IgorVeludo2) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=ts,js,css,html,nest,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express" /> | ⌛
-[Igor Imperiali](#Imperiali) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=docker,flutter,vue,express,python,java,react," /> | ⌛
-[José Ribeiro](#jtonynet) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[José Vinicius](#jviniciusoliveira) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Lucas Carvalho De Vasconcellos](#lcarvalho94) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,cs,nodejs,react,mysql,mongodb,redis,docker" /> | ⌛
-[Lucas Scherpel](#Scherpel) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Lucas Cavalheiro](#lgcavalheiro) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Luis Fernando Fontoura Spaniol](#lffspaniol) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Marcos Dissotti](#marcosdissotti) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Mateus Barbosa](#mateusxis) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Matheus Baldas](#mbaldas) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Matheus Pelegrinetti](#Pelegrinetti) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Mayara Lima](#mayaralima22) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=docker,flask,go,mysql" /> | ⌛
-[Moises Santos](#mdeosjr) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Pamela Santos](#pamelasantoss) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=react,next,html,wordpress" /> | ⌛
-[Pedro Resende Da Silva](#pedr-oResende) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=androidstudio,kotlin" /> | ✅✅✅
-[Rafael Blemer](#Rblemer) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=androidstudio,kotlin" /> | ⌛
-[Rafael Lima](#rafaellrf09) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Raphael Carvalho](#zraphael) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Rodrigo Oliveira](#rodrigosdo) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Rodrigo Cortezi](#rodrigovcortezi) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Romulo Monteiro](#Romulomga) | ██████ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=swift" /> | ⌛
-[Saul Vieira](#vieirasaul) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Thales Paim Fachinelli](#ThalesFachinelli) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Thiago Assis](#assisthiago) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,php,python,flask,django,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
-[Vinicius Nunes](#viniciusnuunes) | ████░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
-[Yan Mello](#YDoro) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?theme=dark&i=" /> | ⌛
+[Adrian Dellatorre](#dellatorreadrian) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=php,cpp,java,postgres,go,git" /> | ⌛
+[Alex Tavares](#alex-tavares) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=react,js,ts" /> | ⌛
+[Anderson Reis Souto](#andersonpensephp) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=html,css,js,php,python,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
+[André Dias](#andrediasgustavo) | ██████ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=swift" /> | ⌛
+[André Luiz Da Costa Torres](#ALCTorres) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=php,go" /> | ⌛
+[Arthur Givigir](#arthurgivigir) | ██████ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=swift" /> | ⌛
+[Bernardo Aragão](#HDBenosx10) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=js,css,ts,html,docker,bash,go,postgres,nextjs,mongodb,redis,mysql,prisma,docker" /> | ⌛
+[Caroline Aquistapace](#aquistapace) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=html,css,js,php,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
+[Charles Schiavinato](#CharlesSchiavinato) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=js,docker,go" /> | ⌛
+[Diogo Machado](#diogomachado1) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=go,redis,docker,js,ts,nodejs,express,react,php,python" /> | ⌛
+[Efraim Andrade](#efraim-andrade) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=vue,firebase,ts,nodejs,js,nextjs,html,css,java,dart,ruby,python,react,styledcomponents,jquery,jest" /> | ⌛
+[Fabio Akira Takahashi](#akirafabio) | ██████ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=swift" /> | ⌛
+[Felipe Metson](#duchometson) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=flask,sqlite,python,cs,angular,django,go,c" /> | ⌛
+[Felipe Alves Betts](#felipebetts) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=html,css,js,react,nodejs,docker" /> | ⌛
+[Fellipe Maia](#FellipeMaia) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=mongodb,jest,nodejs,js,aws,elixir" /> | ⌛
+[Fernando Erd](#Fernando-Erd) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=c,python,html,cpp,js,bash,ruby,vim,docker,go,mongodb" /> | ⌛
+[Francisco Castro](#FranciscoBBC) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=html,css,js,typescript,php,wordpress,jquery,react,nodejs,graphql,mysql,mongodb,redis,docker" /> | ⌛
+[Gabriel Nascimento](#gabrielrnascimento) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=ts,js,css,html,python,bash,docker,postgres" /> | ⌛
+[Gabriel Barbosa](#Garbosa) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Giovanni Severo](#giosvro) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=swift" /> | ⌛
+[Guilherme Melo](#Mufolk) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=angular,nodejs,mongodb,react,python,java,js,c,html,css,cpp,ts,vue,fortran,react,nextjs" /> | ⌛
+[Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=ts,nodejs,react,js" /> | ⌛
+[Gustavo Presa Rosa](#gustavoPresa) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=python,js,redis,docker,java,django,html,css,postgres,graphql,mysql,go" /> | ⌛
+[Igor Guimaraes Veludo](#IgorVeludo2) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=ts,js,css,html,nest,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express" /> | ⌛
+[Igor Imperiali](#Imperiali) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=docker,flutter,vue,express,python,java,react," /> | ⌛
+[José Ribeiro](#jtonynet) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[José Vinicius](#jviniciusoliveira) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Lucas Carvalho De Vasconcellos](#lcarvalho94) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=html,css,js,php,cs,nodejs,react,mysql,mongodb,redis,docker" /> | ⌛
+[Lucas Scherpel](#Scherpel) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Lucas Cavalheiro](#lgcavalheiro) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Luis Fernando Fontoura Spaniol](#lffspaniol) | ██████ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Marcos Dissotti](#marcosdissotti) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Mateus Barbosa](#mateusxis) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Matheus Baldas](#mbaldas) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Matheus Pelegrinetti](#Pelegrinetti) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Mayara Lima](#mayaralima22) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=docker,flask,go,mysql" /> | ⌛
+[Moises Santos](#mdeosjr) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Pamela Santos](#pamelasantoss) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=react,next,html,wordpress" /> | ⌛
+[Pedro Resende Da Silva](#pedr-oResende) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=androidstudio,kotlin" /> | ✅✅✅
+[Rafael Blemer](#Rblemer) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=androidstudio,kotlin" /> | ⌛
+[Rafael Lima](#rafaellrf09) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Raphael Carvalho](#zraphael) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Rodrigo Oliveira](#rodrigosdo) | ██████ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Rodrigo Cortezi](#rodrigovcortezi) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Romulo Monteiro](#Romulomga) | ██████ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=swift" /> | ⌛
+[Saul Vieira](#vieirasaul) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Thales Paim Fachinelli](#ThalesFachinelli) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Thiago Assis](#assisthiago) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=html,css,js,php,python,flask,django,jquery,react,nodejs,mysql,mongodb,redis,docker" /> | ⌛
+[Vinicius Nunes](#viniciusnuunes) | ████░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
+[Yan Mello](#YDoro) | ██░░░░ | <img height="22" src="https://skillicons.dev/icons?perline=12&theme=dark&i=" /> | ⌛
 
 
 ## Índice de Gerentes de Projeto Ninjas <a id="pm_index"></a>
