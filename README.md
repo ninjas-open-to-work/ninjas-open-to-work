@@ -54,7 +54,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Matheus Baldas](#mbaldas) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,ts,cssnginx,docker,webpack,jest,cs,nodejs,nextjs,php" /> | ⌛
 [Matheus Pelegrinetti](#pelegrinetti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,ts,js,css,nextjs" /> | ⌛
 [Mayara Lima](#mayaralima22) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,flask,go,mysql,python,vue,rabbitmq,cs,js,java,kotlin,mongodb" /> | ⌛
-[Moises Santos](#mdeosjr) | ██░░░░ |  | ⌛
+[Moises Santos](#mdeosjr) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,ts,html,css,bash,java,nodejs,react,nextjs,docker,redis" /> | ⌛
 [Pamela Santos](#pamelasantoss) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,next,html,wordpress" /> | ⌛
 [Pedro Resende Da Silva](#pedr-oresende) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio,kotlin" /> | ✅✅✅
 [Rafael Blemer](#rblemer) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio,kotlin" /> | ⌛
