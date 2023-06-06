@@ -342,8 +342,8 @@
         }
       }
     ],
-    "skill_badges": "js,nodejs,mysql,cs",
-    "skills": "JS, NodeJs, MySQL, SQLServer, C#, HANA, SAP B1",
+    "skill_badges": "js,nodejs,mysql,cs,react",
+    "skills": "JS, NodeJs, React, MySQL, SQLServer, C#, HANA, SAP B1",
     "subtitle": "",
     "hired": false
   },
