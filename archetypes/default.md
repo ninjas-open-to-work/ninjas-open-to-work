@@ -90,6 +90,16 @@ nome | skills | back to the fight?
 {{ end }}
 
 <hr />
+
+## Índice de Designers de Produto Ninjas <a id="pd_index"></a>
+
+nome | skills | back to the fight?
+--- | --- | :--:
+{{ range $.Site.Data.product_designers }}{{ if .linkedin }}[{{ .name }}](#{{ .linkedin }}){{ else }}**{{ .name }}**{{ end }} | {{ .skills }} | ⌛
+{{ end }}
+
+<hr />
+
 {{ if $.Site.Data.software_engineers }}
 
 ## Engenheiros de Software Ninjas
@@ -110,6 +120,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username={{ .github }})
 <hr />
+
 {{ end }}{{ end }}{{ if $.Site.Data.project_managers }}
 ## Gerentes de Projeto Ninjas
 {{ range $.Site.Data.project_managers }}
@@ -121,7 +132,22 @@ nome | skills | back to the fight?
 {{ range .testmonials }}
 <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _{{ .text }}_\
 **- [{{ .author.name }}]({{ .author.link }}), {{ .author.relation }}**
-{{ end }}<hr />{{ end }}{{ end }}
+{{ end }}<hr />
+
+{{ end }}{{ end }}{{ if $.Site.Data.product_designers }}
+## Designers de Produto Ninjas
+{{ range $.Site.Data.product_designers }}
+### 🥷 {{ .name }} <a id="{{ .linkedin }}"></a>
+
+{{ title .skills }}
+
+{{ if .linkedin }}[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/{{ .linkedin }}/){{ end }}
+{{ range .testmonials }}
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _{{ .text }}_\
+**- [{{ .author.name }}]({{ .author.link }}), {{ .author.relation }}**
+{{ end }}<hr />
+
+{{ end }}{{ end }}
 
 ## Insígnias de habilidades
 

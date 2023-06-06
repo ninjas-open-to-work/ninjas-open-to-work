@@ -140,6 +140,34 @@ nome | skills | back to the fight?
 
 <hr />
 
+## Índice de Designers de Produto Ninjas <a id="pd_index"></a>
+
+nome | skills | back to the fight?
+--- | --- | :--:
+[Andressa Soares Silva Vasconcellos](#unknow) | Figma, UX, UI | ⌛
+**Beatriz De Lima Santos** | Figma, UX, UI | ⌛
+**Clara Gomes Baluz Pereira** | Figma, UX, UI | ⌛
+**Francine Da Rocha Tavares** | Figma, UX, UI | ⌛
+**Goubert Rodrigues Da Silva Carneiro** | Figma, UX, UI | ⌛
+**Guilherme Alves Ostolim Totoli** | Figma, UX, UI | ⌛
+**Iara Amaral Alves** | Figma, UX, UI | ⌛
+[Isabel Cristina Alves Oliveira](#isabellvs) | Figma, UX, UI, Hotjar, Pesquisa de experiência do usuário, Design Thinking, Wireframes, Design de Interface do Usuário, Design de Interação, Design Detalhado, Sistemas de Design, Usabilidade | ⌛
+**Ligia Nater Henemann** | Figma, UX, UI | ⌛
+**Luiz Eduardo Luckner Costa** | Figma, UX, UI | ⌛
+**Mateus Maria Prado** | Figma, UX, UI | ⌛
+**Matheus Lamoco Olivieri Freitas Santos** | Figma, UX, UI | ⌛
+**Mayra Rodrigues Da Rocha** | Figma, UX, UI | ⌛
+**Nathan Santos Pires** | Figma, UX, UI | ⌛
+**Ronaldo Ramos De Souza** | Figma, UX, UI | ⌛
+**Tereza Lucas Monteiro Oliveira** | Figma, UX, UI | ⌛
+**Thaissa Maria De Campos Veiga** | Figma, UX, UI | ⌛
+**Vitoria Seidel Dos Santos** | Figma, UX, UI | ⌛
+**Willy Henrique Figueira Fontenelle** | Figma, UX, UI | ⌛
+
+
+<hr />
+
+
 
 ## Engenheiros de Software Ninjas
 
@@ -156,6 +184,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=dellatorreadrian)
 <hr />
 
+
 ### 🥷 Alex Tavares <a id="alex-tavares"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -170,6 +199,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=alex-tavares)
 <hr />
+
 
 ### 🥷 Anderson Reis Souto <a id="andersonpensephp"></a> [☝️](#se_index)
 
@@ -186,6 +216,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=andersonpensephp)
 <hr />
 
+
 ### 🥷 André Dias <a id="andrediasgustavo"></a> [☝️](#se_index)
 
 🛡️🗡️: Xcode, Swift
@@ -201,6 +232,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=andrediasgustavo)
 <hr />
 
+
 ### 🥷 André Luiz Da Costa Torres <a id="ALCTorres"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -212,6 +244,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=ALCTorres)
 <hr />
+
 
 ### 🥷 Arthur Givigir <a id="arthurgivigir"></a> [☝️](#se_index)
 
@@ -228,6 +261,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=arthurgivigir)
 <hr />
 
+
 ### 🥷 Bernardo Aragão <a id="HDBenosx10"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -242,6 +276,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=HDBenosx10)
 <hr />
+
 
 ### 🥷 Caroline Aquistapace <a id="aquistapace"></a> [☝️](#se_index)
 
@@ -258,6 +293,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=aquistapace)
 <hr />
 
+
 ### 🥷 Charles Schiavinato <a id="CharlesSchiavinato"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Docker, Go
@@ -273,6 +309,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=CharlesSchiavinato)
 <hr />
 
+
 ### 🥷 Diogo Machado <a id="diogomachado1"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -285,6 +322,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=diogomachado1)
 <hr />
 
+
 ### 🥷 Efraim Andrade <a id="efraim-andrade"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -296,6 +334,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=efraim-andrade)
 <hr />
+
 
 ### 🥷 Fabio Akira Takahashi <a id="akirafabio"></a> [☝️](#se_index)
 
@@ -312,6 +351,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=akirafabio)
 <hr />
 
+
 ### 🥷 Felipe Metson <a id="duchometson"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -323,6 +363,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=duchometson)
 <hr />
+
 
 ### 🥷 Felipe Alves Betts <a id="felipebetts"></a> [☝️](#se_index)
 
@@ -339,6 +380,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=felipebetts)
 <hr />
 
+
 ### 🥷 Fellipe Maia <a id="FellipeMaia"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -354,6 +396,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=FellipeMaia)
 <hr />
 
+
 ### 🥷 Fernando Erd <a id="Fernando-Erd"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -365,6 +408,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Fernando-Erd)
 <hr />
+
 
 ### 🥷 Francisco Castro <a id="FranciscoBBC"></a> [☝️](#se_index)
 
@@ -381,6 +425,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=FranciscoBBC)
 <hr />
 
+
 ### 🥷 Gabriel Nascimento <a id="gabrielrnascimento"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -393,6 +438,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gabrielrnascimento)
 <hr />
 
+
 ### 🥷 Gabriel Barbosa <a id="Garbosa"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -404,6 +450,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Garbosa)
 <hr />
+
 
 ### 🥷 Giovanni Severo <a id="giosvro"></a> [☝️](#se_index)
 
@@ -420,6 +467,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=giosvro)
 <hr />
 
+
 ### 🥷 Guilherme Melo <a id="Mufolk"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -431,6 +479,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Mufolk)
 <hr />
+
 
 ### 🥷 Gustavo Augusto Brayn <a id="gustavobrayn"></a> [☝️](#se_index)
 
@@ -447,6 +496,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gustavobrayn)
 <hr />
 
+
 ### 🥷 Gustavo Presa Rosa <a id="gustavoPresa"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -458,6 +508,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gustavoPresa)
 <hr />
+
 
 ### 🥷 Igor Guimaraes Veludo <a id="IgorVeludo2"></a> [☝️](#se_index)
 
@@ -471,6 +522,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=IgorVeludo2)
 <hr />
 
+
 ### 🥷 Igor Imperiali <a id="Imperiali"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -483,6 +535,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Imperiali)
 <hr />
 
+
 ### 🥷 José Ribeiro <a id="jtonynet"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -494,6 +547,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=jtonynet)
 <hr />
+
 
 ### 🥷 José Vinicius <a id="jviniciusoliveira"></a> [☝️](#se_index)
 
@@ -510,6 +564,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=jviniciusoliveira)
 <hr />
 
+
 ### 🥷 Lucas Carvalho De Vasconcellos <a id="lcarvalho94"></a> [☝️](#se_index)
 
 🛡️🗡️: HTML, CSS, JS, PHP, C#, NodeJs, React, MySQL, MongoDB, Redis, Docker
@@ -525,6 +580,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lcarvalho94)
 <hr />
 
+
 ### 🥷 Lucas Scherpel <a id="Scherpel"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -536,6 +592,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Scherpel)
 <hr />
+
 
 ### 🥷 Lucas Cavalheiro <a id="lgcavalheiro"></a> [☝️](#se_index)
 
@@ -549,6 +606,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lgcavalheiro)
 <hr />
 
+
 ### 🥷 Luis Fernando Fontoura Spaniol <a id="lffspaniol"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -561,6 +619,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lffspaniol)
 <hr />
 
+
 ### 🥷 Marcos Dissotti <a id="marcosdissotti"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -572,6 +631,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=marcosdissotti)
 <hr />
+
 
 ### 🥷 Mateus Barbosa <a id="mateusxis"></a> [☝️](#se_index)
 
@@ -588,6 +648,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mateusxis)
 <hr />
 
+
 ### 🥷 Matheus Baldas <a id="mbaldas"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -599,6 +660,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mbaldas)
 <hr />
+
 
 ### 🥷 Matheus Pelegrinetti <a id="Pelegrinetti"></a> [☝️](#se_index)
 
@@ -618,6 +680,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Pelegrinetti)
 <hr />
 
+
 ### 🥷 Mayara Lima <a id="mayaralima22"></a> [☝️](#se_index)
 
 🛡️🗡️: Docker, Flask, Go, Mysql
@@ -632,6 +695,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mayaralima22)
 <hr />
+
 
 ### 🥷 Moises Santos <a id="mdeosjr"></a> [☝️](#se_index)
 
@@ -648,6 +712,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mdeosjr)
 <hr />
 
+
 ### 🥷 Pamela Santos <a id="pamelasantoss"></a> [☝️](#se_index)
 
 🛡️🗡️: React, Next, Html, Wordpress
@@ -662,6 +727,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=pamelasantoss)
 <hr />
+
 
 ### 🥷 Pedro Resende Da Silva <a id="pedr-oResende"></a> [☝️](#se_index)
 
@@ -678,6 +744,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=pedr-oResende)
 <hr />
 
+
 ### 🥷 Rafael Blemer <a id="Rblemer"></a> [☝️](#se_index)
 
 🛡️🗡️: Androidstudio, Kotlin
@@ -693,6 +760,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Rblemer)
 <hr />
 
+
 ### 🥷 Rafael Lima <a id="rafaellrf09"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -704,6 +772,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rafaellrf09)
 <hr />
+
 
 ### 🥷 Raphael Carvalho <a id="zraphael"></a> [☝️](#se_index)
 
@@ -717,6 +786,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=zraphael)
 <hr />
 
+
 ### 🥷 Rodrigo Oliveira <a id="rodrigosdo"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -729,6 +799,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rodrigosdo)
 <hr />
 
+
 ### 🥷 Rodrigo Cortezi <a id="rodrigovcortezi"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -740,6 +811,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rodrigovcortezi)
 <hr />
+
 
 ### 🥷 Romulo Monteiro <a id="Romulomga"></a> [☝️](#se_index)
 
@@ -756,6 +828,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Romulomga)
 <hr />
 
+
 ### 🥷 Saul Vieira <a id="vieirasaul"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -771,6 +844,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=vieirasaul)
 <hr />
 
+
 ### 🥷 Thales Paim Fachinelli <a id="ThalesFachinelli"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -782,6 +856,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=ThalesFachinelli)
 <hr />
+
 
 ### 🥷 Thiago Assis <a id="assisthiago"></a> [☝️](#se_index)
 
@@ -798,6 +873,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=assisthiago)
 <hr />
 
+
 ### 🥷 Vinicius Nunes <a id="viniciusnuunes"></a> [☝️](#se_index)
 
 🛡️🗡️: Js, Python, Go, Php
@@ -809,6 +885,7 @@ nome | skills | back to the fight?
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=viniciusnuunes)
 <hr />
+
 
 ### 🥷 Yan Mello <a id="YDoro"></a> [☝️](#se_index)
 
@@ -822,6 +899,7 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=YDoro)
 <hr />
 
+
 ## Gerentes de Projeto Ninjas
 
 ### 🥷 Camila Ribeiro <a id="camila-ribeiro-01299992"></a>
@@ -830,6 +908,165 @@ PMO, Agile
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/camila-ribeiro-01299992/)
 <hr />
+
+
+## Designers de Produto Ninjas
+
+### 🥷 Andressa Soares Silva Vasconcellos <a id="unknow"></a>
+
+Figma, UX, UI
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/unknow/)
+<hr />
+
+
+### 🥷 Beatriz De Lima Santos <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Clara Gomes Baluz Pereira <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Francine Da Rocha Tavares <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Goubert Rodrigues Da Silva Carneiro <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Guilherme Alves Ostolim Totoli <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Iara Amaral Alves <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Isabel Cristina Alves Oliveira <a id="isabellvs"></a>
+
+Figma, UX, UI, Hotjar, Pesquisa De Experiência Do Usuário, Design Thinking, Wireframes, Design De Interface Do Usuário, Design De Interação, Design Detalhado, Sistemas De Design, Usabilidade
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/isabellvs/)
+
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Recomendar a Isabel é fácil pois é uma Profissional dedicada no que faz, absorvendo e repassando conhecimento com extrema facilidade. No tempo em que trabalhamos juntos nossa comunicação sempre foi muito tranquila, sempre sugeriu soluções com base no que estudava, entendia as limitações técnicas do time e ajudou o Squad de Customer Experience da Hurb a alcançar excelentes resultados com o seu empenho._\
+**- [Renato Lins](https://github.com/renatolinsjr), Software Engineer Front End Colleague**
+<hr />
+
+
+### 🥷 Ligia Nater Henemann <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Luiz Eduardo Luckner Costa <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Mateus Maria Prado <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Matheus Lamoco Olivieri Freitas Santos <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Mayra Rodrigues Da Rocha <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Nathan Santos Pires <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Ronaldo Ramos De Souza <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Tereza Lucas Monteiro Oliveira <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Thaissa Maria De Campos Veiga <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Vitoria Seidel Dos Santos <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
+### 🥷 Willy Henrique Figueira Fontenelle <a id=""></a>
+
+Figma, UX, UI
+
+
+<hr />
+
+
 
 ## Insígnias de habilidades
 
