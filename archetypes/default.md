@@ -14,72 +14,11 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 <hr />
 
-<!--
-Você pode usar nas habilidades:
-
-mobile:
-androidstudio
-firebase
-flutter
-java
-kotlin
-swift
-webflow
-webpack
-
-web:
-angular
-aws
-bash
-bootstrap
-c
-cmake
-coffeescript
-cpp
-cs
-css
-deno
-django
-docker
-dotnet
-electron
-elixir
-flask
-go
-graphql
-jquery
-js
-lua
-md
-mongodb
-mysql
-nestjs
-nginx
-nodejs
-php
-postgres
-prometheus
-python
-rabbitmq
-rails
-react
-redis
-ruby
-rust
-scala
-spring
-sqlite
-symfony
-typescript
-vue
-wordpress
--->
-
 ## Índice de Engenheiros de Software Ninjas <a id="se_index"></a>
 
 Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
-{{ range $.Site.Data.software_engineers }}[{{ .name }}](#{{ .github }}) | {{ if eq .seniority.level "junior" }}██░░░░{{ else if eq .seniority.level "intermediate" }}████░░{{ else if eq .seniority.level "senior" }}██████{{ end }} | <img height="22" src="https://skillicons.dev/icons?theme=dark&i={{ .skill_badges }}" /> | {{ if .hired }}✅✅✅{{ else }}⌛{{ end }}
+{{ range $.Site.Data.software_engineers }}[{{ .name }}](#{{ lower .github }}) | {{ if eq .seniority.level "junior" }}██░░░░{{ else if eq .seniority.level "intermediate" }}████░░{{ else if eq .seniority.level "senior" }}██████{{ end }} | {{ with .skill_badges }}<img src="https://skillicons.dev/icons?perline=9&theme=dark&i={{ . }}" />{{end}} | {{ if .hired }}✅✅✅{{ else }}⌛{{ end }}
 {{ end }}
 
 ## Índice de Gerentes de Projeto Ninjas <a id="pm_index"></a>
@@ -105,9 +44,10 @@ nome | skills | back to the fight?
 ## Engenheiros de Software Ninjas
 
 {{ range $.Site.Data.software_engineers }}
-### 🥷 {{ .name }} <a id="{{ .github }}"></a> [☝️](#se_index)
+### 🥷 {{ .name }} <a id="{{ lower .github }}"></a> [☝️](#se_index)
 
-🛡️🗡️: {{ title .skills }}
+{{ with .skills }}🛡️🗡️: {{ title . }}
+{{end}}
 {{ with .subtitle }}📜: {{ . }}
 {{ end }}
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/{{ .github }})

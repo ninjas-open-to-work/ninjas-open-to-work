@@ -7,8 +7,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "php,cpp,java,postgres,go,git",
+    "skills": "",
     "hired": false
   },
   {
@@ -19,8 +19,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "react,js,ts",
+    "skills": "",
     "testmonials": [
       {
         "text": "Alex Tavares é um desenvolvedor extremamente dedicado e apaixonado pelo que faz. Ele teve uma trajetória desafiadora em que saiu de um emprego certo para ser desenvolvedor, mas sua escolha mostrou-se acertada. Ao longo do último ano, evoluiu de Júnior para Pleno, graças ao seu comprometimento e contribuições fundamentadas. Alex é um profissional humilde, preocupado com seus colegas de trabalho e sempre disposto a aprender e compartilhar conhecimento.",
@@ -85,8 +85,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "php,go",
+    "skills": "",
     "hired": false
   },
   {
@@ -119,8 +119,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "js,css,ts,html,docker,bash,go,postgres,nextjs,mongodb,redis,mysql,prisma,docker",
+    "skills": "",
     "testmonials": [
       {
         "text": "Muito safo para descobrir/pesquisar sobre problemas e encontrar soluções. Seu forte é backend, mas chegou a pegar algumas coisas de frontend.",
@@ -185,8 +185,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "go,redis,docker,js,ts,nodejs,express,react,php,python",
+    "skills": "",
     "hired": false
   },
   {
@@ -197,8 +197,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "vue,firebase,ts,nodejs,js,nextjs,html,css,java,dart,ruby,python,react,styledcomponents,jquery,jest",
+    "skills": "",
     "hired": false
   },
   {
@@ -231,8 +231,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "flask,sqlite,python,cs,angular,django,go,c",
+    "skills": "",
     "hired": false
   },
   {
@@ -265,8 +265,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "mongodb,jest,nodejs,js,aws,elixir",
+    "skills": "",
     "testmonials": [
       {
         "text": "Fellipe é um profissional extremamente resiliente, seu forte é o backend, costuma pegar tarefas que não tem muito domínio como forma de desafiar a si mesmo para aprender algo novo, e sempre conseguiu atingir os objetivos.",
@@ -287,8 +287,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "c,python,html,cpp,js,bash,ruby,vim,docker,go,mongodb",
+    "skills": "",
     "hired": false
   },
   {
@@ -321,8 +321,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "ts,js,css,html,python,bash,docker,postgres",
+    "skills": "",
     "hired": false
   },
   {
@@ -332,9 +332,19 @@
     "seniority": {
       "level": "junior"
     },
+    "testmonials": [
+      {
+        "text": "Gabriel é um ótimo desenvolvedor, que trabalha muito bem em equipe, assume as missões entregadas a ele da melhor forma, procurando sempre desenvolver seguindo as melhores praticas e orientações. Participou de uma reimplantação de SAP Business One onde atuou em diversas frentes, como desenvolvimento backend e frontend de integrações, e addons internos no SAP B1, e por ultimo criação de relatórios em SQL e HANA para o SAP B1.",
+        "author": {
+          "name": "Paulo Sérgio da Silva Jr.",
+          "link": "https://www.linkedin.com/paulsrgiojr",
+          "relation": "Tech Lead"
+        }
+      }
+    ],
+    "skill_badges": "js,nodejs,mysql,cs",
+    "skills": "JS, NodeJs, MySQL, SQLServer, C#, HANA, SAP B1",
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
     "hired": false
   },
   {
@@ -367,8 +377,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "angular,nodejs,mongodb,react,python,java,js,c,html,css,cpp,ts,vue,fortran,react,nextjs",
+    "skills": "",
     "hired": false
   },
   {
@@ -379,8 +389,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "ts,nodejs,react,js",
+    "skills": "",
     "testmonials": [
       {
         "text": "Gustavo Augusto Brayn possui uma história inspiradora e é conhecido por sua abertura ao aprendizado. Durante o período em que trabalharam juntos, ele sempre absorvia o conhecimento compartilhado e ajudava a enxergar novas perspectivas. Mesmo com pouco tempo de trabalho em conjunto, Gustavo demonstrou uma capacidade notável de assimilar conteúdo e estava sempre disposto a compartilhar seu conhecimento.",
@@ -401,8 +411,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "python,js,redis,docker,java,django,html,css,postgres,graphql,mysql,go",
+    "skills": "",
     "hired": false
   },
   {
@@ -413,8 +423,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "ts,js,css,html,nest,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express",
+    "skills": "",
     "hired": false
   },
   {
@@ -425,8 +435,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "docker,flutter,vue,express,python,java,react",
+    "skills": "",
     "hired": false
   },
   {
@@ -437,8 +447,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "python,mysql,php,go,mongodb,redis",
+    "skills": "",
     "hired": false
   },
   {
@@ -449,8 +459,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "nodejs,js,react,php,jquery,cs,aws",
+    "skills": "",
     "testmonials": [
       {
         "text": "José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impressão de maturidade e dedicação ao desenvolvimento, bem como um forte desejo de compartilhar e adquirir conhecimento.",
@@ -493,8 +503,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "nodejs,react,react,flutter,python,go",
+    "skills": "",
     "hired": false
   },
   {
@@ -505,8 +515,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "angular,deno,electron,java,maven,graphql,gulp,nodejs,ts,python,react,js",
+    "skills": "",
     "hired": false
   },
   {
@@ -517,8 +527,8 @@
       "level": "senior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "go,python,angular,mysql,prometheus",
+    "skills": "",
     "hired": false
   },
   {
@@ -529,8 +539,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "react,redux,ts,js,styledcomponents,cs,gcp",
+    "skills": "",
     "hired": false
   },
   {
@@ -541,8 +551,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "nodejs,react,express,mongodb,graphql,python,django",
+    "skills": "",
     "testmonials": [
       {
         "text": "Profissional muito ativo, multi-tarefa, conhece tanto backend quanto frontend, tem bons conhecimentos de banco de dados, e vestiu a camisa de security champion, trazendo sempre a preocupação de se desenvolver aplicações seguras.",
@@ -563,8 +573,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "react,ts,css,nginx,docker,webpack,jest,cs,nodejs,nextjs,php",
+    "skills": "",
     "hired": false
   },
   {
@@ -575,8 +585,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "react,ts,js,css,nextjs",
+    "skills": "",
     "testmonials": [
       {
         "text": "Entende muito bem tanto de front quanto de back. Tivemos ótimas discussões sobre a arquitetura de uma API que fizemos e ele pegava bem rápido as motivações das decisões, conseguindo assim argumentar sobre elas.",
@@ -605,7 +615,7 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "docker,flask,go,mysql",
+    "skill_badges": "docker,flask,go,mysql,python,vue,rabbitmq,cs,js,java,kotlin,mongodb",
     "skills": "docker, flask, go, mysql",
     "testmonials": [
       {
@@ -627,8 +637,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "js,ts,html,css,bash,java,nodejs,react,nextjs,docker,redis",
+    "skills": "",
     "testmonials": [
       {
         "text": "Muito esforçado, entrou como assistente, sabendo pouco, tem sede por conhecimento, sempre prestou atenção a tudo e por conta disso, pegou o trabalho bem rápido, iniciou trabalhando com frontend, mas pegou diversas tarefas ponta-a-ponta pegando back também.",
@@ -715,8 +725,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "go,nest,graphql,mongodb,spring,vue,php,laravel,nodejs,java",
+    "skills": "",
     "hired": false
   },
   {
@@ -727,8 +737,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "js,css,html,ts,solidity,go,python,bash,webpack,styledcomponents,react,nodejs,aws,java,cs,sequelize",
+    "skills": "",
     "hired": false
   },
   {
@@ -739,8 +749,8 @@
       "level": "senior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "go,python,redis,aws,php,mysql,postgres,docker,gcp",
+    "skills": "",
     "hired": false
   },
   {
@@ -751,8 +761,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "js,nodejs,c,python,ruby,go",
+    "skills": "",
     "hired": false
   },
   {
@@ -785,8 +795,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "react,styledcomponents,webpack,ts,js,nodejs",
+    "skills": "",
     "testmonials": [
       {
         "text": "Trabalhei com Saul por algum tempo, mas ele estava se desenvolvendo muito bem, é um Dev Jr que com um pouco mais de experiência pode chegar a Pleno, trabalhava mais com Frontend, mas costumava pegar tarefas de backend para expandir seus conhecimentos.",
@@ -807,8 +817,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "docker,mongodb,kotlin,spring,cs,dotnet,nodejs,react,kubernetes,java",
+    "skills": "",
     "hired": false
   },
   {
@@ -841,8 +851,8 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php",
+    "skill_badges": "dotnet,cs,python,kotlin,gulp,docker,redis,js,mysql,mongodb,ts,nodejs,gitlab",
+    "skills": "",
     "hired": false
   },
   {
@@ -853,7 +863,7 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,python,go,php",
-    "skills": "js, python, go, php"
+    "skill_badges": "nodejs,ts,laravel,php,selenium,docker,mongodb,yarn,husky,python,mysql,react",
+    "skills": ""
   }
 ]
