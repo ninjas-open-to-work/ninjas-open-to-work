@@ -14,6 +14,7 @@ Devs ninjas 🥷💻 Prontos para lutar novamente!
 
 <hr />
 
+
 ## Índice de Engenheiros de Software Ninjas <a id="se_index"></a>
 
 Nome | Senioridade | Habilidades | De volta à luta?
@@ -32,17 +33,17 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Fabio Akira Takahashi](#akirafabio) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [Felipe Metson](#duchometson) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=flask,sqlite,python,cs,angular,django,go,c" /> | ⌛
 [Felipe Alves Betts](#felipebetts) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,react,nodejs,docker" /> | ⌛
-[Fellipe Maia](#fellipemaia) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=mongodb,jest,nodejs,js,aws,elixir" /> | ⌛
+[Fellipe Maia](#fellipemaia) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=mongodb,jest,nodejs,js,postgres,aws,elixir,react,docker,makefile,go" /> | ⌛
 [Fernando Erd](#fernando-erd) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=c,python,html,cpp,js,bash,ruby,vim,docker,go,mongodb" /> | ⌛
 [Francisco Castro](#franciscobbc) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,typescript,php,wordpress,jquery,react,nodejs,graphql,mysql,mongodb,redis,docker" /> | ⌛
 [Gabriel Nascimento](#gabrielrnascimento) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,js,css,html,python,bash,docker,postgres" /> | ⌛
-[Gabriel Barbosa](#garbosa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,nodejs,mysql,cs" /> | ⌛
+[Gabriel Barbosa](#garbosa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,nodejs,mysql,cs,react" /> | ⌛
 [Giovanni Severo](#giosvro) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [Guilherme Melo](#mufolk) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular,nodejs,mongodb,react,python,java,js,c,html,css,cpp,ts,vue,fortran,react,nextjs" /> | ⌛
 [Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,nodejs,react,js" /> | ⌛
 [Gustavo Presa Rosa](#gustavopresa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python,js,redis,docker,java,django,html,css,postgres,graphql,mysql,go" /> | ⌛
 [Igor Guimaraes Veludo](#igorveludo2) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,js,css,html,nest,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express" /> | ⌛
-[Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,flutter,vue,express,python,java,react" /> | ⌛
+[Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,flutter,vue,express,python,java,react,graphql,nodejs,js" /> | ⌛
 [José Ribeiro](#jtonynet) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python,mysql,php,go,mongodb,redis" /> | ⌛
 [José Vinicius](#jviniciusoliveira) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs,js,react,php,jquery,cs,aws" /> | ⌛
 [Lucas Carvalho De Vasconcellos](#lcarvalho94) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,php,cs,nodejs,react,mysql,mongodb,redis,docker" /> | ⌛
@@ -50,17 +51,17 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Lucas Cavalheiro](#lgcavalheiro) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular,deno,electron,java,maven,graphql,gulp,nodejs,ts,python,react,js" /> | ⌛
 [Luis Fernando Fontoura Spaniol](#lffspaniol) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go,python,angular,mysql,prometheus" /> | ⌛
 [Marcos Dissotti](#marcosdissotti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,redux,ts,js,styledcomponents,cs,gcp" /> | ⌛
-[Mateus Barbosa](#mateusxis) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs,react,express,mongodb,graphql,python,django" /> | ⌛
+[Mateus Barbosa](#mateusxis) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs,react,express,mongodb,graphql,python,django,sql,mysql,postgres,redis,js,koa" /> | ⌛
 [Matheus Baldas](#mbaldas) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,ts,css,nginx,docker,webpack,jest,cs,nodejs,nextjs,php" /> | ⌛
 [Matheus Pelegrinetti](#pelegrinetti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,ts,js,css,nextjs" /> | ⌛
 [Mayara Lima](#mayaralima22) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker,flask,go,mysql,python,vue,rabbitmq,cs,js,java,kotlin,mongodb" /> | ⌛
-[Moises Santos](#mdeosjr) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,ts,html,css,bash,java,nodejs,react,nextjs,docker,redis" /> | ⌛
+[Moises Santos](#mdeosjr) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,ts,html,css,bash,java,nodejs,react,nextjs,docker,redis,graphql" /> | ⌛
 [Pamela Santos](#pamelasantoss) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,next,html,wordpress" /> | ⌛
 [Pedro Resende Da Silva](#pedr-oresende) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio,kotlin" /> | ✅✅✅
 [Rafael Blemer](#rblemer) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio,kotlin" /> | ⌛
 [Rafael Lima](#rafaellrf09) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go,nest,graphql,mongodb,spring,vue,php,laravel,nodejs,java" /> | ⌛
 [Raphael Carvalho](#zraphael) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,css,html,ts,solidity,go,python,bash,webpack,styledcomponents,react,nodejs,aws,java,cs,sequelize" /> | ⌛
-[Rodrigo Oliveira](#rodrigosdo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go,python,redis,aws,php,mysql,postgres,docker,gcp" /> | ⌛
+[Rodrigo Oliveira](#rodrigosdo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go,python,redis,aws,php,mysql,postgres,docker,gcp,nsq" /> | ⌛
 [Rodrigo Cortezi](#rodrigovcortezi) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,nodejs,c,python,ruby,go" /> | ⌛
 [Romulo Monteiro](#romulomga) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [Saul Vieira](#vieirasaul) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react,styledcomponents,webpack,ts,js,nodejs" /> | ⌛
@@ -69,11 +70,15 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Vinicius Nunes](#viniciusnuunes) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=dotnet,cs,python,kotlin,gulp,docker,redis,js,mysql,mongodb,ts,nodejs,gitlab" /> | ⌛
 [Yan Mello](#ydoro) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs,ts,laravel,php,selenium,docker,mongodb,yarn,husky,python,mysql,react" /> | ⌛
 
+
+
 ## Índice de Gerentes de Projeto Ninjas <a id="pm_index"></a>
 
 nome | skills | back to the fight?
 --- | --- | :--:
 [Camila Ribeiro](#camila-ribeiro-01299992) | PMO, Agile | ⌛
+
+
 
 ## Índice de Designers de Produto Ninjas <a id="pd_index"></a>
 
@@ -101,9 +106,14 @@ nome | skills | back to the fight?
 
 <hr />
 
+
+
 ## Engenheiros de Software Ninjas
 
+
 ### 🥷 Adrian Dellatorre <a id="dellatorreadrian"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dellatorreadrian)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adrian-dellatorre/)
@@ -114,6 +124,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 Alex Tavares <a id="alex-tavares"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/alex-tavares)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alex-tavares/)
@@ -130,6 +142,7 @@ nome | skills | back to the fight?
 
 🛡️🗡️: HTML, CSS, JS, PHP, Python, JQuery, React, NodeJs, MySQL, MongoDB, Redis, Docker
 
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andersonpensephp)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andersonfront/)
 
@@ -145,6 +158,7 @@ nome | skills | back to the fight?
 
 🛡️🗡️: Xcode, Swift
 
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andrediasgustavo)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andregustavodias/)
 
@@ -158,6 +172,8 @@ nome | skills | back to the fight?
 
 ### 🥷 André Luiz Da Costa Torres <a id="alctorres"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ALCTorres)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-da-costa-torres-874b0546/)
 
@@ -169,6 +185,7 @@ nome | skills | back to the fight?
 ### 🥷 Arthur Givigir <a id="arthurgivigir"></a> [☝️](#se_index)
 
 🛡️🗡️: Xcode, Swift
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/arthurgivigir)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arthur-givigir-b4a64a66/)
@@ -182,6 +199,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 Bernardo Aragão <a id="hdbenosx10"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/HDBenosx10)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aragao-dev/)
@@ -198,6 +217,7 @@ nome | skills | back to the fight?
 
 🛡️🗡️: HTML, CSS, JS, PHP, JQuery, React, NodeJs, MySQL, MongoDB, Redis, Docker
 
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aquistapace)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/caroline-aquistapace-07095231/)
 
@@ -213,6 +233,7 @@ nome | skills | back to the fight?
 
 🛡️🗡️: Js, Docker, Go
 
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/CharlesSchiavinato)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/charles-schiavinato-b973b239/)
 
@@ -226,6 +247,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Diogo Machado <a id="diogomachado1"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/diogomachado1)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diogo-machado-807747187/)
 
@@ -235,6 +258,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 Efraim Andrade <a id="efraim-andrade"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/efraim-andrade)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/efraim-andrade-517b0a149/)
@@ -247,6 +272,7 @@ nome | skills | back to the fight?
 ### 🥷 Fabio Akira Takahashi <a id="akirafabio"></a> [☝️](#se_index)
 
 🛡️🗡️: Xcode, Swift
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/akirafabio)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/akirafabio/)
@@ -261,6 +287,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Felipe Metson <a id="duchometson"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/duchometson)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipe-metson-b9b758148/)
 
@@ -272,6 +300,7 @@ nome | skills | back to the fight?
 ### 🥷 Felipe Alves Betts <a id="felipebetts"></a> [☝️](#se_index)
 
 🛡️🗡️: HTML, CSS, JS, React, NodeJS, Docker
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/felipebetts)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipe-betts/)
@@ -286,10 +315,13 @@ nome | skills | back to the fight?
 
 ### 🥷 Fellipe Maia <a id="fellipemaia"></a> [☝️](#se_index)
 
+🛡️🗡️: MongoDB, Jest, NodeJS, JS, AWS, Elixir, React, Docker, Makefile, Go
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/FellipeMaia)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fellipe-maia/)
 
-<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Fellipe é um profissional extremamente resiliente, seu forte é o backend, costuma pegar tarefas que não tem muito domínio como forma de desafiar a si mesmo para aprender algo novo, e sempre conseguiu atingir os objetivos._\
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Fellipe é um exemplo de comprometimento, coragem e resiliência! Mesmo sendo um profissional com base em Backend, ele fez questão de estudar e aprender sobre Frontend, Tracking de GA, Migração para GA4 para que tivêssemos mais força nestas tecnologias dentro do time, fora que seu backend é mais voltado para Nodejs e como estávamos desenvolvendo aplicação em Golang, ele fez cursos para ser capaz de ajudar. Será uma honra trabalhar com ele de novo._\
 **- [Daniel Tré](https://github.com/donwellus), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=FellipeMaia)
@@ -298,6 +330,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 Fernando Erd <a id="fernando-erd"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Fernando-Erd)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fernandoerd/)
@@ -310,6 +344,7 @@ nome | skills | back to the fight?
 ### 🥷 Francisco Castro <a id="franciscobbc"></a> [☝️](#se_index)
 
 🛡️🗡️: HTML, CSS, JS, Typescript, PHP, Wordpress, JQuery, React, NodeJs, GraphQL, MySQL, MongoDB, Redis, Docker
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/FranciscoBBC)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francisco-castro-330a95123/)
@@ -324,6 +359,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Gabriel Nascimento <a id="gabrielrnascimento"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gabrielrnascimento)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabriel-nascimento-525700124/)
 
@@ -334,7 +371,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Gabriel Barbosa <a id="garbosa"></a> [☝️](#se_index)
 
-🛡️🗡️: JS, NodeJs, MySQL, SQLServer, C#, HANA, SAP B1
+🛡️🗡️: JS, NodeJs, React, MySQL, SQLServer, C#, HANA, SAP B1
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Garbosa)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrieln-barbosa/)
@@ -351,6 +389,7 @@ nome | skills | back to the fight?
 
 🛡️🗡️: Xcode, Swift
 
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/giosvro)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/giovanni-severo/)
 
@@ -364,6 +403,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Guilherme Melo <a id="mufolk"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Mufolk)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilhermemelo138/)
 
@@ -373,6 +414,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 Gustavo Augusto Brayn <a id="gustavobrayn"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gustavobrayn)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gustavobrayn/)
@@ -387,6 +430,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Gustavo Presa Rosa <a id="gustavopresa"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gustavoPresa)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gustavo-presa-rosa/)
 
@@ -396,6 +441,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 Igor Guimaraes Veludo <a id="igorveludo2"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/IgorVeludo2)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/igorveludo/)
@@ -407,8 +454,13 @@ nome | skills | back to the fight?
 
 ### 🥷 Igor Imperiali <a id="imperiali"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Imperiali)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/igor-imperiali/)
+
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Foi uma honra participar do desenvolvimento do Igor. Ele é uma pessoa muito inteligente, pró-ativa e que sempre defende seus pontos de vista, um profissional muito versátil que soube se aperfeiçoar no frontend e expandir seus conhecimentos no backend. Nosso time planejou e construiu muitos sistemas úteis e de sucesso, e isso é notável._\
+**- [Daniel Tré](https://github.com/donwellus), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Imperiali)
 
@@ -417,8 +469,13 @@ nome | skills | back to the fight?
 
 ### 🥷 José Ribeiro <a id="jtonynet"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jtonynet)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)
+
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _José é uma pessoa muito inteligente, com raciocínios rápidos e bastante questionador o que sempre foi ótimo para mantermos as discussões caminhando para a solução. É um profissional com skills fortes em backend, e nos contatos que tive come ele, sempre demosntrou ser bem prático e resolutivo._\
+**- [Daniel Tré](https://github.com/donwellus), Coworker**
 
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=jtonynet)
 
@@ -426,6 +483,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 José Vinicius <a id="jviniciusoliveira"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jviniciusoliveira)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jose-vinicius-os/)
@@ -442,6 +501,7 @@ nome | skills | back to the fight?
 
 🛡️🗡️: HTML, CSS, JS, PHP, C#, NodeJs, React, MySQL, MongoDB, Redis, Docker
 
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lcarvalho94)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lcarvalho94/)
 
@@ -455,6 +515,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Lucas Scherpel <a id="scherpel"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Scherpel)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-scherpel-902116136/)
 
@@ -464,6 +526,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 Lucas Cavalheiro <a id="lgcavalheiro"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lgcavalheiro)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lgcavalheiro/)
@@ -475,6 +539,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Luis Fernando Fontoura Spaniol <a id="lffspaniol"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lffspaniol)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lffspaniol/)
 
@@ -484,6 +550,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 Marcos Dissotti <a id="marcosdissotti"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/marcosdissotti)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcosdissotti/)
@@ -495,10 +563,12 @@ nome | skills | back to the fight?
 
 ### 🥷 Mateus Barbosa <a id="mateusxis"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mateusxis)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mateusxis/)
 
-<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Profissional muito ativo, multi-tarefa, conhece tanto backend quanto frontend, tem bons conhecimentos de banco de dados, e vestiu a camisa de security champion, trazendo sempre a preocupação de se desenvolver aplicações seguras._\
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Profissional muito ativo, multi-tarefa, conhece tanto backend quanto frontend, tem bons conhecimentos de banco de dados, e vestiu a camisa de security champion, conquistando duas certificações de segurança, o que trouxe base para trazer sempre a preocupação de se desenvolver aplicações seguras._\
 **- [Daniel Tré](https://github.com/donwellus), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mateusxis)
@@ -507,6 +577,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 Matheus Baldas <a id="mbaldas"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mbaldas)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheusbaldas/)
@@ -517,6 +589,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 Matheus Pelegrinetti <a id="pelegrinetti"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Pelegrinetti)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-pelegrinetti/)
@@ -536,6 +610,7 @@ nome | skills | back to the fight?
 
 🛡️🗡️: Docker, Flask, Go, Mysql
 
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mayaralima22)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/limay/)
 
@@ -549,11 +624,13 @@ nome | skills | back to the fight?
 
 ### 🥷 Moises Santos <a id="mdeosjr"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mdeosjr)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/moisesjr/)
 
 <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Muito esforçado, entrou como assistente, sabendo pouco, tem sede por conhecimento, sempre prestou atenção a tudo e por conta disso, pegou o trabalho bem rápido, iniciou trabalhando com frontend, mas pegou diversas tarefas ponta-a-ponta pegando back também._\
-**- [Daniele Reis](https://github.com/danielesreis), Tech Lead**
+**- [Daniel Tré](https://github.com/donwellus), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mdeosjr)
 
@@ -563,6 +640,7 @@ nome | skills | back to the fight?
 ### 🥷 Pamela Santos <a id="pamelasantoss"></a> [☝️](#se_index)
 
 🛡️🗡️: React, Next, Html, Wordpress
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/pamelasantoss)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pamela-santos-frontend/)
@@ -579,6 +657,7 @@ nome | skills | back to the fight?
 
 🛡️🗡️: Androidstudio, Kotlin
 
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/pedr-oResende)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pedro-resende-da-silva-228384177/)
 
@@ -594,6 +673,7 @@ nome | skills | back to the fight?
 
 🛡️🗡️: Androidstudio, Kotlin
 
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Rblemer)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-blemer-8b278b138/)
 
@@ -607,6 +687,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Rafael Lima <a id="rafaellrf09"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rafaellrf09)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafaellrf/)
 
@@ -616,6 +698,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 Raphael Carvalho <a id="zraphael"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/zraphael)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raphael-de-carvalho/)
@@ -627,8 +711,13 @@ nome | skills | back to the fight?
 
 ### 🥷 Rodrigo Oliveira <a id="rodrigosdo"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rodrigosdo)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodrigosdo/)
+
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Rodrigo é um profissional muito inteligente, com grande habilidade para encontrar padrões sobre as coisas. Seu forte é o backend, sempre preocupado com qualidade de código e em criar a melhor em arquitetura para os sistemas, tem habilidades adicionais nas áreas de banco de dados, cacheamento, processo de deploy._\
+**- [Daniel Tré](https://github.com/donwellus), Coworker**
 
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=rodrigosdo)
 
@@ -636,6 +725,8 @@ nome | skills | back to the fight?
 <hr />
 
 ### 🥷 Rodrigo Cortezi <a id="rodrigovcortezi"></a> [☝️](#se_index)
+
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rodrigovcortezi)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodrigo-cortezi/)
@@ -648,6 +739,7 @@ nome | skills | back to the fight?
 ### 🥷 Romulo Monteiro <a id="romulomga"></a> [☝️](#se_index)
 
 🛡️🗡️: Xcode, Swift
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Romulomga)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/romulomga/)
@@ -662,6 +754,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Saul Vieira <a id="vieirasaul"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vieirasaul)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vieirasaul/)
 
@@ -675,6 +769,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Thales Paim Fachinelli <a id="thalesfachinelli"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ThalesFachinelli)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thales-paim-fachinelli-b8b455b4/)
 
@@ -686,6 +782,7 @@ nome | skills | back to the fight?
 ### 🥷 Thiago Assis <a id="assisthiago"></a> [☝️](#se_index)
 
 🛡️🗡️: HTML, CSS, JS, PHP, Python, Flask, Django, JQuery, Nodejs, MySQL, MongoDB, Redis, Docker
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/assisthiago)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thiagomassis/)
@@ -700,6 +797,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Vinicius Nunes <a id="viniciusnuunes"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/viniciusnuunes)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/viniciuspnunes/)
 
@@ -710,6 +809,8 @@ nome | skills | back to the fight?
 
 ### 🥷 Yan Mello <a id="ydoro"></a> [☝️](#se_index)
 
+
+
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YDoro)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yan-mello-1a6429127/)
 
@@ -718,63 +819,97 @@ nome | skills | back to the fight?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=YDoro)
 <hr />
 
+
 ## Gerentes de Projeto Ninjas
+
 
 ### 🥷 Camila Ribeiro <a id="camila-ribeiro-01299992"></a> [☝️](#pm_index)
 
 🛡️🗡️: PMO, Agile
 
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/camila-ribeiro-01299992/)
 
 <hr />
 
+
 ## Designers de Produto Ninjas
+
 
 ### 🥷 Andressa Soares Silva Vasconcellos <a id="andressa-soares-silva-vasconcellos"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Beatriz De Lima Santos <a id="beatriz-de-lima-santos"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Clara Gomes Baluz Pereira <a id="clara-gomes-baluz-pereira"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Francine Da Rocha Tavares <a id="francine-da-rocha-tavares"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Goubert Rodrigues Da Silva Carneiro <a id="goubert-rodrigues-da-silva-carneiro"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Guilherme Alves Ostolim Totoli <a id="guilherme-alves-ostolim-totoli"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Iara Amaral Alves <a id="iara-amaral-alves"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Isabel Cristina Alves Oliveira <a id="isabel-cristina-alves-oliveira"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI, Hotjar, Pesquisa De Experiência Do Usuário, Design Thinking, Wireframes, Design De Interface Do Usuário, Design De Interação, Design Detalhado, Sistemas De Design, Usabilidade
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/isabellvs/)
 
@@ -783,71 +918,117 @@ nome | skills | back to the fight?
 
 <hr />
 
+
 ### 🥷 Ligia Nater Henemann <a id="ligia-nater-henemann"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Luiz Eduardo Luckner Costa <a id="luiz-eduardo-luckner-costa"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Mateus Maria Prado <a id="mateus-maria-prado"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Matheus Lamoco Olivieri Freitas Santos <a id="matheus-lamoco-olivieri-freitas-santos"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Mayra Rodrigues Da Rocha <a id="mayra-rodrigues-da-rocha"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Nathan Santos Pires <a id="nathan-santos-pires"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Ronaldo Ramos De Souza <a id="ronaldo-ramos-de-souza"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Tereza Lucas Monteiro Oliveira <a id="tereza-lucas-monteiro-oliveira"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Thaissa Maria De Campos Veiga <a id="thaissa-maria-de-campos-veiga"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Vitoria Seidel Dos Santos <a id="vitoria-seidel-dos-santos"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
 
 ### 🥷 Willy Henrique Figueira Fontenelle <a id="willy-henrique-figueira-fontenelle"></a> [☝️](#pd_index)
 
 🛡️🗡️: Figma, UX, UI
 
+
+
+
 <hr />
+
+
 
 ## Insígnias de habilidades
 

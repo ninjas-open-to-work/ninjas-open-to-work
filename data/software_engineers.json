@@ -769,8 +769,18 @@
       "level": "senior"
     },
     "subtitle": "",
-    "skill_badges": "go,python,redis,aws,php,mysql,postgres,docker,gcp",
+    "skill_badges": "go,python,redis,aws,php,mysql,postgres,docker,gcp,nsq",
     "skills": "",
+    "testmonials": [
+      {
+        "text": "Rodrigo é um profissional muito inteligente, com grande habilidade para encontrar padrões sobre as coisas. Seu forte é o backend, sempre preocupado com qualidade de código e em criar a melhor em arquitetura para os sistemas, tem habilidades adicionais nas áreas de banco de dados, cacheamento, processo de deploy.",
+        "author": {
+          "name": "Daniel Tré",
+          "link": "https://github.com/donwellus",
+          "relation": "Coworker"
+        }
+      }
+    ],
     "hired": false
   },
   {
