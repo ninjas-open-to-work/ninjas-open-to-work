@@ -71,13 +71,13 @@ Nome | Senioridade | Habilidades | De volta à luta?
 
 ## Índice de Gerentes de Projeto Ninjas <a id="pm_index"></a>
 
-nome | skills | back to the fight?
+Nome | Habilidades | De volta à luta?
 --- | --- | :--:
 [Camila Ribeiro](#camila-ribeiro-01299992) | PMO, Agile | ⌛
 
 ## Índice de Designers de Produto Ninjas <a id="pd_index"></a>
 
-nome | skills | back to the fight?
+Nome | Habilidades | De volta à luta?
 --- | --- | :--:
 [Andressa Soares Silva Vasconcellos](#andressa-soares-silva-vasconcellos) | Figma, UX, UI | ⌛
 [Beatriz De Lima Santos](#beatriz-de-lima-santos) | Figma, UX, UI | ⌛

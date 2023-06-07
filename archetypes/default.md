@@ -25,7 +25,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 {{ if $.Site.Data.project_managers }}
 ## Índice de Gerentes de Projeto Ninjas <a id="pm_index"></a>
 
-nome | skills | back to the fight?
+Nome | Habilidades | De volta à luta?
 --- | --- | :--:
 {{ range $.Site.Data.project_managers }}[{{ .name }}](#{{ lower .linkedin }}) | {{ .skills }} | {{ if .hired }}✅✅✅{{ else }}⌛{{ end }}
 {{ end }}{{ end }}
@@ -33,7 +33,7 @@ nome | skills | back to the fight?
 {{ if $.Site.Data.product_designers }}
 ## Índice de Designers de Produto Ninjas <a id="pd_index"></a>
 
-nome | skills | back to the fight?
+Nome | Habilidades | De volta à luta?
 --- | --- | :--:
 {{ range $.Site.Data.product_designers }}[{{ .name }}](#{{ .name | urlize }}) | {{ .skills }} | {{ if .hired }}✅✅✅{{ else }}⌛{{ end }}
 {{ end }}{{ end }}
