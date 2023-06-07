@@ -503,8 +503,6 @@ nome | skills | back to the fight?
 
 ### 🥷 Mateus Barbosa <a id="mateusxis"></a> [☝️](#se_index)
 
-🛡️🗡️: Nodejs, React, Express, Mongodb, Graphql, Python, Django, Sql, Mysql, Postgres, Redis, JavaScript, Koa
-
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mateusxis)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mateusxis/)
 
