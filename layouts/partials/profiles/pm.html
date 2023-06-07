@@ -1,0 +1,16 @@
+## Gerentes de Projeto Ninjas
+
+{{ range $.Site.Data.project_managers }}
+### 🥷 {{ .name }} <a id="{{ lower .linkedin }}"></a> [☝️](#pm_index)
+
+{{ with .skills }}🛡️🗡️: {{ title . }}
+{{end}}
+{{ with .subtitle }}📜: {{ . }}
+{{ end }}
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/{{ .linkedin }}/)
+{{ range .testmonials }}
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _{{ .text }}_\
+**- [{{ .author.name }}]({{ .author.link }}), {{ .author.relation }}**
+{{ end }}
+<hr />
+{{ end }}
