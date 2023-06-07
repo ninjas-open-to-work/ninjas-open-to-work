@@ -657,14 +657,14 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,ts,html,css,bash,java,nodejs,react,nextjs,docker,redis",
+    "skill_badges": "js,ts,html,css,bash,java,nodejs,react,nextjs,docker,redis,graphql",
     "skills": "",
     "testmonials": [
       {
         "text": "Muito esforçado, entrou como assistente, sabendo pouco, tem sede por conhecimento, sempre prestou atenção a tudo e por conta disso, pegou o trabalho bem rápido, iniciou trabalhando com frontend, mas pegou diversas tarefas ponta-a-ponta pegando back também.",
         "author": {
-          "name": "Daniele Reis",
-          "link": "https://github.com/danielesreis",
+          "name": "Daniel Tré",
+          "link": "https://github.com/donwellus",
           "relation": "Tech Lead"
         }
       }
