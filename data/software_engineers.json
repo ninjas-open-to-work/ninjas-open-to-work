@@ -164,7 +164,7 @@
     },
     "subtitle": "",
     "skill_badges": "js,docker,go",
-    "skills": "js, docker, go",
+    "skills": "",
     "testmonials": [
       {
         "text": "O Charles Schiavinato, desenvolvedor back-end, que com sua experiência e maturidade, era muitas vezes a voz da razão dentro do time. Ele possuía um grande interesse em contribuir e fazer um bom trabalho dentro do time, sempre fazendo observações precisas, que direcionavam o time a um bom caminho, além de preocupar-se em como o time poderia entregar valor em pouco tempo.",
@@ -254,7 +254,7 @@
     },
     "subtitle": "",
     "skill_badges": "html,css,js,react,nodejs,docker",
-    "skills": "HTML, CSS, JS, React, NodeJS, Docker",
+    "skills": "",
     "testmonials": [
       {
         "text": "Felipe tem um ótimo conhecimento em Frontend. Tive a oportunidade de trabalhar em Pair Programming com ele na Hurb onde desevolvemos features escritas em Javascript utilizando React e Next JS. A facilidade de trocar opiniões e críticas, sua atenção e comprometimento com a experiência do usuário e performance das aplicações o tornam um Profissional completo na área ao qual recomendo de olhos fechados.",
@@ -310,7 +310,7 @@
     },
     "subtitle": "",
     "skill_badges": "html,css,js,typescript,php,wordpress,jquery,react,nodejs,graphql,mysql,mongodb,redis,docker",
-    "skills": "HTML, CSS, JS, Typescript, PHP, Wordpress, JQuery, React, NodeJs, GraphQL, MySQL, MongoDB, Redis, Docker",
+    "skills": "",
     "testmonials": [
       {
         "text": "Tive duas experiências de trabalhar com o Francisco, uma na Cuponeria onde fizemos parte do mesmo time de Desenvolvimento Frontend focado no ambiente web criando features para o sistema core da Empresa e também para os softwares whitelabel criando do zero um sistema de gerenciamento de notas fiscais para organizar eventos promocionais de Clientes. A segunda experiência foi junto do time de Engenharia da Hurb onde não trabalhamos no mesmo time mas trocamos bastante experiência por se tratar de Squads que precisavam de contato constante, ele no Squad de Atividades e eu no de Customer Experience. Francisco se destaca por sua calma e resiliência diante de situações que exigem cautela e tomada de decisões e por seu excelente domínio com frameworks e ambientes correlatos a área de Frontend possuindo grande maestria em Javascript e PHP que impulsionam suas qualidades profissionais junto das soft skills já mencionadas.",
@@ -512,7 +512,7 @@
     },
     "subtitle": "",
     "skill_badges": "html,css,js,php,cs,nodejs,react,mysql,mongodb,redis,docker",
-    "skills": "HTML, CSS, JS, PHP, C#, NodeJs, React, MySQL, MongoDB, Redis, Docker",
+    "skills": "",
     "testmonials": [
       {
         "text": "Tive o imenso prazer de trabalhar ao lado de Lucas, inicialmente na mesma equipe e em um segundo momento somando forças em squads diferentes porém próximos, e seu conhecimento nesse tempo foi de extrema importância para ambos os Times. Recomento o Lucas por sua postura profissional, boa comunicação e conhecimento em Arquiteturas de Microserviços e Backend no geral.",
@@ -656,7 +656,7 @@
     },
     "subtitle": "",
     "skill_badges": "docker,flask,go,mysql,python,vue,rabbitmq,cs,js,java,kotlin,mongodb",
-    "skills": "docker, flask, go, mysql",
+    "skills": "",
     "testmonials": [
       {
         "text": "A Mayara Lima, desenvolvedora back-end, foi minha grande parceira e sempre demonstrou muita responsabilidade em seu trabalho, sendo uma referência em segurança web no time. Além de estar constantemente preocupada com o desempenho do time, a Mayara também era capaz de manter uma comunicação clara com pessoas de diferentes backgrounds.",
@@ -699,8 +699,8 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "react,next,html,wordpress",
-    "skills": "react, next, html, wordpress",
+    "skill_badges": "react,nextjs,html,wordpress,js,ts,css",
+    "skills": "",
     "testmonials": [
       {
         "text": "A Pamela Santos, desenvolvedora front-end, extremamente desenrolada e adaptável, sempre entregando um trabalho de alta qualidade. O time sempre podia contar com ela para entregar as demandas mais urgentes em tempo hábil.",
@@ -722,7 +722,7 @@
     },
     "subtitle": "",
     "skill_badges": "androidstudio,kotlin",
-    "skills": "androidstudio, kotlin",
+    "skills": "",
     "testmonials": [
       {
         "text": "Pedro é uma pessoa com um potencial incrível, tivemos pouco tempo trabalhando juntos, mesmo assim pude notar que é bem atualizado.",
@@ -744,7 +744,7 @@
     },
     "subtitle": "",
     "skill_badges": "androidstudio,kotlin",
-    "skills": "androidstudio, kotlin",
+    "skills": "",
     "testmonials": [
       {
         "text": "Rafael começou conosco e tinha bem pouca experiência, mas muita vontade de aprender e fazer acontecer. Se desenvolveu muito no tempo que trabalhamos juntos e foi incrível ver o seu desenvolvimento. Tem sempre muitas idéias de como fazer as coisas e está sempre disponível para ajudar seus colegas.",
@@ -880,7 +880,7 @@
     },
     "subtitle": "",
     "skill_badges": "html,css,js,php,python,flask,django,jquery,react,nodejs,mysql,mongodb,redis,docker",
-    "skills": "HTML, CSS, JS, PHP, Python, Flask, Django, JQuery, Nodejs, MySQL, MongoDB, Redis, Docker",
+    "skills": "",
     "testmonials": [
       {
         "text": "Thiago é um profissional completo com excelente postura e bastante conhecimento em Backend e Arquitetura, chegou em nossa Equipe assumindo grandes responsabilidades e preocupação com os Usuários dos Sistemas da Empresa, resolvendo bugs e sugerindo soluções para o Sistema Único de Login (SSO). Compartilhamos boas Sprints com excelentes resultados graças ao seu enorme conhecimento e sou imensamente grato pelo conhecimento que adquiri ao lado do Thiago nesses últimos meses.",
