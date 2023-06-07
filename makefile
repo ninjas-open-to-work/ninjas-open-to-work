@@ -24,6 +24,6 @@ build:
 		klakegg/hugo:alpine \
 		new default/README.md
 	mv -f content/default/README.md ./README.md
-	$(MAKE) lint markdown_changed_files="README.md" >/dev/null
+	$(MAKE) lint markdown_changed_files="README.md"
 
 .PHONY: lint
