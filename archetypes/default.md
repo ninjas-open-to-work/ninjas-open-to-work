@@ -14,29 +14,12 @@ Ninjas 🥷💻 Prontos para lutar novamente!
 
 <hr />
 
-{{ if $.Site.Data.software_engineers }}
-## Índice de Engenheiros de Software Ninjas <a id="se_index"></a>
+{{ if $.Site.Data.software_engineers }}{{ partial "se_index_partial.html" . }}{{ end }}
 
-Nome | Senioridade | Habilidades | De volta à luta?
--- | :--: | -- | :--:
-{{ range $.Site.Data.software_engineers }}[{{ .name }}](#{{ lower .github }}) | {{ if eq .seniority.level "junior" }}██░░░░{{ else if eq .seniority.level "intermediate" }}████░░{{ else if eq .seniority.level "senior" }}██████{{ end }} | {{ with .skill_badges }}<img src="https://skillicons.dev/icons?perline=9&theme=dark&i={{ . }}" />{{end}} | {{ if .hired }}✅✅✅{{ else }}⌛{{ end }}
-{{ end }}{{ end }}
+{{ if $.Site.Data.project_managers }}{{ partial "pm_index_partial.html" . }}{{ end }}
 
-{{ if $.Site.Data.project_managers }}
-## Índice de Gerentes de Projeto Ninjas <a id="pm_index"></a>
+{{ if $.Site.Data.product_designers }}{{ partial "pd_index_partial.html" . }}{{ end }}
 
-Nome | Habilidades | De volta à luta?
---- | --- | :--:
-{{ range $.Site.Data.project_managers }}[{{ .name }}](#{{ lower .linkedin }}) | {{ .skills }} | {{ if .hired }}✅✅✅{{ else }}⌛{{ end }}
-{{ end }}{{ end }}
-
-{{ if $.Site.Data.product_designers }}
-## Índice de Designers de Produto Ninjas <a id="pd_index"></a>
-
-Nome | Habilidades | De volta à luta?
---- | --- | :--:
-{{ range $.Site.Data.product_designers }}[{{ .name }}](#{{ .name | anchorize }}) | {{ .skills }} | {{ if .hired }}✅✅✅{{ else }}⌛{{ end }}
-{{ end }}{{ end }}
 <hr />
 
 {{ if $.Site.Data.software_engineers }}
