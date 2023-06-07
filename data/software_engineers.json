@@ -265,11 +265,11 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "mongodb,jest,nodejs,js,aws,elixir",
-    "skills": "",
+    "skill_badges": "mongodb,jest,nodejs,js,postgres,aws,elixir,react,docker,makefile,go",
+    "skills": "MongoDB, Jest, NodeJS, JS, AWS, Elixir, React, Docker, Makefile, Go",
     "testmonials": [
       {
-        "text": "Fellipe é um profissional extremamente resiliente, seu forte é o backend, costuma pegar tarefas que não tem muito domínio como forma de desafiar a si mesmo para aprender algo novo, e sempre conseguiu atingir os objetivos.",
+        "text": "Fellipe é um exemplo de comprometimento, coragem e resiliência! Mesmo sendo um profissional com base em Backend, ele fez questão de estudar e aprender sobre Frontend, Tracking de GA, Migração para GA4 para que tivêssemos mais força nestas tecnologias dentro do time, fora que seu backend é mais voltado para Nodejs e como estávamos desenvolvendo aplicação em Golang, ele fez cursos para ser capaz de ajudar. Será uma honra trabalhar com ele de novo.",
         "author": {
           "name": "Daniel Tré",
           "link": "https://github.com/donwellus",
@@ -435,8 +435,18 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "docker,flutter,vue,express,python,java,react",
+    "skill_badges": "docker,flutter,vue,express,python,java,react,graphql,nodejs,js",
     "skills": "",
+    "testmonials": [
+      {
+        "text": "Foi uma honra participar do desenvolvimento do Igor. Ele é uma pessoa muito inteligente, pró-ativa e que sempre defende seus pontos de vista, um profissional muito versátil que soube se aperfeiçoar no frontend e expandir seus conhecimentos no backend. Nosso time planejou e construiu muitos sistemas úteis e de sucesso, e isso é notável.",
+        "author": {
+          "name": "Daniel Tré",
+          "link": "https://github.com/donwellus",
+          "relation": "Tech Lead"
+        }
+      }
+    ],
     "hired": false
   },
   {
@@ -449,6 +459,16 @@
     "subtitle": "",
     "skill_badges": "python,mysql,php,go,mongodb,redis",
     "skills": "",
+    "testmonials": [
+      {
+        "text": "José é uma pessoa muito inteligente, com raciocínios rápidos e bastante questionador o que sempre foi ótimo para mantermos as discussões caminhando para a solução. É um profissional com skills fortes em backend, e nos contatos que tive come ele, sempre demosntrou ser bem prático e resolutivo.",
+        "author": {
+          "name": "Daniel Tré",
+          "link": "https://github.com/donwellus",
+          "relation": "Coworker"
+        }
+      }
+    ],
     "hired": false
   },
   {
