@@ -36,7 +36,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Fernando Erd](#fernando-erd) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=c,python,html,cpp,js,bash,ruby,vim,docker,go,mongodb" /> | ⌛
 [Francisco Castro](#franciscobbc) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html,css,js,typescript,php,wordpress,jquery,react,nodejs,graphql,mysql,mongodb,redis,docker" /> | ⌛
 [Gabriel Nascimento](#gabrielrnascimento) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,js,css,html,python,bash,docker,postgres" /> | ⌛
-[Gabriel Barbosa](#garbosa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,nodejs,mysql,cs,react" /> | ⌛
+[Gabriel Barbosa](#garbosa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js,nodejs,mysql,cs,react,gcp" /> | ⌛
 [Giovanni Severo](#giosvro) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [Guilherme Melo](#mufolk) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular,nodejs,mongodb,react,python,java,js,c,html,css,cpp,ts,vue,fortran,react,nextjs" /> | ⌛
 [Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts,nodejs,react,js" /> | ⌛
@@ -336,7 +336,7 @@ nome | skills | back to the fight?
 
 ### 🥷 Gabriel Barbosa <a id="garbosa"></a> [☝️](#se_index)
 
-🛡️🗡️: JS, NodeJs, React, MySQL, SQLServer, C#, HANA, SAP B1
+🛡️🗡️: JS, NodeJs, React, MySQL, SQLServer, C#, HANA, SAP B1, Google Cloud
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Garbosa)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrieln-barbosa/)
