@@ -199,6 +199,16 @@
     "subtitle": "",
     "skill_badges": "vue,firebase,ts,nodejs,js,nextjs,html,css,java,dart,ruby,python,react,styledcomponents,jquery,jest",
     "skills": "",
+    "testmonials": [
+      {
+        "text": "Trabalhei com o Efraim Andrade em duas empresas diferentes, e afirmo categoricamente que ele é um profissional front-end incrível, que sabe debater tecnicamente e também discutir necessidades do usuário e produto, entregando, além de tudo, funcionalidades bem estrutudas e de alta qualidade. Possui muito conhecimento de React, mas sempre topa desafios diferentes e está sempre disposto a encontrar a solução pros mais variados problemas. Tive a sorte de trabalhar com ele duas vezes e com certeza trabalharia uma terceira!",
+        "author": {
+          "name": "Felipe Rita",
+          "link": "https://github.com/zerodois",
+          "relation": "Tech Lead"
+        }
+      }
+    ],
     "hired": false
   },
   {
@@ -561,6 +571,16 @@
     "subtitle": "",
     "skill_badges": "react,redux,ts,js,styledcomponents,cs,gcp",
     "skills": "",
+    "testmonials": [
+      {
+        "text": "Marcos é um profissional dedicado, capacitado e interessado. Sempre disposto a ajudar e resolver problemas, aliado com ótimo relacionamento interpessoal e espirito de equipe.",
+        "author": {
+          "name": "Lucas Freitas",
+          "link": "https://github.com/lucasfreitas-dev",
+          "relation": "Tech Lead"
+        }
+      }
+    ],
     "hired": false
   },
   {
@@ -883,6 +903,16 @@
     "subtitle": "",
     "skill_badges": "dotnet,cs,python,kotlin,gulp,docker,redis,js,mysql,mongodb,ts,nodejs,gitlab",
     "skills": "",
+    "testmonials": [
+      {
+        "text": "Vinicius é um profissional completo, com uma amplitude de atuação que vai desde a investigação de problemas críticos em sistemas legado à modelagem e desenho de novos sistemas. Sempre pude contar com interesse e dedicação do Vinicius em qualquer solução necessária.",
+        "author": {
+          "name": "Lucas Freitas",
+          "link": "https://github.com/lucasfreitas-dev",
+          "relation": "Tech Lead"
+        }
+      }
+    ],
     "hired": false
   },
   {
