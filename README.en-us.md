@@ -1,6 +1,6 @@
 # Ninjas #OpenToWork
 
-Language: [[EN](./README.us-en.md)] [[PT-BR](/README.md)]
+Language: [[EN](./README.en-us.md)] [[PT-BR](/README.md)]
 
 Ninja Devs 🥷💻 Ready to fight again!
 
