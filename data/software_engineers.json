@@ -571,11 +571,11 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "nodejs,react,express,mongodb,graphql,python,django",
+    "skill_badges": "nodejs,react,express,mongodb,graphql,python,django,sql,mysql,postgres,redis,js,koa",
     "skills": "",
     "testmonials": [
       {
-        "text": "Profissional muito ativo, multi-tarefa, conhece tanto backend quanto frontend, tem bons conhecimentos de banco de dados, e vestiu a camisa de security champion, trazendo sempre a preocupação de se desenvolver aplicações seguras.",
+        "text": "Profissional muito ativo, multi-tarefa, conhece tanto backend quanto frontend, tem bons conhecimentos de banco de dados, e vestiu a camisa de security champion, conquistando duas certificações de segurança, o que trouxe base para trazer sempre a preocupação de se desenvolver aplicações seguras.",
         "author": {
           "name": "Daniel Tré",
           "link": "https://github.com/donwellus",
