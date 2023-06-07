@@ -1,0 +1,1 @@
+{{ if .skills }}🛡️🗡️: {{ .skills }}{{ else if .skill_badges }}🛡️🗡️: {{ $skills := split .skill_badges "," }}{{ range $i, $e := $skills }}{{ if eq $e "js" }}JavaScript{{ else if eq $e "ts" }}TypeScript{{ else if eq $e "cs" }}C#{{ else if eq $e "cpp" }}C++{{ else }}{{ $e | title }}{{ end }}{{ if ne ( add $i 1) (len $skills) }},{{ end }} {{ end }}{{ end }}

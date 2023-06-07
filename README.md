@@ -105,7 +105,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Adrian Dellatorre <a id="dellatorreadrian"></a> [☝️](#se_index)
 
-🛡️🗡️: Php, Cpp, Java, Postgres, Go, Git
+🛡️🗡️: Php, C++, Java, Postgres, Go, Git
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dellatorreadrian)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adrian-dellatorre/)
@@ -117,7 +117,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Alex Tavares <a id="alex-tavares"></a> [☝️](#se_index)
 
-🛡️🗡️: React, Js, Ts
+🛡️🗡️: React, JavaScript, TypeScript
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/alex-tavares)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alex-tavares/)
@@ -189,7 +189,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Bernardo Aragão <a id="hdbenosx10"></a> [☝️](#se_index)
 
-🛡️🗡️: Js, Css, Ts, Html, Docker, Bash, Go, Postgres, Nextjs, Mongodb, Redis, Mysql, Prisma, Docker
+🛡️🗡️: JavaScript, Css, TypeScript, Html, Docker, Bash, Go, Postgres, Nextjs, Mongodb, Redis, Mysql, Prisma, Docker
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/HDBenosx10)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aragao-dev/)
@@ -234,7 +234,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Diogo Machado <a id="diogomachado1"></a> [☝️](#se_index)
 
-🛡️🗡️: Go, Redis, Docker, Js, Ts, Nodejs, Express, React, Php, Python
+🛡️🗡️: Go, Redis, Docker, JavaScript, TypeScript, Nodejs, Express, React, Php, Python
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/diogomachado1)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diogo-machado-807747187/)
@@ -246,7 +246,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Efraim Andrade <a id="efraim-andrade"></a> [☝️](#se_index)
 
-🛡️🗡️: Vue, Firebase, Ts, Nodejs, Js, Nextjs, Html, Css, Java, Dart, Ruby, Python, React, Styledcomponents, Jquery, Jest
+🛡️🗡️: Vue, Firebase, TypeScript, Nodejs, JavaScript, Nextjs, Html, Css, Java, Dart, Ruby, Python, React, Styledcomponents, Jquery, Jest
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/efraim-andrade)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/efraim-andrade-517b0a149/)
@@ -276,7 +276,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Felipe Metson <a id="duchometson"></a> [☝️](#se_index)
 
-🛡️🗡️: Flask, Sqlite, Python, Cs, Angular, Django, Go, C
+🛡️🗡️: Flask, Sqlite, Python, C#, Angular, Django, Go, C
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/duchometson)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipe-metson-b9b758148/)
@@ -318,7 +318,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Fernando Erd <a id="fernando-erd"></a> [☝️](#se_index)
 
-🛡️🗡️: C, Python, Html, Cpp, Js, Bash, Ruby, Vim, Docker, Go, Mongodb
+🛡️🗡️: C, Python, Html, C++, JavaScript, Bash, Ruby, Vim, Docker, Go, Mongodb
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Fernando-Erd)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fernandoerd/)
@@ -345,7 +345,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Gabriel Nascimento <a id="gabrielrnascimento"></a> [☝️](#se_index)
 
-🛡️🗡️: Ts, Js, Css, Html, Python, Bash, Docker, Postgres
+🛡️🗡️: TypeScript, JavaScript, Css, Html, Python, Bash, Docker, Postgres
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gabrielrnascimento)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabriel-nascimento-525700124/)
@@ -387,7 +387,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Guilherme Melo <a id="mufolk"></a> [☝️](#se_index)
 
-🛡️🗡️: Angular, Nodejs, Mongodb, React, Python, Java, Js, C, Html, Css, Cpp, Ts, Vue, Fortran, React, Nextjs
+🛡️🗡️: Angular, Nodejs, Mongodb, React, Python, Java, JavaScript, C, Html, Css, C++, TypeScript, Vue, Fortran, React, Nextjs
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Mufolk)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilhermemelo138/)
@@ -399,7 +399,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Gustavo Augusto Brayn <a id="gustavobrayn"></a> [☝️](#se_index)
 
-🛡️🗡️: Ts, Nodejs, React, Js
+🛡️🗡️: TypeScript, Nodejs, React, JavaScript
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gustavobrayn)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gustavobrayn/)
@@ -414,7 +414,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Gustavo Presa Rosa <a id="gustavopresa"></a> [☝️](#se_index)
 
-🛡️🗡️: Python, Js, Redis, Docker, Java, Django, Html, Css, Postgres, Graphql, Mysql, Go
+🛡️🗡️: Python, JavaScript, Redis, Docker, Java, Django, Html, Css, Postgres, Graphql, Mysql, Go
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gustavoPresa)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gustavo-presa-rosa/)
@@ -426,7 +426,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Igor Guimaraes Veludo <a id="igorveludo2"></a> [☝️](#se_index)
 
-🛡️🗡️: Ts, Js, Css, Html, Nest, Nodejs, Graphql, Vue, Laravel, React, Nextjs, Postgres, Mysql, Express
+🛡️🗡️: TypeScript, JavaScript, Css, Html, Nest, Nodejs, Graphql, Vue, Laravel, React, Nextjs, Postgres, Mysql, Express
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/IgorVeludo2)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/igorveludo/)
@@ -438,7 +438,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Igor Imperiali <a id="imperiali"></a> [☝️](#se_index)
 
-🛡️🗡️: Docker, Flutter, Vue, Express, Python, Java, React, Graphql, Nodejs, Js
+🛡️🗡️: Docker, Flutter, Vue, Express, Python, Java, React, Graphql, Nodejs, JavaScript
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Imperiali)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/igor-imperiali/)
@@ -468,7 +468,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 José Vinicius <a id="jviniciusoliveira"></a> [☝️](#se_index)
 
-🛡️🗡️: Nodejs, Js, React, Php, Jquery, Cs, Aws
+🛡️🗡️: Nodejs, JavaScript, React, Php, Jquery, C#, Aws
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jviniciusoliveira)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jose-vinicius-os/)
@@ -510,7 +510,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Lucas Cavalheiro <a id="lgcavalheiro"></a> [☝️](#se_index)
 
-🛡️🗡️: Angular, Deno, Electron, Java, Maven, Graphql, Gulp, Nodejs, Ts, Python, React, Js
+🛡️🗡️: Angular, Deno, Electron, Java, Maven, Graphql, Gulp, Nodejs, TypeScript, Python, React, JavaScript
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lgcavalheiro)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lgcavalheiro/)
@@ -534,7 +534,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Marcos Dissotti <a id="marcosdissotti"></a> [☝️](#se_index)
 
-🛡️🗡️: React, Redux, Ts, Js, Styledcomponents, Cs, Gcp
+🛡️🗡️: React, Redux, TypeScript, JavaScript, Styledcomponents, C#, Gcp
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/marcosdissotti)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcosdissotti/)
@@ -549,7 +549,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Mateus Barbosa <a id="mateusxis"></a> [☝️](#se_index)
 
-🛡️🗡️: Nodejs, React, Express, Mongodb, Graphql, Python, Django, Mysql, Postgres, Redis, Js
+🛡️🗡️: Nodejs, React, Express, Mongodb, Graphql, Python, Django, Mysql, Postgres, Redis, JavaScript
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mateusxis)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mateusxis/)
@@ -564,7 +564,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Matheus Baldas <a id="mbaldas"></a> [☝️](#se_index)
 
-🛡️🗡️: React, Ts, Css, Nginx, Docker, Webpack, Jest, Cs, Nodejs, Nextjs, Php
+🛡️🗡️: React, TypeScript, Css, Nginx, Docker, Webpack, Jest, C#, Nodejs, Nextjs, Php
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mbaldas)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheusbaldas/)
@@ -576,7 +576,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Matheus Pelegrinetti <a id="pelegrinetti"></a> [☝️](#se_index)
 
-🛡️🗡️: React, Ts, Js, Css, Nextjs
+🛡️🗡️: React, TypeScript, JavaScript, Css, Nextjs
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Pelegrinetti)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-pelegrinetti/)
@@ -609,7 +609,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Moises Santos <a id="mdeosjr"></a> [☝️](#se_index)
 
-🛡️🗡️: Js, Ts, Html, Css, Bash, Java, Nodejs, React, Nextjs, Docker, Redis, Graphql
+🛡️🗡️: JavaScript, TypeScript, Html, Css, Bash, Java, Nodejs, React, Nextjs, Docker, Redis, Graphql
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mdeosjr)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/moisesjr/)
@@ -681,7 +681,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Raphael Carvalho <a id="zraphael"></a> [☝️](#se_index)
 
-🛡️🗡️: Js, Css, Html, Ts, Solidity, Go, Python, Bash, Webpack, Styledcomponents, React, Nodejs, Aws, Java, Cs, Sequelize
+🛡️🗡️: JavaScript, Css, Html, TypeScript, Solidity, Go, Python, Bash, Webpack, Styledcomponents, React, Nodejs, Aws, Java, C#, Sequelize
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/zraphael)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raphael-de-carvalho/)
@@ -693,7 +693,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Rodrigo Oliveira <a id="rodrigosdo"></a> [☝️](#se_index)
 
-🛡️🗡️: Go, Python, Redis, Aws, Php, Mysql, Postgres, Docker, Gcp, Nodejs, Js
+🛡️🗡️: Go, Python, Redis, Aws, Php, Mysql, Postgres, Docker, Gcp, Nodejs, JavaScript
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rodrigosdo)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodrigosdo/)
@@ -708,7 +708,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Rodrigo Cortezi <a id="rodrigovcortezi"></a> [☝️](#se_index)
 
-🛡️🗡️: Js, Nodejs, C, Python, Ruby, Go
+🛡️🗡️: JavaScript, Nodejs, C, Python, Ruby, Go
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rodrigovcortezi)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodrigo-cortezi/)
@@ -735,7 +735,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Saul Vieira <a id="vieirasaul"></a> [☝️](#se_index)
 
-🛡️🗡️: React, Styledcomponents, Webpack, Ts, Js, Nodejs
+🛡️🗡️: React, Styledcomponents, Webpack, TypeScript, JavaScript, Nodejs
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vieirasaul)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vieirasaul/)
@@ -750,7 +750,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Thales Paim Fachinelli <a id="thalesfachinelli"></a> [☝️](#se_index)
 
-🛡️🗡️: Docker, Mongodb, Kotlin, Spring, Cs, Dotnet, Nodejs, React, Kubernetes, Java
+🛡️🗡️: Docker, Mongodb, Kotlin, Spring, C#, Dotnet, Nodejs, React, Kubernetes, Java
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ThalesFachinelli)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thales-paim-fachinelli-b8b455b4/)
@@ -777,7 +777,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Vinicius Nunes <a id="viniciusnuunes"></a> [☝️](#se_index)
 
-🛡️🗡️: Dotnet, Cs, Python, Kotlin, Gulp, Docker, Redis, Js, Mysql, Mongodb, Ts, Nodejs, Gitlab
+🛡️🗡️: Dotnet, C#, Python, Kotlin, Gulp, Docker, Redis, JavaScript, Mysql, Mongodb, TypeScript, Nodejs, Gitlab
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/viniciusnuunes)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/viniciuspnunes/)
@@ -792,7 +792,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Yan Mello <a id="ydoro"></a> [☝️](#se_index)
 
-🛡️🗡️: Nodejs, Ts, Laravel, Php, Selenium, Docker, Mongodb, Yarn, Husky, Python, Mysql, React
+🛡️🗡️: Nodejs, TypeScript, Laravel, Php, Selenium, Docker, Mongodb, Yarn, Husky, Python, Mysql, React
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YDoro)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yan-mello-1a6429127/)

@@ -35,7 +35,7 @@ Nome | Habilidades | De volta à luta?
 
 Nome | Habilidades | De volta à luta?
 --- | --- | :--:
-{{ range $.Site.Data.product_designers }}[{{ .name }}](#{{ .name | urlize }}) | {{ .skills }} | {{ if .hired }}✅✅✅{{ else }}⌛{{ end }}
+{{ range $.Site.Data.product_designers }}[{{ .name }}](#{{ .name | anchorize }}) | {{ .skills }} | {{ if .hired }}✅✅✅{{ else }}⌛{{ end }}
 {{ end }}{{ end }}
 <hr />
 
@@ -46,8 +46,7 @@ Nome | Habilidades | De volta à luta?
 {{ range $.Site.Data.software_engineers }}
 ### 🥷 {{ .name }} <a id="{{ lower .github }}"></a> [☝️](#se_index)
 
-{{ if .skills }}🛡️🗡️: {{ .skills }}{{else}}{{ with .skill_badges }}🛡️🗡️: {{ replace . "," ", " | title }}{{end}}
-{{end}}
+{{ partial "se_skills_partial.html" . }}
 {{ with .subtitle }}📜: {{ . }}
 {{ end }}
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/{{ .github }})
@@ -82,7 +81,7 @@ Nome | Habilidades | De volta à luta?
 ## Designers de Produto Ninjas
 
 {{ range $.Site.Data.product_designers }}
-### 🥷 {{ .name }} <a id="{{ .name | urlize }}"></a> [☝️](#pd_index)
+### 🥷 {{ .name }} <a id="{{ .name | anchorize }}"></a> [☝️](#pd_index)
 
 {{ with .skills }}🛡️🗡️: {{ title . }}
 {{end}}
