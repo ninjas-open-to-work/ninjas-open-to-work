@@ -1,8 +1,8 @@
 # Ninjas #OpenToWork
 
-Idioma: [[EN](./README.us-en.md)] [[PT-BR](/README.md)]
+Idioma: [[EN _(soon)_](.)] [[PT-BR](/README.md)]
 
-Devs ninjas 🥷💻 Prontos para lutar novamente!
+Ninjas 🥷💻 Prontos para lutar novamente!
 
 ## Seniority
 
@@ -46,7 +46,7 @@ nome | skills | back to the fight?
 {{ range $.Site.Data.software_engineers }}
 ### 🥷 {{ .name }} <a id="{{ lower .github }}"></a> [☝️](#se_index)
 
-{{ with .skills }}🛡️🗡️: {{ title . }}
+{{ if .skills }}🛡️🗡️: {{ .skills }}{{else}}{{ with .skill_badges }}🛡️🗡️: {{ replace . "," ", " | title }}{{end}}
 {{end}}
 {{ with .subtitle }}📜: {{ . }}
 {{ end }}
