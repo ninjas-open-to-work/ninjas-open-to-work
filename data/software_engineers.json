@@ -265,7 +265,7 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "mongodb,jest,nodejs,js,postgres,aws,elixir,react,docker,makefile,go",
+    "skill_badges": "mongodb,jest,nodejs,js,postgres,aws,elixir,react,docker,go",
     "skills": "MongoDB, Jest, NodeJS, JS, AWS, Elixir, React, Docker, Makefile, Go",
     "testmonials": [
       {
@@ -465,7 +465,7 @@
         "author": {
           "name": "Daniel Tré",
           "link": "https://github.com/donwellus",
-          "relation": "Coworker"
+          "relation": "Tech Lead coworker"
         }
       }
     ],
@@ -571,7 +571,7 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "nodejs,react,express,mongodb,graphql,python,django,sql,mysql,postgres,redis,js,koa",
+    "skill_badges": "nodejs,react,express,mongodb,graphql,python,django,mysql,postgres,redis,js",
     "skills": "",
     "testmonials": [
       {
@@ -769,7 +769,7 @@
       "level": "senior"
     },
     "subtitle": "",
-    "skill_badges": "go,python,redis,aws,php,mysql,postgres,docker,gcp,nsq",
+    "skill_badges": "go,python,redis,aws,php,mysql,postgres,docker,gcp,nodejs,js",
     "skills": "",
     "testmonials": [
       {
@@ -777,7 +777,7 @@
         "author": {
           "name": "Daniel Tré",
           "link": "https://github.com/donwellus",
-          "relation": "Coworker"
+          "relation": "Tech Lead coworker"
         }
       }
     ],
