@@ -40,7 +40,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Giovanni Severo](#giosvro) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [Guilherme Melo](#mufolk) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular%2cnodejs%2cmongodb%2creact%2cpython%2cjava%2cjs%2cc%2chtml%2ccss%2ccpp%2cts%2cvue%2cfortran%2creact%2cnextjs" /> | ⌛
 [Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cnodejs%2creact%2cjs" /> | ⌛
-[Gustavo Presa Rosa](#gustavopresa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python%2cjs%2credis%2cdocker%2cjava%2cdjango%2chtml%2ccss%2cpostgres%2cgraphql%2cmysql%2cgo" /> | ⌛
+[Gustavo Presa Rosa](#gustavopresa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python%2cjs%2credis%2cdocker%2cjava%2cdjango%2chtml%2ccss%2cpostgres%2cgraphql%2cmysql%2cgo" /> | ✅✅✅
 [Igor Guimaraes Veludo](#igorveludo2) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cjs%2ccss%2chtml%2cnest%2cnodejs%2cgraphql%2cvue%2claravel%2creact%2cnextjs%2cpostgres%2cmysql%2cexpress" /> | ⌛
 [Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cflutter%2cvue%2cexpress%2cpython%2cjava%2creact%2cgraphql%2cnodejs%2cjs" /> | ⌛
 [José Ribeiro](#jtonynet) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python%2cmysql%2cphp%2cgo%2cmongodb%2credis" /> | ⌛
