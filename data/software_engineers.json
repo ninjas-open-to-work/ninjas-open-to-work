@@ -433,7 +433,7 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "ts,js,css,html,nest,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express",
+    "skill_badges": "ts,js,css,html,nestjs,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express",
     "skills": "",
     "hired": false
   },
@@ -445,7 +445,7 @@
       "level": "intermediate"
     },
     "subtitle": "",
-    "skill_badges": "docker,flutter,vue,express,python,java,react,graphql,nodejs,js",
+    "skill_badges": "docker,flutter,vue,express,python,java,react,graphql,nodejs,js,nestjs",
     "skills": "",
     "testmonials": [
       {
@@ -765,7 +765,7 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "go,nest,graphql,mongodb,spring,vue,php,laravel,nodejs,java",
+    "skill_badges": "go,nestjs,graphql,mongodb,spring,vue,php,laravel,nodejs,java",
     "skills": "",
     "hired": false
   },
