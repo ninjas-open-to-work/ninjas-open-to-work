@@ -24,7 +24,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [André Dias](#andrediasgustavo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [André Luiz Da Costa Torres](#alctorres) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=php%2cgo" /> | ⌛
 [Arthur Givigir](#arthurgivigir) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
-[Bernardo Aragão](#hdbenosx10) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2ccss%2cts%2chtml%2cdocker%2cbash%2cgo%2cpostgres%2cnextjs%2cnestjs%2cmongodb%2credis%2cmysql%2cprisma%2cnodejs%2cexpress%2ctypeorm%2c" /> | ⌛
+[Bernardo Aragão](#hdbenosx10) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2ccss%2cts%2chtml%2cdocker%2cbash%2cgo%2cpostgres%2cnextjs%2cnestjs%2cmongodb%2credis%2cmysql%2cprisma%2cnodejs%2cexpress%2c" /> | ⌛
 [Caroline Aquistapace](#aquistapace) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ⌛
 [Charles Schiavinato](#charlesschiavinato) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cdocker%2cgo" /> | ⌛
 [Diogo Machado](#diogomachado1) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2credis%2cdocker%2cjs%2cts%2cnodejs%2cexpress%2creact%2cphp%2cpython" /> | ⌛
@@ -202,7 +202,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Bernardo Aragão <a id="hdbenosx10"></a> [☝️](#se_index)
 
-🛡️🗡️: JavaScript, CSS, TypeScript, HTML, Docker, Bash, Go, PostgreSQL, Nextjs, Next.js, MongoDB, Redis, MySQL, Prisma, Node.js, Express, Typeorm,  
+🛡️🗡️: JavaScript, CSS, TypeScript, HTML, Docker, Bash, Go, PostgreSQL, Nextjs, Next.js, MongoDB, Redis, MySQL, Prisma, Node.js, Express,  
 
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/HDBenosx10)
