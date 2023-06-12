@@ -40,7 +40,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Giovanni Severo](#giosvro) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [Guilherme Melo](#mufolk) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular%2cnodejs%2cmongodb%2creact%2cpython%2cjava%2cjs%2cc%2chtml%2ccss%2ccpp%2cts%2cvue%2cfortran%2creact%2cnextjs" /> | ⌛
 [Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cnodejs%2creact%2cjs" /> | ⌛
-[Gustavo Presa Rosa](#gustavopresa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python%2cjs%2credis%2cdocker%2cjava%2cdjango%2chtml%2ccss%2cpostgres%2cgraphql%2cmysql%2cgo" /> | ✅✅✅
+[Gustavo Presa Rosa](#gustavopresa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python%2cjs%2credis%2cdocker%2cjava%2cdjango%2chtml%2ccss%2cpostgres%2cgraphql%2cmysql%2cgo" /> | ✅🚀🥳👏🎆🎉
 [Igor Guimaraes Veludo](#igorveludo2) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cjs%2ccss%2chtml%2cnest%2cnodejs%2cgraphql%2cvue%2claravel%2creact%2cnextjs%2cpostgres%2cmysql%2cexpress" /> | ⌛
 [Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cflutter%2cvue%2cexpress%2cpython%2cjava%2creact%2cgraphql%2cnodejs%2cjs" /> | ⌛
 [José Ribeiro](#jtonynet) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python%2cmysql%2cphp%2cgo%2cmongodb%2credis" /> | ⌛
@@ -56,7 +56,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Mayara Lima](#mayaralima22) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cflask%2cgo%2cmysql%2cpython%2cvue%2crabbitmq%2ccs%2cjs%2cjava%2ckotlin%2cmongodb" /> | ⌛
 [Moises Santos](#mdeosjr) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cts%2chtml%2ccss%2cbash%2cjava%2cnodejs%2creact%2cnextjs%2cdocker%2credis%2cgraphql" /> | ⌛
 [Pamela Santos](#pamelasantoss) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cnextjs%2chtml%2cwordpress%2cjs%2cts%2ccss" /> | ⌛
-[Pedro Resende Da Silva](#pedr-oresende) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio%2ckotlin" /> | ✅✅✅
+[Pedro Resende Da Silva](#pedr-oresende) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio%2ckotlin" /> | ✅🚀🥳👏🎆🎉
 [Rafael Blemer](#rblemer) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio%2ckotlin" /> | ⌛
 [Rafael Lima](#rafaellrf09) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2cnest%2cgraphql%2cmongodb%2cspring%2cvue%2cphp%2claravel%2cnodejs%2cjava" /> | ⌛
 [Raphael Carvalho](#zraphael) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2ccss%2chtml%2cts%2csolidity%2cgo%2cpython%2cbash%2cwebpack%2cstyledcomponents%2creact%2cnodejs%2caws%2cjava%2ccs%2csequelize" /> | ⌛
