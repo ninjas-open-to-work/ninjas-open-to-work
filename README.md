@@ -42,7 +42,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cnodejs%2creact%2cjs" /> | ⌛
 [Gustavo Presa Rosa](#gustavopresa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python%2cjs%2credis%2cdocker%2cjava%2cdjango%2chtml%2ccss%2cpostgres%2cgraphql%2cmysql%2cgo" /> | ✅🚀🥳👏🎆🎉
 [Igor Guimaraes Veludo](#igorveludo2) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cjs%2ccss%2chtml%2cnestjs%2cnodejs%2cgraphql%2cvue%2claravel%2creact%2cnextjs%2cpostgres%2cmysql%2cexpress" /> | ⌛
-[Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cflutter%2cvue%2cexpress%2cpython%2cjava%2creact%2cgraphql%2cnodejs%2cjs%2cnestjs" /> | ⌛
+[Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cflutter%2cvue%2cexpress%2cpython%2cjava%2creact%2cgraphql%2cnodejs%2cjs%2cnextjs%2cnestjs%2chtml%2ccss%2cwebpack%2cangular%2cmongodb%2cmysql%2cphp%2cjest%2csass%2cdjango" /> | ⌛
 [José Ribeiro](#jtonynet) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python%2cmysql%2cphp%2cgo%2cmongodb%2credis" /> | ⌛
 [José Vinicius](#jviniciusoliveira) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs%2cjs%2creact%2cphp%2cjquery%2ccs%2caws" /> | ⌛
 [Lucas Carvalho De Vasconcellos](#lcarvalho94) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2ccs%2cnodejs%2creact%2cmysql%2cmongodb%2credis%2cdocker" /> | ⌛
@@ -469,7 +469,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Igor Imperiali <a id="imperiali"></a> [☝️](#se_index)
 
-🛡️🗡️: Docker, Flutter, Vue, Express, Python, Java, React, GraphQL, Node.js, JavaScript, Next.js 
+🛡️🗡️: Docker, Flutter, Vue, Express, Python, Java, React, GraphQL, Node.js, JavaScript, Nextjs, Next.js, HTML, CSS, Webpack, Angular, MongoDB, MySQL, PHP, Jest, Sass, Django 
 
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Imperiali)
