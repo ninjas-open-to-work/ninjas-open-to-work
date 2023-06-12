@@ -423,7 +423,7 @@
     "subtitle": "",
     "skill_badges": "python,js,redis,docker,java,django,html,css,postgres,graphql,mysql,go",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Igor Guimaraes Veludo",
