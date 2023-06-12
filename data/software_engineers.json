@@ -119,7 +119,7 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,css,ts,html,docker,bash,go,postgres,nextjs,mongodb,redis,mysql,prisma,docker",
+    "skill_badges": "js,css,ts,html,docker,bash,go,postgres,nextjs,nestjs,mongodb,redis,mysql,prisma,nodejs,express,typeorm,",
     "skills": "",
     "testmonials": [
       {
