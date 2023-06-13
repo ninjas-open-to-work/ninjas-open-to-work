@@ -317,6 +317,9 @@ Nome | Habilidades | De volta à luta?
 <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Felipe tem um ótimo conhecimento em Frontend. Tive a oportunidade de trabalhar em Pair Programming com ele na Hurb onde desevolvemos features escritas em Javascript utilizando React e Next JS. A facilidade de trocar opiniões e críticas, sua atenção e comprometimento com a experiência do usuário e performance das aplicações o tornam um Profissional completo na área ao qual recomendo de olhos fechados._\
 **- [Renato Lins](https://github.com/renatolinsjr), Software Engineer Front End Colleague**
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Felipe é um profissional altamente comunicativo, que trabalha bem em equipe e está sempre disposto a assumir novas demandas, mesmo que estejam fora de sua especialidade. Demonstrou um amplo conhecimento em tecnologias e frameworks de frontend tais como JS, React, Node, Jest, além de Linux, Git e Docker. Sua dedicação à qualidade é evidente em suas sugestões valiosas para aprimorar os projetos. Com sua agilidade na entrega e busca constante por aprendizado, Felipe é um membro valioso em qualquer equipe de desenvolvimento e o recomendo, fortemente, como desenvolvedor frontend._\
+**- [Elis Carvalho](https://github.com/ElizCarvalho), Software Engineer Backend Colleague**
+
 ![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=felipebetts)
 
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=felipebetts)
