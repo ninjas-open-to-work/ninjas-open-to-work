@@ -51,6 +51,14 @@
           "link": "https://github.com/renatolinsjr",
           "relation": "Software Engineer Front End Colleague"
         }
+      },
+      {
+        "text": "Eu gostaria de expressar minha profunda gratidão pelo incrível profissionalismo e talento do Anderson. Trabalhar ao lado dele no time de CX foi uma verdadeira inspiração. Suas habilidades excepcionais tanto no frontend quanto no backend, especialmente em tecnologias como React, Next.JS, Jest e PHP, são impressionantes. Além disso, ele se destaca por sua notável capacidade de compartilhar conhecimento com paciência e habilidade de adaptação, conseguindo explicar conceitos complexos de forma clara para diferentes níveis de conhecimento, demonstrando ser um verdadeiro mestre na arte de fazer passagem de conhecimento, contribuindo para o crescimento e aprendizado de toda a equipe. Sua habilidade em compreender os problemas de negócio e pensar em soluções eficientes utilizando sua expertise em código é realmente admirável. Ele é capaz de trazer insights valiosos e implementar soluções que impulsionam a excelência operacional. Anderson é uma pessoa de grande caráter e integridade. Sempre disposto a ajudar os colegas de equipe, ele demonstra um compromisso inabalável com a qualidade e o sucesso dos projetos em que está envolvido. Agradeço imensamente por tudo e desejo todo o sucesso e felicidade em sua jornada profissional futura. Tenho certeza de que ele será excepcional em qualquer ambiente de trabalho. Recomendo-o de coração e sem hesitação.",
+        "author": {
+          "name": "Elis Carvalho",
+          "link": "https://github.com/ElizCarvalho",
+          "relation": "Software Engineer Backend Colleague"
+        }
       }
     ],
     "hired": false
@@ -262,6 +270,14 @@
           "name": "Renato Lins",
           "link": "https://github.com/renatolinsjr",
           "relation": "Software Engineer Front End Colleague"
+        }
+      },
+      {
+        "text": "Felipe é um profissional altamente comunicativo, que trabalha bem em equipe e está sempre disposto a assumir novas demandas, mesmo que estejam fora de sua especialidade. Demonstrou um amplo conhecimento em tecnologias e frameworks de frontend tais como JS, React, Node, Jest, além de Linux, Git e Docker. Sua dedicação à qualidade é evidente em suas sugestões valiosas para aprimorar os projetos. Com sua agilidade na entrega e busca constante por aprendizado, Felipe é um membro valioso em qualquer equipe de desenvolvimento e o recomendo, fortemente, como desenvolvedor frontend.",
+        "author": {
+          "name": "Elis Carvalho",
+          "link": "https://github.com/ElizCarvalho",
+          "relation": "Software Engineer Backend Colleague"
         }
       }
     ],

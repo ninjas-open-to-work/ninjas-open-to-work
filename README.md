@@ -960,7 +960,6 @@ Nome | Habilidades | De volta à luta?
 <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Super recomendo a Isa como uma profissional de Product Design excepcional. Durante nosso trabalho em conjunto, fiquei impressionada com sua comunicação eficaz, abertura para sugestões e dedicação exemplar em todas as tarefas. Além de sua simpatia contagiante, ela se destaca por sua habilidade excepcional de trabalhar em equipe, promovendo um ambiente colaborativo e harmonioso. Seus wireframes impecáveis refletem sua busca incansável pela melhor experiência do usuário, e sua disposição em solicitar feedbacks enriquece ainda mais a jornada, alinhando-a às escolhas técnicas do time. Isa é uma profissional notável que contribui significativamente para o sucesso dos projetos em que está envolvida. Sua presença em qualquer equipe certamente levará ao alcance de resultados extraordinários._\
 **- [Elis Carvalho](https://github.com/ElizCarvalho), Software Engineer Backend Colleague**
 
-
 <hr />
 
 ### 🥷 Ligia Nater Henemann <a id="ligia-nater-henemann"></a> [☝️](#pd_index)
