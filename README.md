@@ -951,6 +951,10 @@ Nome | Habilidades | De volta à luta?
 <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Recomendar a Isabel é fácil pois é uma Profissional dedicada no que faz, absorvendo e repassando conhecimento com extrema facilidade. No tempo em que trabalhamos juntos nossa comunicação sempre foi muito tranquila, sempre sugeriu soluções com base no que estudava, entendia as limitações técnicas do time e ajudou o Squad de Customer Experience da Hurb a alcançar excelentes resultados com o seu empenho._\
 **- [Renato Lins](https://github.com/renatolinsjr), Software Engineer Front End Colleague**
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Super recomendo a Isa como uma profissional de Product Design excepcional. Durante nosso trabalho em conjunto, fiquei impressionada com sua comunicação eficaz, abertura para sugestões e dedicação exemplar em todas as tarefas. Além de sua simpatia contagiante, ela se destaca por sua habilidade excepcional de trabalhar em equipe, promovendo um ambiente colaborativo e harmonioso. Seus wireframes impecáveis refletem sua busca incansável pela melhor experiência do usuário, e sua disposição em solicitar feedbacks enriquece ainda mais a jornada, alinhando-a às escolhas técnicas do time. Isa é uma profissional notável que contribui significativamente para o sucesso dos projetos em que está envolvida. Sua presença em qualquer equipe certamente levará ao alcance de resultados extraordinários._\
+**- [Elis Carvalho](https://github.com/ElizCarvalho), Software Engineer Backend Colleague**
+
+
 <hr />
 
 ### 🥷 Ligia Nater Henemann <a id="ligia-nater-henemann"></a> [☝️](#pd_index)
