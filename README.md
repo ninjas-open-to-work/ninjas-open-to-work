@@ -28,7 +28,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Caroline Aquistapace](#aquistapace) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ⌛
 [Charles Schiavinato](#charlesschiavinato) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cdocker%2cgo" /> | ⌛
 [Diogo Machado](#diogomachado1) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2credis%2cdocker%2cjs%2cts%2cnodejs%2cexpress%2creact%2cphp%2cpython" /> | ⌛
-[Efraim Andrade](#efraim-andrade) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=vue%2cfirebase%2cts%2cnodejs%2cjs%2cnextjs%2chtml%2ccss%2cjava%2cdart%2cruby%2cpython%2creact%2cstyledcomponents%2cjquery%2cjest" /> | ⌛
+[Efraim Andrade](#efraim-andrade) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=vue%2cfirebase%2cts%2cnodejs%2cjs%2cnextjs%2chtml%2ccss%2cjava%2cdart%2cruby%2cpython%2creact%2cstyledcomponents%2cjquery%2cjest" /> | ✅🚀🥳👏🎆🎉
 [Fabio Akira Takahashi](#akirafabio) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [Felipe Metson](#duchometson) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=flask%2csqlite%2cpython%2ccs%2cangular%2cdjango%2cgo%2cc" /> | ⌛
 [Felipe Alves Betts](#felipebetts) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2creact%2cnodejs%2cdocker" /> | ⌛
