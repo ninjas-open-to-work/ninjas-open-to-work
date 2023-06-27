@@ -58,7 +58,7 @@ Name | Seniority | Weapons | Back to the fight?
 [Raphael Carvalho](#raphael-carvalho) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Rodrigo Oliveira](#rodrigo-oliveira) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Rodrigo Cortezi](#rodrigo-cortezi) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Romulo Monteiro](#romulo-monteiro) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
+[Romulo Monteiro](#romulo-monteiro) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ✅🚀🥳👏🎆🎉
 [Saul Vieira](#saul-vieira) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Thales Paim Fachinelli](#thales-paim-fachinelli) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Thiago Assis](#thiago-assis) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
