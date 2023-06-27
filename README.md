@@ -62,7 +62,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Raphael Carvalho](#zraphael) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2ccss%2chtml%2cts%2csolidity%2cgo%2cpython%2cbash%2cwebpack%2cstyledcomponents%2creact%2cnodejs%2caws%2cjava%2ccs%2csequelize" /> | ⌛
 [Rodrigo Oliveira](#rodrigosdo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2cpython%2credis%2caws%2cphp%2cmysql%2cpostgres%2cdocker%2cgcp%2cnodejs%2cjs" /> | ⌛
 [Rodrigo Cortezi](#rodrigovcortezi) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cnodejs%2cc%2cpython%2cruby%2cgo" /> | ⌛
-[Romulo Monteiro](#romulomga) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
+[Romulo Monteiro](#romulomga) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ✅🚀🥳👏🎆🎉
 [Saul Vieira](#vieirasaul) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cstyledcomponents%2cwebpack%2cts%2cjs%2cnodejs" /> | ⌛
 [Thales Paim Fachinelli](#thalesfachinelli) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cmongodb%2ckotlin%2cspring%2ccs%2cdotnet%2cnodejs%2creact%2ckubernetes%2cjava" /> | ⌛
 [Thiago Assis](#assisthiago) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cpython%2cflask%2cdjango%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ⌛
