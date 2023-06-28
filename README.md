@@ -65,7 +65,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Romulo Monteiro](#romulomga) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ✅🚀🥳👏🎆🎉
 [Saul Vieira](#vieirasaul) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cstyledcomponents%2cwebpack%2cts%2cjs%2cnodejs" /> | ⌛
 [Thales Paim Fachinelli](#thalesfachinelli) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cmongodb%2ckotlin%2cspring%2ccs%2cdotnet%2cnodejs%2creact%2ckubernetes%2cjava" /> | ⌛
-[Thiago Assis](#assisthiago) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cpython%2cflask%2cdjango%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ⌛
+[Thiago Assis](#assisthiago) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cpython%2cflask%2cdjango%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> |✅🚀🥳👏🎆🎉
 [Vinicius Nunes](#viniciusnuunes) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=dotnet%2ccs%2cpython%2ckotlin%2cgulp%2cdocker%2credis%2cjs%2cmysql%2cmongodb%2cts%2cnodejs%2cgitlab" /> | ⌛
 [Yan Mello](#ydoro) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs%2cts%2claravel%2cphp%2cselenium%2cdocker%2cmongodb%2cyarn%2chusky%2cpython%2cmysql%2creact" /> | ⌛
 
