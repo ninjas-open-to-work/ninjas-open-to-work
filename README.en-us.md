@@ -16,7 +16,7 @@ Name | Seniority | Weapons | Back to the fight?
 -- | :--: | -- | :--:
 [Adrian Dellatorre](#adrian-dellatorre) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,typescript,react,vue,angular,aws,bash,c,cs,cpp,cmake,docker,dotnet,flask,go,jquery,lua,md,mongodb,mysql,nodejs,php,postgres,python,electron,prometheus,nginx,graphql,nestjs,rabbitmq,elixir,django,css,rails,redis,deno,coffeescript,ruby,sqlite,wordpress,bootstrap,rust,spring,scala,symfony" /> | ⌛
 [Alex Tavares](#alex-tavares) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Anderson Reis Souto](#anderson-reis-souto) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
+[Anderson Reis Souto](#anderson-reis-souto) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ✅🚀🥳👏🎆🎉
 [André Dias](#andre-dias) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=androidstudio,swift,kotlin,firebase,java,flutter,webpack,webflow" /> | ⌛
 [André Luiz Da Costa Torres](#andre-luiz-da-costa-torres) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Arthur Givigir](#arthur-givigir) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛

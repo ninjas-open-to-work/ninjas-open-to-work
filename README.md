@@ -20,7 +20,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
 [Adrian Dellatorre](#dellatorreadrian) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=php%2ccpp%2cjava%2cpostgres%2cgo%2cgit" /> | ⌛
 [Alex Tavares](#alex-tavares) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cjs%2cts" /> | ⌛
-[Anderson Reis Souto](#andersonpensephp) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cpython%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ⌛
+[Anderson Reis Souto](#andersonpensephp) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cpython%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ✅🚀🥳👏🎆🎉
 [André Dias](#andrediasgustavo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
 [André Luiz Da Costa Torres](#alctorres) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=php%2cgo" /> | ⌛
 [Arthur Givigir](#arthurgivigir) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
