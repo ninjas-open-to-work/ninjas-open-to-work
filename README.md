@@ -52,7 +52,7 @@ Nome | Senioridade | Habilidades | De volta à luta?
 [Marcos Dissotti](#marcosdissotti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2credux%2cts%2cjs%2cstyledcomponents%2ccs%2cgcp" /> | ⌛
 [Mateus Barbosa](#mateusxis) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs%2creact%2cexpress%2cmongodb%2cgraphql%2cpython%2cdjango%2cmysql%2cpostgres%2credis%2cjs" /> | ⌛
 [Matheus Baldas](#mbaldas) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cts%2ccss%2cnginx%2cdocker%2cwebpack%2cjest%2ccs%2cnodejs%2cnextjs%2cphp" /> | ⌛
-[Matheus Pelegrinetti](#pelegrinetti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cts%2cjs%2ccss%2cnextjs" /> | ⌛
+[Matheus Pelegrinetti](#pelegrinetti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cts%2cjs%2ccss%2cnextjs" /> | ✅🚀🥳👏🎆🎉
 [Mayara Lima](#mayaralima22) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cflask%2cgo%2cmysql%2cpython%2cvue%2crabbitmq%2ccs%2cjs%2cjava%2ckotlin%2cmongodb" /> | ✅🚀🥳👏🎆🎉
 [Moises Santos](#mdeosjr) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cts%2chtml%2ccss%2cbash%2cjava%2cnodejs%2creact%2cnextjs%2cdocker%2credis%2cgraphql" /> | ⌛
 [Pamela Santos](#pamelasantoss) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cnextjs%2chtml%2cwordpress%2cjs%2cts%2ccss" /> | ⌛
