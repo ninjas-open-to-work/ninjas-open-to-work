@@ -46,7 +46,7 @@ Name | Seniority | Weapons | Back to the fight?
 [Lucas Cavalheiro](#lucas-cavalheiro) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Luis Fernando Fontoura Spaniol](#luis-fernando-fontoura-spaniol) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Marcos Dissotti](#marcos-dissotti) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Mateus Nascimento Barbosa](#mateus-nascimento-barbosa) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
+[Mateus Nascimento Barbosa](#mateus-nascimento-barbosa) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ✅🚀🥳👏🎆🎉
 [Matheus Baldas](#matheus-baldas) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Matheus Pelegrinetti](#matheus-pelegrinetti) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ✅🚀🥳👏🎆🎉
 [Mayara Lima](#mayara-lima) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=docker,flask,go,mysql,python,redis" /> | ⌛
