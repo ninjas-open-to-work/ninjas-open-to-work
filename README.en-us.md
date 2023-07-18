@@ -26,7 +26,7 @@ Name | Seniority | Weapons | Back to the fight?
 [Diogo Machado](#diogo-machado) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Efraim Andrade](#efraim-andrade) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Fabio Akira Takahashi](#fabio-akira-takahashi) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Felipe Metson](#felipe-metson) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
+[Felipe Metson](#felipe-metson) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ✅🚀🥳👏🎆🎉
 [Felipe Alves Betts](#felipe-alves-betts) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Fellipe Maia](#fellipe-maia) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
 [Fernando Erd](#fernando-erd) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
