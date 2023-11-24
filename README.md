@@ -18,55 +18,55 @@ Ninjas 🥷💻 Prontos para lutar novamente!
 
 Nome | Senioridade | Habilidades | De volta à luta?
 -- | :--: | -- | :--:
-[Adrian Dellatorre](#dellatorreadrian) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=php%2ccpp%2cjava%2cpostgres%2cgo%2cgit" /> | ⌛
-[Alex Tavares](#alex-tavares) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cjs%2cts" /> | ⌛
+[Adrian Dellatorre](#dellatorreadrian) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=php%2ccpp%2cjava%2cpostgres%2cgo%2cgit" /> | ✅🚀🥳👏🎆🎉
+[Alex Tavares](#alex-tavares) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cjs%2cts" /> | ✅🚀🥳👏🎆🎉
 [Anderson Reis Souto](#andersonpensephp) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cpython%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ✅🚀🥳👏🎆🎉
-[André Dias](#andrediasgustavo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
-[André Luiz Da Costa Torres](#alctorres) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=php%2cgo" /> | ⌛
+[André Dias](#andrediasgustavo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ✅🚀🥳👏🎆🎉
+[André Luiz da Costa Torres](#alctorres) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=php%2cgo" /> | ✅🚀🥳👏🎆🎉
 [Arthur Givigir](#arthurgivigir) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
-[Bernardo Aragão](#hdbenosx10) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2ccss%2cts%2chtml%2cdocker%2cbash%2cgo%2cpostgres%2cnextjs%2cnestjs%2cmongodb%2credis%2cmysql%2cprisma%2cnodejs%2cexpress%2c" /> | ⌛
-[Caroline Aquistapace](#aquistapace) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ⌛
-[Charles Schiavinato](#charlesschiavinato) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cdocker%2cgo" /> | ⌛
+[Bernardo Aragão](#hdbenosx10) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2ccss%2cts%2chtml%2cdocker%2cbash%2cgo%2cpostgres%2cnextjs%2cnestjs%2cmongodb%2credis%2cmysql%2cprisma%2cnodejs%2cexpress" /> | ⌛
+[Caroline Aquistapace](#aquistapace) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ✅🚀🥳👏🎆🎉
+[Charles Schiavinato](#charlesschiavinato) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cdocker%2cgo" /> | ✅🚀🥳👏🎆🎉
 [Diogo Machado](#diogomachado1) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2credis%2cdocker%2cjs%2cts%2cnodejs%2cexpress%2creact%2cphp%2cpython" /> | ⌛
 [Efraim Andrade](#efraim-andrade) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=vue%2cfirebase%2cts%2cnodejs%2cjs%2cnextjs%2chtml%2ccss%2cjava%2cdart%2cruby%2cpython%2creact%2cstyledcomponents%2cjquery%2cjest" /> | ✅🚀🥳👏🎆🎉
-[Fabio Akira Takahashi](#akirafabio) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
+[Fabio Akira Takahashi](#akirafabio) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ✅🚀🥳👏🎆🎉
 [Felipe Metson](#duchometson) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=flask%2csqlite%2cpython%2ccs%2cangular%2cdjango%2cgo%2cc" /> | ✅🚀🥳👏🎆🎉
 [Felipe Alves Betts](#felipebetts) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2creact%2cnodejs%2cdocker" /> | ⌛
-[Fellipe Maia](#fellipemaia) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=mongodb%2cjest%2cnodejs%2cjs%2cpostgres%2caws%2celixir%2creact%2cdocker%2cgo" /> | ⌛
-[Fernando Erd](#fernando-erd) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=c%2cpython%2chtml%2ccpp%2cjs%2cbash%2cruby%2cvim%2cdocker%2cgo%2cmongodb" /> | ⌛
-[Francisco Castro](#franciscobbc) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2ctypescript%2cphp%2cwordpress%2cjquery%2creact%2cnodejs%2cgraphql%2cmysql%2cmongodb%2credis%2cdocker" /> | ⌛
+[Fellipe Maia](#fellipemaia) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=mongodb%2cjest%2cnodejs%2cjs%2cpostgres%2caws%2celixir%2creact%2cdocker%2cgo" /> | ✅🚀🥳👏🎆🎉
+[Fernando Erd](#fernando-erd) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=c%2cpython%2chtml%2ccpp%2cjs%2cbash%2cruby%2cvim%2cdocker%2cgo%2cmongodb" /> | ✅🚀🥳👏🎆🎉
+[Francisco Castro](#franciscobbc) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2ctypescript%2cphp%2cwordpress%2cjquery%2creact%2cnodejs%2cgraphql%2cmysql%2cmongodb%2credis%2cdocker" /> | ✅🚀🥳👏🎆🎉
 [Gabriel Nascimento](#gabrielrnascimento) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cjs%2ccss%2chtml%2cpython%2cbash%2cdocker%2cpostgres" /> | ⌛
-[Gabriel Barbosa](#garbosa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cnodejs%2cmysql%2ccs%2creact%2cgcp" /> | ⌛
-[Giovanni Severo](#giosvro) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ⌛
+[Gabriel Barbosa](#garbosa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cnodejs%2cmysql%2ccs%2creact%2cgcp" /> | ✅🚀🥳👏🎆🎉
+[Giovanni Severo](#giosvro) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ✅🚀🥳👏🎆🎉
 [Guilherme Melo](#mufolk) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular%2cnodejs%2cmongodb%2creact%2cpython%2cjava%2cjs%2cc%2chtml%2ccss%2ccpp%2cts%2cvue%2cfortran%2creact%2cnextjs" /> | ⌛
-[Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cnodejs%2creact%2cjs" /> | ⌛
+[Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cnodejs%2creact%2cjs" /> | ✅🚀🥳👏🎆🎉
 [Gustavo Presa Rosa](#gustavopresa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python%2cjs%2credis%2cdocker%2cjava%2cdjango%2chtml%2ccss%2cpostgres%2cgraphql%2cmysql%2cgo" /> | ✅🚀🥳👏🎆🎉
 [Igor Guimaraes Veludo](#igorveludo2) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cjs%2ccss%2chtml%2cnestjs%2cnodejs%2cgraphql%2cvue%2claravel%2creact%2cnextjs%2cpostgres%2cmysql%2cexpress" /> | ⌛
-[Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cflutter%2cvue%2cexpress%2cpython%2cjava%2creact%2cgraphql%2cnodejs%2cjs%2cnextjs%2cnestjs%2chtml%2ccss%2cwebpack%2cangular%2cmongodb%2cmysql%2cphp%2cjest%2csass%2cdjango" /> | ⌛
+[Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cflutter%2cvue%2cexpress%2cpython%2cjava%2creact%2cgraphql%2cnodejs%2cjs%2cnextjs%2cnestjs%2chtml%2ccss%2cwebpack%2cangular%2cmongodb%2cmysql%2cphp%2cjest%2csass%2cdjango" /> | ✅🚀🥳👏🎆🎉
 [José Ribeiro](#jtonynet) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python%2cmysql%2cphp%2cgo%2cmongodb%2credis" /> | ⌛
-[José Vinicius](#jviniciusoliveira) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs%2cjs%2creact%2cphp%2cjquery%2ccs%2caws" /> | ⌛
-[Lucas Carvalho De Vasconcellos](#lcarvalho94) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2ccs%2cnodejs%2creact%2cmysql%2cmongodb%2credis%2cdocker" /> | ⌛
+[José Vinicius](#jviniciusoliveira) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs%2cjs%2creact%2cphp%2cjquery%2ccs%2caws" /> | ✅🚀🥳👏🎆🎉
+[Lucas Carvalho de Vasconcellos](#lcarvalho94) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2ccs%2cnodejs%2creact%2cmysql%2cmongodb%2credis%2cdocker" /> | ✅🚀🥳👏🎆🎉
 [Lucas Scherpel](#scherpel) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs%2creact%2creact%2cflutter%2cpython%2cgo" /> | ⌛
 [Lucas Cavalheiro](#lgcavalheiro) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular%2cdeno%2celectron%2cjava%2cmaven%2cgraphql%2cgulp%2cnodejs%2cts%2cpython%2creact%2cjs" /> | ⌛
 [Luis Fernando Fontoura Spaniol](#lffspaniol) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2cpython%2cangular%2cmysql%2cprometheus" /> | ⌛
 [Marcos Dissotti](#marcosdissotti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2credux%2cts%2cjs%2cstyledcomponents%2ccs%2cgcp" /> | ⌛
 [Mateus Barbosa](#mateusxis) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs%2creact%2cexpress%2cmongodb%2cgraphql%2cpython%2cdjango%2cmysql%2cpostgres%2credis%2cjs" /> | ✅🚀🥳👏🎆🎉
-[Matheus Baldas](#mbaldas) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cts%2ccss%2cnginx%2cdocker%2cwebpack%2cjest%2ccs%2cnodejs%2cnextjs%2cphp" /> | ⌛
+[Matheus Baldas](#mbaldas) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cts%2ccss%2cnginx%2cdocker%2cwebpack%2cjest%2ccs%2cnodejs%2cnextjs%2cphp" /> | ✅🚀🥳👏🎆🎉
 [Matheus Pelegrinetti](#pelegrinetti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cts%2cjs%2ccss%2cnextjs" /> | ✅🚀🥳👏🎆🎉
 [Mayara Lima](#mayaralima22) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cflask%2cgo%2cmysql%2cpython%2cvue%2crabbitmq%2ccs%2cjs%2cjava%2ckotlin%2cmongodb" /> | ✅🚀🥳👏🎆🎉
 [Moises Santos](#mdeosjr) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cts%2chtml%2ccss%2cbash%2cjava%2cnodejs%2creact%2cnextjs%2cdocker%2credis%2cgraphql" /> | ⌛
-[Pamela Santos](#pamelasantoss) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cnextjs%2chtml%2cwordpress%2cjs%2cts%2ccss" /> | ⌛
-[Pedro Resende Da Silva](#pedr-oresende) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio%2ckotlin" /> | ✅🚀🥳👏🎆🎉
+[Pamela Santos](#pamelasantoss) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cnextjs%2chtml%2cwordpress%2cjs%2cts%2ccss" /> | ✅🚀🥳👏🎆🎉
+[Pedro Resende da Silva](#pedr-oresende) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio%2ckotlin" /> | ✅🚀🥳👏🎆🎉
 [Rafael Blemer](#rblemer) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio%2ckotlin" /> | ⌛
 [Rafael Lima](#rafaellrf09) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2cnestjs%2cgraphql%2cmongodb%2cspring%2cvue%2cphp%2claravel%2cnodejs%2cjava" /> | ⌛
-[Raphael Carvalho](#zraphael) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2ccss%2chtml%2cts%2csolidity%2cgo%2cpython%2cbash%2cwebpack%2cstyledcomponents%2creact%2cnodejs%2caws%2cjava%2ccs%2csequelize" /> | ⌛
-[Rodrigo Oliveira](#rodrigosdo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2cpython%2credis%2caws%2cphp%2cmysql%2cpostgres%2cdocker%2cgcp%2cnodejs%2cjs" /> | ⌛
+[Raphael Carvalho](#zraphael) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2ccss%2chtml%2cts%2csolidity%2cgo%2cpython%2cbash%2cwebpack%2cstyledcomponents%2creact%2cnodejs%2caws%2cjava%2ccs%2csequelize" /> | ✅🚀🥳👏🎆🎉
+[Rodrigo Oliveira](#rodrigosdo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2cpython%2credis%2caws%2cphp%2cmysql%2cpostgres%2cdocker%2cgcp%2cnodejs%2cjs" /> | ✅🚀🥳👏🎆🎉
 [Rodrigo Cortezi](#rodrigovcortezi) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cnodejs%2cc%2cpython%2cruby%2cgo" /> | ⌛
 [Romulo Monteiro](#romulomga) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ✅🚀🥳👏🎆🎉
 [Saul Vieira](#vieirasaul) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cstyledcomponents%2cwebpack%2cts%2cjs%2cnodejs" /> | ⌛
-[Thales Paim Fachinelli](#thalesfachinelli) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cmongodb%2ckotlin%2cspring%2ccs%2cdotnet%2cnodejs%2creact%2ckubernetes%2cjava" /> | ⌛
-[Thiago Assis](#assisthiago) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cpython%2cflask%2cdjango%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> |✅🚀🥳👏🎆🎉
-[Vinicius Nunes](#viniciusnuunes) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=dotnet%2ccs%2cpython%2ckotlin%2cgulp%2cdocker%2credis%2cjs%2cmysql%2cmongodb%2cts%2cnodejs%2cgitlab" /> | ⌛
+[Thales Paim Fachinelli](#thalesfachinelli) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cmongodb%2ckotlin%2cspring%2ccs%2cdotnet%2cnodejs%2creact%2ckubernetes%2cjava" /> | ✅🚀🥳👏🎆🎉
+[Thiago Assis](#assisthiago) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cpython%2cflask%2cdjango%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ✅🚀🥳👏🎆🎉
+[Vinicius Nunes](#viniciusnuunes) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=dotnet%2ccs%2cpython%2ckotlin%2cgulp%2cdocker%2credis%2cjs%2cmysql%2cmongodb%2cts%2cnodejs%2cgitlab" /> | ✅🚀🥳👏🎆🎉
 [Yan Mello](#ydoro) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs%2cts%2claravel%2cphp%2cselenium%2cdocker%2cmongodb%2cyarn%2chusky%2cpython%2cmysql%2creact" /> | ⌛
 
 ## Índice de Gerentes de Projeto Ninjas <a id="pm_index"></a>
@@ -163,7 +163,7 @@ Nome | Habilidades | De volta à luta?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=andrediasgustavo)
 <hr />
 
-### 🥷 André Luiz Da Costa Torres <a id="alctorres"></a> [☝️](#se_index)
+### 🥷 André Luiz da Costa Torres <a id="alctorres"></a> [☝️](#se_index)
 
 🛡️🗡️: PHP, Go
 
@@ -192,7 +192,7 @@ Nome | Habilidades | De volta à luta?
 
 ### 🥷 Bernardo Aragão <a id="hdbenosx10"></a> [☝️](#se_index)
 
-🛡️🗡️: JavaScript, CSS, TypeScript, HTML, Docker, Bash, Go, PostgreSQL, Nextjs, Next.js, MongoDB, Redis, MySQL, Prisma, Node.js, Express,  
+🛡️🗡️: JavaScript, CSS, TypeScript, HTML, Docker, Bash, Go, PostgreSQL, Nextjs, Next.js, MongoDB, Redis, MySQL, Prisma, Node.js, Express
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/HDBenosx10)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aragao-dev/)
@@ -487,7 +487,7 @@ Nome | Habilidades | De volta à luta?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=jviniciusoliveira)
 <hr />
 
-### 🥷 Lucas Carvalho De Vasconcellos <a id="lcarvalho94"></a> [☝️](#se_index)
+### 🥷 Lucas Carvalho de Vasconcellos <a id="lcarvalho94"></a> [☝️](#se_index)
 
 🛡️🗡️: HTML, CSS, JavaScript, PHP, C#, Node.js, React, MySQL, MongoDB, Redis, Docker
 
@@ -643,7 +643,7 @@ Nome | Habilidades | De volta à luta?
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=pamelasantoss)
 <hr />
 
-### 🥷 Pedro Resende Da Silva <a id="pedr-oresende"></a> [☝️](#se_index)
+### 🥷 Pedro Resende da Silva <a id="pedr-oresende"></a> [☝️](#se_index)
 
 🛡️🗡️: Androidstudio, Kotlin
 

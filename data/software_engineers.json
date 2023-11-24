@@ -9,7 +9,7 @@
     "subtitle": "",
     "skill_badges": "php,cpp,java,postgres,go,git",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Alex Tavares",
@@ -31,7 +31,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Anderson Reis Souto",
@@ -61,7 +61,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "André Dias",
@@ -83,10 +83,10 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
-    "name": "André Luiz Da Costa Torres",
+    "name": "André Luiz da Costa Torres",
     "github": "ALCTorres",
     "linkedin": "andr%C3%A9-luiz-da-costa-torres-874b0546",
     "seniority": {
@@ -95,7 +95,7 @@
     "subtitle": "",
     "skill_badges": "php,go",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Arthur Givigir",
@@ -127,7 +127,7 @@
       "level": "junior"
     },
     "subtitle": "",
-    "skill_badges": "js,css,ts,html,docker,bash,go,postgres,nextjs,nestjs,mongodb,redis,mysql,prisma,nodejs,express,",
+    "skill_badges": "js,css,ts,html,docker,bash,go,postgres,nextjs,nestjs,mongodb,redis,mysql,prisma,nodejs,express",
     "skills": "",
     "testmonials": [
       {
@@ -161,7 +161,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Charles Schiavinato",
@@ -183,7 +183,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Diogo Machado",
@@ -239,7 +239,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Felipe Metson",
@@ -251,7 +251,7 @@
     "subtitle": "",
     "skill_badges": "flask,sqlite,python,cs,angular,django,go,c",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Felipe Alves Betts",
@@ -303,7 +303,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Fernando Erd",
@@ -315,7 +315,7 @@
     "subtitle": "",
     "skill_badges": "c,python,html,cpp,js,bash,ruby,vim,docker,go,mongodb",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Francisco Castro",
@@ -337,7 +337,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Gabriel Nascimento",
@@ -371,7 +371,7 @@
     "skill_badges": "js,nodejs,mysql,cs,react,gcp",
     "skills": "JS, NodeJs, React, MySQL, SQLServer, C#, HANA, SAP B1, Google Cloud",
     "subtitle": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Giovanni Severo",
@@ -393,7 +393,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Guilherme Melo",
@@ -427,7 +427,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Gustavo Presa Rosa",
@@ -473,7 +473,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "José Ribeiro",
@@ -517,10 +517,10 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
-    "name": "Lucas Carvalho De Vasconcellos",
+    "name": "Lucas Carvalho de Vasconcellos",
     "github": "lcarvalho94",
     "linkedin": "lcarvalho94",
     "seniority": {
@@ -539,7 +539,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Lucas Scherpel",
@@ -619,7 +619,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Matheus Baldas",
@@ -631,7 +631,7 @@
     "subtitle": "",
     "skill_badges": "react,ts,css,nginx,docker,webpack,jest,cs,nodejs,nextjs,php",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Matheus Pelegrinetti",
@@ -661,7 +661,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Mayara Lima",
@@ -727,10 +727,10 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
-    "name": "Pedro Resende Da Silva",
+    "name": "Pedro Resende da Silva",
     "github": "pedr-oResende",
     "linkedin": "pedro-resende-da-silva-228384177",
     "seniority": {
@@ -795,7 +795,7 @@
     "subtitle": "",
     "skill_badges": "js,css,html,ts,solidity,go,python,bash,webpack,styledcomponents,react,nodejs,aws,java,cs,sequelize",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Rodrigo Oliveira",
@@ -817,7 +817,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Rodrigo Cortezi",
@@ -851,7 +851,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Saul Vieira",
@@ -885,7 +885,7 @@
     "subtitle": "",
     "skill_badges": "docker,mongodb,kotlin,spring,cs,dotnet,nodejs,react,kubernetes,java",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Thiago Assis",
@@ -907,7 +907,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Vinicius Nunes",
@@ -929,7 +929,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Yan Mello",
