@@ -1,52 +1,52 @@
 [
   {
-    "name": "Andressa Soares Silva Vasconcellos",
-    "linkedin": "",
+    "name": "Andressa Vasconcellos",
+    "linkedin": "andressavasconcellos",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Beatriz De Lima Santos",
-    "linkedin": "",
+    "linkedin": "beatrizlimacunha",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
   {
-    "name": "Clara Gomes Baluz Pereira",
-    "linkedin": "",
+    "name": "Clara Baluz",
+    "linkedin": "clara-baluz",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
   {
-    "name": "Francine Da Rocha Tavares",
-    "linkedin": "",
+    "name": "Francine Tavares",
+    "linkedin": "francine-tavares-pesquisa-ux-research-consumer-insights-pesquisa",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
   {
-    "name": "Goubert Rodrigues Da Silva Carneiro",
-    "linkedin": "",
+    "name": "Goubert Rodrigues",
+    "linkedin": "goubertrodrigues",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
   {
-    "name": "Guilherme Alves Ostolim Totoli",
-    "linkedin": "",
+    "name": "Guilherme Totoli",
+    "linkedin": "guitotoli",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
   {
-    "name": "Iara Amaral Alves",
-    "linkedin": "",
+    "name": "Iara Amaral",
+    "linkedin": "iaraamaral-uxresearcher",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Isabel Cristina Alves Oliveira",
@@ -74,78 +74,81 @@
     "hired": false
   },
   {
-    "name": "Ligia Nater Henemann",
-    "linkedin": "",
+    "name": "Ligia Henemann",
+    "linkedin": "ligia-henemann",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Luiz Eduardo Luckner Costa",
-    "linkedin": "",
+    "linkedin": "luizluckner",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Mateus Maria Prado",
-    "linkedin": "",
+    "linkedin": "mateus-maria-prado",
     "seniority": "",
-    "skills": "Figma, UX, UI",
-    "hired": false
+    "skills": "true, UX, UI",
+    "hired": true
   },
   {
-    "name": "Matheus Lamoco Olivieri Freitas Santos",
-    "linkedin": "",
+    "name": "Matheus Lamoço",
+    "linkedin": "matheus-lamoco",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
+  // Not found
+  // {
+  //   "name": "Mayra Rodrigues Da Rocha",
+  //   "linkedin": "",
+  //   "seniority": "",
+  //   "skills": "Figma, UX, UI",
+  //   "hired": false
+  // },
   {
-    "name": "Mayra Rodrigues Da Rocha",
-    "linkedin": "",
+    "name": "Nathan Santos",
+    "linkedin": "nathansantosp",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
+  // Not found
+  // {
+  //   "name": "Ronaldo Ramos De Souza",
+  //   "linkedin": "",
+  //   "seniority": "",
+  //   "skills": "Figma, UX, UI",
+  //   "hired": false
+  // },
+  // Not found
+  // {
+  //   "name": "Tereza Lucas Monteiro Oliveira",
+  //   "linkedin": "",
+  //   "seniority": "",
+  //   "skills": "Figma, UX, UI",
+  //   "hired": false
+  // },
   {
-    "name": "Nathan Santos Pires",
-    "linkedin": "",
+    "name": "Thaissa Veiga",
+    "linkedin": "thaissaveiga",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
-  },
-  {
-    "name": "Ronaldo Ramos De Souza",
-    "linkedin": "",
-    "seniority": "",
-    "skills": "Figma, UX, UI",
-    "hired": false
-  },
-  {
-    "name": "Tereza Lucas Monteiro Oliveira",
-    "linkedin": "",
-    "seniority": "",
-    "skills": "Figma, UX, UI",
-    "hired": false
-  },
-  {
-    "name": "Thaissa Maria De Campos Veiga",
-    "linkedin": "",
-    "seniority": "",
-    "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Vitoria Seidel Dos Santos",
-    "linkedin": "",
+    "linkedin": "vitoriaseidel",
     "seniority": "",
     "skills": "Figma, UX, UI",
-    "hired": false
+    "hired": true
   },
   {
-    "name": "Willy Henrique Figueira Fontenelle",
-    "linkedin": "",
+    "name": "Willy Fontenelle",
+    "linkedin": "willyfontenelle",
     "seniority": "",
     "skills": "Figma, UX, UI",
     "hired": false

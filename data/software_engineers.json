@@ -117,7 +117,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Bernardo Aragão",
@@ -139,7 +139,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Caroline Aquistapace",
@@ -281,7 +281,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Fellipe Maia",
@@ -349,7 +349,7 @@
     "subtitle": "",
     "skill_badges": "ts,js,css,html,python,bash,docker,postgres",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Gabriel Barbosa",
@@ -405,7 +405,7 @@
     "subtitle": "",
     "skill_badges": "angular,nodejs,mongodb,react,python,java,js,c,html,css,cpp,ts,vue,fortran,react,nextjs",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Gustavo Augusto Brayn",
@@ -451,7 +451,7 @@
     "subtitle": "",
     "skill_badges": "ts,js,css,html,nestjs,nodejs,graphql,vue,laravel,react,nextjs,postgres,mysql,express",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Igor Imperiali",
@@ -551,7 +551,7 @@
     "subtitle": "",
     "skill_badges": "nodejs,react,react,flutter,python,go",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Lucas Cavalheiro",
@@ -563,7 +563,7 @@
     "subtitle": "",
     "skill_badges": "angular,deno,electron,java,maven,graphql,gulp,nodejs,ts,python,react,js",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Luis Fernando Fontoura Spaniol",
@@ -575,7 +575,7 @@
     "subtitle": "",
     "skill_badges": "go,python,angular,mysql,prometheus",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Marcos Dissotti",
@@ -597,7 +597,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Mateus Barbosa",
@@ -783,7 +783,7 @@
     "subtitle": "",
     "skill_badges": "go,nestjs,graphql,mongodb,spring,vue,php,laravel,nodejs,java",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Raphael Carvalho",
@@ -829,7 +829,7 @@
     "subtitle": "",
     "skill_badges": "js,nodejs,c,python,ruby,go",
     "skills": "",
-    "hired": false
+    "hired": true
   },
   {
     "name": "Romulo Monteiro",
@@ -873,7 +873,7 @@
         }
       }
     ],
-    "hired": false
+    "hired": true
   },
   {
     "name": "Thales Paim Fachinelli",
@@ -940,6 +940,8 @@
     },
     "subtitle": "",
     "skill_badges": "nodejs,ts,laravel,php,selenium,docker,mongodb,yarn,husky,python,mysql,react",
-    "skills": ""
+    "skills": "",
+    "testmonials": [],
+    "hired": false
   }
 ]
