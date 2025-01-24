@@ -4,7 +4,7 @@ Idioma: [[EN _(soon)_](.)] [[PT-BR](/README.md)]
 
 Ninjas 🥷💻 Prontos para lutar novamente!
 
-## Seniority
+## Senioridade
 
 ██░░░░ - _júnior_
 
@@ -33,6 +33,6 @@ Ninjas 🥷💻 Prontos para lutar novamente!
 - <https://github.com/tandpfun/skill-icons>
 - <https://home.aveek.io/GitHub-Profile-Badges>
 
-## Disclaimers
+## Aviso
 
 - Traduções de depoimentos podem ser feitas sem a revisão dos autores. Parte do significado pode ser perdido na tradução. Textos originais serão marcados com a insígnia <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />.
