@@ -1,5 +1,3 @@
-MAKEFLAGS += --silent
-
 lint:
 	docker run -t --rm \
 		-v ${PWD}:/workdir \
@@ -7,12 +5,10 @@ lint:
 		"**/*.md" --fix
 
 build:
-	[ -f content/default/README.md ] && rm -f content/default/README.md
 	docker run --rm \
 		-v ${PWD}:/src \
 		--user $(shell id -u):$(shell id -g) \
-		klakegg/hugo:alpine \
-		new default/README.md
-	mv -f content/default/README.md ./README.md
-
-.PHONY: lint
+		hugomods/hugo:std-base-non-root-0.142.0 \
+		sh -c "hugo new -f readme.pt.md ; hugo new -f readme.en.md"
+	[ -f ./content/readme.en.md ] && mv ./content/readme.en.md ./README.en-us.md
+	[ -f ./content/readme.pt.md ] && mv ./content/readme.pt.md ./README.md
