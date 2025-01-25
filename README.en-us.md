@@ -1,128 +1,180 @@
 # Ninjas #OpenToWork
 
-Language: [[EN](./README.en-us.md)] [[PT-BR](/README.md)]
+Languages: [[EN](README.en.md)] [[PT](README.md)]
 
 Ninja Devs 🥷💻 Ready to fight again!
 
 ## Seniority
 
-- ██░░░░ **junior**
-- ████░░ **intermediate**
-- ██████ **senior**
+██░░░░ - _junior_
 
-## Software engineers index
+████░░ - _intermediate_
+
+██████ - _senior_
+
+<hr />
+
+## Software engineers index <a id="se_index"></a>
 
 Name | Seniority | Weapons | Back to the fight?
 -- | :--: | -- | :--:
-[Adrian Dellatorre](#adrian-dellatorre) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=js,typescript,react,vue,angular,aws,bash,c,cs,cpp,cmake,docker,dotnet,flask,go,jquery,lua,md,mongodb,mysql,nodejs,php,postgres,python,electron,prometheus,nginx,graphql,nestjs,rabbitmq,elixir,django,css,rails,redis,deno,coffeescript,ruby,sqlite,wordpress,bootstrap,rust,spring,scala,symfony" /> | ⌛
-[Alex Tavares](#alex-tavares) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Anderson Reis Souto](#anderson-reis-souto) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ✅🚀🥳👏🎆🎉
-[André Dias](#andre-dias) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=androidstudio,swift,kotlin,firebase,java,flutter,webpack,webflow" /> | ⌛
-[André Luiz Da Costa Torres](#andre-luiz-da-costa-torres) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Arthur Givigir](#arthur-givigir) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Bernardo Da Costa Aragão](#bernardo-da-costa-aragao) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Caroline Aquistapace](#caroline-aquistapace) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Charles Schiavinato](#charles-schiavinato) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Diogo Machado](#diogo-machado) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Efraim Andrade](#efraim-andrade) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Fabio Akira Takahashi](#fabio-akira-takahashi) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Felipe Metson](#felipe-metson) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ✅🚀🥳👏🎆🎉
-[Felipe Alves Betts](#felipe-alves-betts) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Fellipe Maia](#fellipe-maia) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Fernando Erd](#fernando-erd) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Francisco Castro](#francisco-castro) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Gabriel Nascimento](#gabriel-nascimento) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Gabriel Barbosa](#gabriel-barbosa) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Giovanni Severo](#giovanni-severo) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Guilherme Melo](#guilherme-melo) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Gustavo Augusto Brayn](#gustavo-augusto-brayn) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Gustavo Presa Rosa](#gustavo-presa-rosa) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Igor Guimaraes Veludo](#igor-guimaraes-veludo) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Igor Imperiali](#igor-imperiali) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[José Ribeiro](#jose-ribeiro) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[José Vinicius](#jose-vinicius) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Lucas Carvalho De Vasconcellos](#lucas-carvalho-de-vasconcellos) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Lucas Scherpel](#lucas-scherpel) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Lucas Cavalheiro](#lucas-cavalheiro) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Luis Fernando Fontoura Spaniol](#luis-fernando-fontoura-spaniol) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Marcos Dissotti](#marcos-dissotti) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Mateus Nascimento Barbosa](#mateus-nascimento-barbosa) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ✅🚀🥳👏🎆🎉
-[Matheus Baldas](#matheus-baldas) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Matheus Pelegrinetti](#matheus-pelegrinetti) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ✅🚀🥳👏🎆🎉
-[Mayara Lima](#mayara-lima) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=docker,flask,go,mysql,python,redis" /> | ⌛
-[Moises Santos](#moises-santos) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Pamela Santos](#pamela-santos) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Pedro Resende Da Silva](#pedro-resende-da-silva) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Rafael Blemer](#rafael-blemer) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Rafael Lima](#rafael-lima) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Raphael Carvalho](#raphael-carvalho) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Rodrigo Oliveira](#rodrigo-oliveira) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Rodrigo Cortezi](#rodrigo-cortezi) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Romulo Monteiro](#romulo-monteiro) | ██████ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ✅🚀🥳👏🎆🎉
-[Saul Vieira](#saul-vieira) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Thales Paim Fachinelli](#thales-paim-fachinelli) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Thiago Assis](#thiago-assis) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ✅🚀🥳👏🎆🎉
-[Vinicius Nunes](#vinicius-nunes) | ████░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
-[Yan Mello](#yan-mello) | ██░░░░ | <img src="https://skillicons.dev/icons?theme=dark&i=python,ts,js,php,go,nodejs,postgres,mysql,redis,docker" /> | ⌛
+[Adrian Dellatorre](#dellatorreadrian) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=php%2ccpp%2cjava%2cpostgres%2cgo%2cgit" /> | ✅🚀🥳👏🎆🎉
+[Alex Tavares](#alex-tavares) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cjs%2cts" /> | ✅🚀🥳👏🎆🎉
+[Anderson Reis Souto](#andersonpensephp) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cpython%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ✅🚀🥳👏🎆🎉
+[André Dias](#andrediasgustavo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ✅🚀🥳👏🎆🎉
+[André Luiz da Costa Torres](#alctorres) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=php%2cgo" /> | ✅🚀🥳👏🎆🎉
+[Arthur Givigir](#arthurgivigir) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ✅🚀🥳👏🎆🎉
+[Bernardo Aragão](#hdbenosx10) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2ccss%2cts%2chtml%2cdocker%2cbash%2cgo%2cpostgres%2cnextjs%2cnestjs%2cmongodb%2credis%2cmysql%2cprisma%2cnodejs%2cexpress" /> | ✅🚀🥳👏🎆🎉
+[Caroline Aquistapace](#aquistapace) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ✅🚀🥳👏🎆🎉
+[Charles Schiavinato](#charlesschiavinato) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cdocker%2cgo" /> | ✅🚀🥳👏🎆🎉
+[Diogo Machado](#diogomachado1) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2credis%2cdocker%2cjs%2cts%2cnodejs%2cexpress%2creact%2cphp%2cpython" /> | ⌛
+[Efraim Andrade](#efraim-andrade) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=vue%2cfirebase%2cts%2cnodejs%2cjs%2cnextjs%2chtml%2ccss%2cjava%2cdart%2cruby%2cpython%2creact%2cstyledcomponents%2cjquery%2cjest" /> | ✅🚀🥳👏🎆🎉
+[Fabio Akira Takahashi](#akirafabio) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ✅🚀🥳👏🎆🎉
+[Felipe Metson](#duchometson) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=flask%2csqlite%2cpython%2ccs%2cangular%2cdjango%2cgo%2cc" /> | ✅🚀🥳👏🎆🎉
+[Felipe Alves Betts](#felipebetts) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2creact%2cnodejs%2cdocker" /> | ✅🚀🥳👏🎆🎉
+[Fellipe Maia](#fellipemaia) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=mongodb%2cjest%2cnodejs%2cjs%2cpostgres%2caws%2celixir%2creact%2cdocker%2cgo" /> | ✅🚀🥳👏🎆🎉
+[Fernando Erd](#fernando-erd) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=c%2cpython%2chtml%2ccpp%2cjs%2cbash%2cruby%2cvim%2cdocker%2cgo%2cmongodb" /> | ✅🚀🥳👏🎆🎉
+[Francisco Castro](#franciscobbc) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2ctypescript%2cphp%2cwordpress%2cjquery%2creact%2cnodejs%2cgraphql%2cmysql%2cmongodb%2credis%2cdocker" /> | ✅🚀🥳👏🎆🎉
+[Gabriel Nascimento](#gabrielrnascimento) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cjs%2ccss%2chtml%2cpython%2cbash%2cdocker%2cpostgres" /> | ✅🚀🥳👏🎆🎉
+[Gabriel Barbosa](#garbosa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cnodejs%2cmysql%2ccs%2creact%2cgcp" /> | ✅🚀🥳👏🎆🎉
+[Giovanni Severo](#giosvro) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ✅🚀🥳👏🎆🎉
+[Guilherme Melo](#mufolk) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular%2cnodejs%2cmongodb%2creact%2cpython%2cjava%2cjs%2cc%2chtml%2ccss%2ccpp%2cts%2cvue%2cfortran%2creact%2cnextjs" /> | ✅🚀🥳👏🎆🎉
+[Gustavo Augusto Brayn](#gustavobrayn) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cnodejs%2creact%2cjs" /> | ✅🚀🥳👏🎆🎉
+[Gustavo Presa Rosa](#gustavopresa) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python%2cjs%2credis%2cdocker%2cjava%2cdjango%2chtml%2ccss%2cpostgres%2cgraphql%2cmysql%2cgo" /> | ✅🚀🥳👏🎆🎉
+[Igor Guimaraes Veludo](#igorveludo2) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=ts%2cjs%2ccss%2chtml%2cnestjs%2cnodejs%2cgraphql%2cvue%2claravel%2creact%2cnextjs%2cpostgres%2cmysql%2cexpress" /> | ✅🚀🥳👏🎆🎉
+[Igor Imperiali](#imperiali) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cflutter%2cvue%2cexpress%2cpython%2cjava%2creact%2cgraphql%2cnodejs%2cjs%2cnextjs%2cnestjs%2chtml%2ccss%2cwebpack%2cangular%2cmongodb%2cmysql%2cphp%2cjest%2csass%2cdjango" /> | ✅🚀🥳👏🎆🎉
+[José Ribeiro](#jtonynet) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=python%2cmysql%2cphp%2cgo%2cmongodb%2credis" /> | ⌛
+[José Vinicius](#jviniciusoliveira) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs%2cjs%2creact%2cphp%2cjquery%2ccs%2caws" /> | ✅🚀🥳👏🎆🎉
+[Lucas Carvalho de Vasconcellos](#lcarvalho94) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2ccs%2cnodejs%2creact%2cmysql%2cmongodb%2credis%2cdocker" /> | ✅🚀🥳👏🎆🎉
+[Lucas Scherpel](#scherpel) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs%2creact%2creact%2cflutter%2cpython%2cgo" /> | ✅🚀🥳👏🎆🎉
+[Lucas Cavalheiro](#lgcavalheiro) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=angular%2cdeno%2celectron%2cjava%2cmaven%2cgraphql%2cgulp%2cnodejs%2cts%2cpython%2creact%2cjs" /> | ✅🚀🥳👏🎆🎉
+[Luis Fernando Fontoura Spaniol](#lffspaniol) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2cpython%2cangular%2cmysql%2cprometheus" /> | ✅🚀🥳👏🎆🎉
+[Marcos Dissotti](#marcosdissotti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2credux%2cts%2cjs%2cstyledcomponents%2ccs%2cgcp" /> | ✅🚀🥳👏🎆🎉
+[Mateus Barbosa](#mateusxis) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs%2creact%2cexpress%2cmongodb%2cgraphql%2cpython%2cdjango%2cmysql%2cpostgres%2credis%2cjs" /> | ✅🚀🥳👏🎆🎉
+[Matheus Baldas](#mbaldas) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cts%2ccss%2cnginx%2cdocker%2cwebpack%2cjest%2ccs%2cnodejs%2cnextjs%2cphp" /> | ✅🚀🥳👏🎆🎉
+[Matheus Pelegrinetti](#pelegrinetti) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cts%2cjs%2ccss%2cnextjs" /> | ✅🚀🥳👏🎆🎉
+[Mayara Lima](#mayaralima22) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cflask%2cgo%2cmysql%2cpython%2cvue%2crabbitmq%2ccs%2cjs%2cjava%2ckotlin%2cmongodb" /> | ✅🚀🥳👏🎆🎉
+[Moises Santos](#mdeosjr) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cts%2chtml%2ccss%2cbash%2cjava%2cnodejs%2creact%2cnextjs%2cdocker%2credis%2cgraphql" /> | ⌛
+[Pamela Santos](#pamelasantoss) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cnextjs%2chtml%2cwordpress%2cjs%2cts%2ccss" /> | ✅🚀🥳👏🎆🎉
+[Pedro Resende da Silva](#pedr-oresende) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio%2ckotlin" /> | ✅🚀🥳👏🎆🎉
+[Rafael Blemer](#rblemer) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=androidstudio%2ckotlin" /> | ⌛
+[Rafael Lima](#rafaellrf09) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2cnestjs%2cgraphql%2cmongodb%2cspring%2cvue%2cphp%2claravel%2cnodejs%2cjava" /> | ✅🚀🥳👏🎆🎉
+[Raphael Carvalho](#zraphael) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2ccss%2chtml%2cts%2csolidity%2cgo%2cpython%2cbash%2cwebpack%2cstyledcomponents%2creact%2cnodejs%2caws%2cjava%2ccs%2csequelize" /> | ✅🚀🥳👏🎆🎉
+[Rodrigo Oliveira](#rodrigosdo) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=go%2cpython%2credis%2caws%2cphp%2cmysql%2cpostgres%2cdocker%2cgcp%2cnodejs%2cjs" /> | ✅🚀🥳👏🎆🎉
+[Rodrigo Cortezi](#rodrigovcortezi) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=js%2cnodejs%2cc%2cpython%2cruby%2cgo" /> | ✅🚀🥳👏🎆🎉
+[Romulo Monteiro](#romulomga) | ██████ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=swift" /> | ✅🚀🥳👏🎆🎉
+[Saul Vieira](#vieirasaul) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=react%2cstyledcomponents%2cwebpack%2cts%2cjs%2cnodejs" /> | ✅🚀🥳👏🎆🎉
+[Thales Paim Fachinelli](#thalesfachinelli) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=docker%2cmongodb%2ckotlin%2cspring%2ccs%2cdotnet%2cnodejs%2creact%2ckubernetes%2cjava" /> | ✅🚀🥳👏🎆🎉
+[Thiago Assis](#assisthiago) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=html%2ccss%2cjs%2cphp%2cpython%2cflask%2cdjango%2cjquery%2creact%2cnodejs%2cmysql%2cmongodb%2credis%2cdocker" /> | ✅🚀🥳👏🎆🎉
+[Vinicius Nunes](#viniciusnuunes) | ████░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=dotnet%2ccs%2cpython%2ckotlin%2cgulp%2cdocker%2credis%2cjs%2cmysql%2cmongodb%2cts%2cnodejs%2cgitlab" /> | ✅🚀🥳👏🎆🎉
+[Yan Mello](#ydoro) | ██░░░░ | <img src="https://skillicons.dev/icons?perline=9&theme=dark&i=nodejs%2cts%2claravel%2cphp%2cselenium%2cdocker%2cmongodb%2cyarn%2chusky%2cpython%2cmysql%2creact" /> | ⌛
 
-## Project managers index
 
-nome | skills | back to the fight?
---- | --- | ---
-[Camila Ribeiro](#camila-ribeiro) | ??? | ⌛
 
----
+## Project managers index <a id="pm_index"></a>
+
+Name | Skills | Back to the fight?
+--- | --- | :--:
+[Camila Ribeiro](#camila-ribeiro-01299992) | PMO, Agile | ⌛
+
+
+
+## Product designers index <a id="pd_index"></a>
+
+Name | Skills | Back to the fight?
+--- | --- | :--:
+[Andressa Vasconcellos](#andressa-vasconcellos) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Beatriz De Lima Santos](#beatriz-de-lima-santos) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Clara Baluz](#clara-baluz) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Francine Tavares](#francine-tavares) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Goubert Rodrigues](#goubert-rodrigues) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Guilherme Totoli](#guilherme-totoli) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Iara Amaral](#iara-amaral) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Isabel Cristina Alves Oliveira](#isabel-cristina-alves-oliveira) | Figma, UX, UI, Hotjar, Pesquisa de experiência do usuário, Design Thinking, Wireframes, Design de Interface do Usuário, Design de Interação, Design Detalhado, Sistemas de Design, Usabilidade | ⌛
+[Ligia Henemann](#ligia-henemann) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Luiz Eduardo Luckner Costa](#luiz-eduardo-luckner-costa) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Mateus Maria Prado](#mateus-maria-prado) | true, UX, UI | ✅🚀🥳👏🎆🎉
+[Matheus Lamoço](#matheus-lamoço) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Nathan Santos](#nathan-santos) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Thaissa Veiga](#thaissa-veiga) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Vitoria Seidel Dos Santos](#vitoria-seidel-dos-santos) | Figma, UX, UI | ✅🚀🥳👏🎆🎉
+[Willy Fontenelle](#willy-fontenelle) | Figma, UX, UI | ⌛
+
+
+
+<hr />
 
 ## Software engineers
 
-### 🥷 Adrian Dellatorre <a id="adrian-dellatorre"></a>
+
+### 🥷 Adrian Dellatorre <a id="dellatorreadrian"></a> [☝️](#se_index)
+
+🛡️🗡️: PHP, C++, Java, PostgreSQL, Go, Git 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dellatorreadrian)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adrian-dellatorre)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adrian-dellatorre/)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=dellatorreadrian)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=dellatorreadrian)
+<hr />
 
----
+### 🥷 Alex Tavares <a id="alex-tavares"></a> [☝️](#se_index)
 
-### 🥷 Alex Tavares <a id="alex-tavares"></a>
+🛡️🗡️: React, JavaScript, TypeScript 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/alex-tavares)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alex-tavares/)
 
-_Alex Tavares é um desenvolvedor extremamente dedicado e apaixonado pelo que faz. Ele teve uma trajetória desafiadora em que saiu de um emprego certo para ser desenvolvedor, mas sua escolha mostrou-se acertada. Ao longo do último ano, evoluiu de Júnior para Pleno, graças ao seu comprometimento e contribuições fundamentadas. Alex é um profissional humilde, preocupado com seus colegas de trabalho e sempre disposto a aprender e compartilhar conhecimento._\
-**- Pedro Braga, Software Engineer Front End Colleague**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Alex Tavares é um desenvolvedor extremamente dedicado e apaixonado pelo que faz. Ele teve uma trajetória desafiadora em que saiu de um emprego certo para ser desenvolvedor, mas sua escolha mostrou-se acertada. Ao longo do último ano, evoluiu de Júnior para Pleno, graças ao seu comprometimento e contribuições fundamentadas. Alex é um profissional humilde, preocupado com seus colegas de trabalho e sempre disposto a aprender e compartilhar conhecimento._\
+**- [Pedro Lisboa](https://github.com/pedrobslisboa), Software Engineer Front End Colleague**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=alex-tavares)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=alex-tavares)
+<hr />
 
----
+### 🥷 Anderson Reis Souto <a id="andersonpensephp"></a> [☝️](#se_index)
 
-### 🥷 Anderson Reis Souto <a id="anderson-reis-souto"></a>
+🛡️🗡️: HTML, CSS, JS, PHP, Python, JQuery, React, NodeJs, MySQL, MongoDB, Redis, Docker
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andersonpensephp)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andersonfront/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Tive o prazer de dividir excelentes Sprints ao lado do Anderson no Squad de Desenvolvimento de Customer Experience ao lado do Anderson. Por ser uma pessoa carismática e cativante, nosso primeiro contato foi tão natural que parecíamos trabalhar juntos há anos. Fui muito bem recebido pelo Anderson que já fazia parte da equipe há alguns anos e ele é a primeira pessoa que me vem à cabeça quando falam de: &#39;acender a luz do próximo não apaga a sua&#39;. Excelente profissional capacitado tanto em tecnologias Backend quanto Frontend além de suas excelentes Soft Skills._\
+**- [Renato Lins](https://github.com/renatolinsjr), Software Engineer Front End Colleague**
+
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Eu gostaria de expressar minha profunda gratidão pelo incrível profissionalismo e talento do Anderson. Trabalhar ao lado dele no time de CX foi uma verdadeira inspiração. Suas habilidades excepcionais tanto no frontend quanto no backend, especialmente em tecnologias como React, Next.JS, Jest e PHP, são impressionantes. Além disso, ele se destaca por sua notável capacidade de compartilhar conhecimento com paciência e habilidade de adaptação, conseguindo explicar conceitos complexos de forma clara para diferentes níveis de conhecimento, demonstrando ser um verdadeiro mestre na arte de fazer passagem de conhecimento, contribuindo para o crescimento e aprendizado de toda a equipe. Sua habilidade em compreender os problemas de negócio e pensar em soluções eficientes utilizando sua expertise em código é realmente admirável. Ele é capaz de trazer insights valiosos e implementar soluções que impulsionam a excelência operacional. Anderson é uma pessoa de grande caráter e integridade. Sempre disposto a ajudar os colegas de equipe, ele demonstra um compromisso inabalável com a qualidade e o sucesso dos projetos em que está envolvido. Agradeço imensamente por tudo e desejo todo o sucesso e felicidade em sua jornada profissional futura. Tenho certeza de que ele será excepcional em qualquer ambiente de trabalho. Recomendo-o de coração e sem hesitação._\
+**- [Elis Carvalho](https://github.com/ElizCarvalho), Software Engineer Backend Colleague**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=andersonpensephp)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=andersonpensephp)
+<hr />
 
----
+### 🥷 André Dias <a id="andrediasgustavo"></a> [☝️](#se_index)
 
-### 🥷 André Dias <a id="andre-dias"></a>
+🛡️🗡️: Xcode, Swift
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andrediasgustavo)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andregustavodias/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _André é uma pessoa incrivelmente ágil para resolver problemas de qualquer tamanho. Muito competente com as entregas e sempre disponível para ajudar seus colegas de trabalho_\
+**- [Daniel Pucciariello](https://github.com/danielpucci), Tech Lead**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=andrediasgustavo)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=andrediasgustavo)
+<hr />
 
----
+### 🥷 André Luiz da Costa Torres <a id="alctorres"></a> [☝️](#se_index)
 
-### 🥷 André Luiz Da Costa Torres <a id="andre-luiz-da-costa-torres"></a>
+🛡️🗡️: PHP, Go 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ALCTorres)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-da-costa-torres-874b0546/)
@@ -130,60 +182,76 @@ _Alex Tavares é um desenvolvedor extremamente dedicado e apaixonado pelo que fa
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=ALCTorres)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=ALCTorres)
+<hr />
 
----
+### 🥷 Arthur Givigir <a id="arthurgivigir"></a> [☝️](#se_index)
 
-### 🥷 Arthur Givigir <a id="arthur-givigir"></a>
+🛡️🗡️: Xcode, Swift
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/arthurgivigir)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arthur-givigir-b4a64a66/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Arhur foi alguém que eu tive oportunidade de trabalhar 2 vezes, mas por muito pouco tempo, apesar disso, ele se mostrou ser uma pessoa super contribuidora com melhorias e desenvolvimento com qualidade._\
+**- [Daniel Pucciariello](https://github.com/danielpucci), Tech Lead**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=arthurgivigir)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=arthurgivigir)
+<hr />
 
----
+### 🥷 Bernardo Aragão <a id="hdbenosx10"></a> [☝️](#se_index)
 
-### 🥷 Bernardo Aragão <a id="bernardo-da-costa-aragao"></a>
+🛡️🗡️: JavaScript, CSS, TypeScript, HTML, Docker, Bash, Go, PostgreSQL, Nextjs, Next.js, MongoDB, Redis, MySQL, Prisma, Node.js, Express 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/HDBenosx10)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aragao-dev/)
 
-_Muito safo para descobrir/pesquisar sobre problemas e encontrar soluções. Seu forte é backend, mas chegou a pegar algumas coisas de frontend._\
-**- Daniel Tré, Tech Lead**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Muito safo para descobrir/pesquisar sobre problemas e encontrar soluções. Seu forte é backend, mas chegou a pegar algumas coisas de frontend._\
+**- [Daniel Tré](https://github.com/donwellus), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=HDBenosx10)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=HDBenosx10)
+<hr />
 
----
+### 🥷 Caroline Aquistapace <a id="aquistapace"></a> [☝️](#se_index)
 
-### 🥷 Caroline Aquistapace <a id="caroline-aquistapace"></a>
+🛡️🗡️: HTML, CSS, JS, PHP, JQuery, React, NodeJs, MySQL, MongoDB, Redis, Docker
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aquistapace)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/caroline-aquistapace-07095231/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Carol se destaca muito por sua capacidade de comunicação sabendo lidar bem com escolhas e tomadas de decisão, possui talento para liderança além de se destacar em sua organização e facilidade de documentar processos. Além disso, se destaca na área de Frontend ao qual estuda bastante se destacando na stack MERN com NextJS. Tive o prazer de dividir muitas sprints ao lado dessa pessoa que contagia alegria e ânimo por onde passa e que deixou boa parte desse sentimento marcado na minha carreira profissional._\
+**- [Renato Lins](https://github.com/renatolinsjr), Software Engineer Front End Colleague**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=aquistapace)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=aquistapace)
+<hr />
 
----
+### 🥷 Charles Schiavinato <a id="charlesschiavinato"></a> [☝️](#se_index)
 
-### 🥷 Charles Schiavinato <a id="charles-schiavinato"></a>
+🛡️🗡️: JavaScript, Docker, Go 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/CharlesSchiavinato)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/charles-schiavinato-b973b239/)
 
-_O Charles Schiavinato, desenvolvedor back-end, que com sua experiência e maturidade, era muitas vezes a voz da razão dentro do time._\
-**- Daniele Reis, Tech Lead**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _O Charles Schiavinato, desenvolvedor back-end, que com sua experiência e maturidade, era muitas vezes a voz da razão dentro do time. Ele possuía um grande interesse em contribuir e fazer um bom trabalho dentro do time, sempre fazendo observações precisas, que direcionavam o time a um bom caminho, além de preocupar-se em como o time poderia entregar valor em pouco tempo._\
+**- [Daniele Reis](https://github.com/danielesreis), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=CharlesSchiavinato)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=CharlesSchiavinato)
+<hr />
 
----
+### 🥷 Diogo Machado <a id="diogomachado1"></a> [☝️](#se_index)
 
-### 🥷 Diogo Machado <a id="diogo-machado"></a>
+🛡️🗡️: Go, Redis, Docker, JavaScript, TypeScript, Node.js, Express, React, PHP, Python 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/diogomachado1)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diogo-machado-807747187/)
@@ -191,32 +259,44 @@ _O Charles Schiavinato, desenvolvedor back-end, que com sua experiência e matur
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=diogomachado1)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=diogomachado1)
+<hr />
 
----
+### 🥷 Efraim Andrade <a id="efraim-andrade"></a> [☝️](#se_index)
 
-### 🥷 Efraim Andrade <a id="efraim-andrade"></a>
+🛡️🗡️: Vue, Firebase, TypeScript, Node.js, JavaScript, Nextjs, HTML, CSS, Java, Dart, Ruby, Python, React, Styled Components, JQuery, Jest 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/efraim-andrade)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/efraim-andrade-517b0a149/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Trabalhei com o Efraim Andrade em duas empresas diferentes, e afirmo categoricamente que ele é um profissional front-end incrível, que sabe debater tecnicamente e também discutir necessidades do usuário e produto, entregando, além de tudo, funcionalidades bem estrutudas e de alta qualidade. Possui muito conhecimento de React, mas sempre topa desafios diferentes e está sempre disposto a encontrar a solução pros mais variados problemas. Tive a sorte de trabalhar com ele duas vezes e com certeza trabalharia uma terceira!_\
+**- [Felipe Rita](https://github.com/zerodois), Tech Lead**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=efraim-andrade)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=efraim-andrade)
+<hr />
 
----
+### 🥷 Fabio Akira Takahashi <a id="akirafabio"></a> [☝️](#se_index)
 
-### 🥷 Fabio Akira Takahashi <a id="fabio-akira-takahashi"></a>
+🛡️🗡️: Xcode, Swift
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/akirafabio)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/akirafabio/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Akira é um profissional completo, tanto na parte de desenvolvimento como de entendimento do produto. Muito curioso para entender e melhorar tudo que participa. Profissional de alta qualidade!_\
+**- [Daniel Pucciariello](https://github.com/danielpucci), Tech Lead**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=akirafabio)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=akirafabio)
+<hr />
 
----
+### 🥷 Felipe Metson <a id="duchometson"></a> [☝️](#se_index)
 
-### 🥷 Felipe Metson <a id="felipe-metson"></a>
+🛡️🗡️: Flask, SQLite, Python, C#, Angular, Django, Go, C 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/duchometson)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipe-metson-b9b758148/)
@@ -224,35 +304,47 @@ _O Charles Schiavinato, desenvolvedor back-end, que com sua experiência e matur
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=duchometson)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=duchometson)
+<hr />
 
----
+### 🥷 Felipe Alves Betts <a id="felipebetts"></a> [☝️](#se_index)
 
-### 🥷 Felipe Alves Betts <a id="felipe-alves-betts"></a>
+🛡️🗡️: HTML, CSS, JavaScript, React, Node.js, Docker 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/felipebetts)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipe-betts/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Felipe tem um ótimo conhecimento em Frontend. Tive a oportunidade de trabalhar em Pair Programming com ele na Hurb onde desevolvemos features escritas em Javascript utilizando React e Next JS. A facilidade de trocar opiniões e críticas, sua atenção e comprometimento com a experiência do usuário e performance das aplicações o tornam um Profissional completo na área ao qual recomendo de olhos fechados._\
+**- [Renato Lins](https://github.com/renatolinsjr), Software Engineer Front End Colleague**
+
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Felipe é um profissional altamente comunicativo, que trabalha bem em equipe e está sempre disposto a assumir novas demandas, mesmo que estejam fora de sua especialidade. Demonstrou um amplo conhecimento em tecnologias e frameworks de frontend tais como JS, React, Node, Jest, além de Linux, Git e Docker. Sua dedicação à qualidade é evidente em suas sugestões valiosas para aprimorar os projetos. Com sua agilidade na entrega e busca constante por aprendizado, Felipe é um membro valioso em qualquer equipe de desenvolvimento e o recomendo, fortemente, como desenvolvedor frontend._\
+**- [Elis Carvalho](https://github.com/ElizCarvalho), Software Engineer Backend Colleague**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=felipebetts)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=felipebetts)
+<hr />
 
----
+### 🥷 Fellipe Maia <a id="fellipemaia"></a> [☝️](#se_index)
 
-### 🥷 Fellipe Maia <a id="fellipe-maia"></a>
+🛡️🗡️: MongoDB, Jest, NodeJS, JS, AWS, Elixir, React, Docker, Makefile, Go
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/FellipeMaia)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fellipe-maia/)
 
-_Fellipe é um profissional extremamente resiliente, seu forte é o backend, costuma pegar tarefas que não tem muito domínio como forma de desafiar a si mesmo para aprender algo novo, e sempre conseguiu atingir os objetivos._\
-**- Daniel Tré, Tech Lead**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Fellipe é um exemplo de comprometimento, coragem e resiliência! Mesmo sendo um profissional com base em Backend, ele fez questão de estudar e aprender sobre Frontend, Tracking de GA, Migração para GA4 para que tivêssemos mais força nestas tecnologias dentro do time, fora que seu backend é mais voltado para Nodejs e como estávamos desenvolvendo aplicação em Golang, ele fez cursos para ser capaz de ajudar. Será uma honra trabalhar com ele de novo._\
+**- [Daniel Tré](https://github.com/donwellus), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=FellipeMaia)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=FellipeMaia)
+<hr />
 
----
+### 🥷 Fernando Erd <a id="fernando-erd"></a> [☝️](#se_index)
 
-### 🥷 Fernando Erd <a id="fernando-erd"></a>
+🛡️🗡️: C, Python, HTML, C++, JavaScript, Bash, Ruby, Vim, Docker, Go, MongoDB 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Fernando-Erd)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fernandoerd/)
@@ -260,21 +352,28 @@ _Fellipe é um profissional extremamente resiliente, seu forte é o backend, cos
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Fernando-Erd)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Fernando-Erd)
+<hr />
 
----
+### 🥷 Francisco Castro <a id="franciscobbc"></a> [☝️](#se_index)
 
-### 🥷 Francisco Castro <a id="francisco-castro"></a>
+🛡️🗡️: HTML, CSS, JavaScript, Typescript, PHP, Wordpress, JQuery, React, Node.js, GraphQL, MySQL, MongoDB, Redis, Docker 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/FranciscoBBC)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francisco-castro-330a95123/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Tive duas experiências de trabalhar com o Francisco, uma na Cuponeria onde fizemos parte do mesmo time de Desenvolvimento Frontend focado no ambiente web criando features para o sistema core da Empresa e também para os softwares whitelabel criando do zero um sistema de gerenciamento de notas fiscais para organizar eventos promocionais de Clientes. A segunda experiência foi junto do time de Engenharia da Hurb onde não trabalhamos no mesmo time mas trocamos bastante experiência por se tratar de Squads que precisavam de contato constante, ele no Squad de Atividades e eu no de Customer Experience. Francisco se destaca por sua calma e resiliência diante de situações que exigem cautela e tomada de decisões e por seu excelente domínio com frameworks e ambientes correlatos a área de Frontend possuindo grande maestria em Javascript e PHP que impulsionam suas qualidades profissionais junto das soft skills já mencionadas._\
+**- [Renato Lins](https://github.com/renatolinsjr), Software Engineer Front End Colleague**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=FranciscoBBC)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=FranciscoBBC)
+<hr />
 
----
+### 🥷 Gabriel Nascimento <a id="gabrielrnascimento"></a> [☝️](#se_index)
 
-### 🥷 Gabriel Nascimento <a id="gabriel-nascimento"></a>
+🛡️🗡️: TypeScript, JavaScript, CSS, HTML, Python, Bash, Docker, PostgreSQL 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gabrielrnascimento)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabriel-nascimento-525700124/)
@@ -282,32 +381,44 @@ _Fellipe é um profissional extremamente resiliente, seu forte é o backend, cos
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=gabrielrnascimento)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gabrielrnascimento)
+<hr />
 
----
+### 🥷 Gabriel Barbosa <a id="garbosa"></a> [☝️](#se_index)
 
-### 🥷 Gabriel Barbosa <a id="gabriel-barbosa"></a>
+🛡️🗡️: JS, NodeJs, React, MySQL, SQLServer, C#, HANA, SAP B1, Google Cloud
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Garbosa)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrieln-barbosa/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Gabriel é um ótimo desenvolvedor, que trabalha muito bem em equipe, assume as missões entregadas a ele da melhor forma, procurando sempre desenvolver seguindo as melhores praticas e orientações. Participou de uma reimplantação de SAP Business One onde atuou em diversas frentes, como desenvolvimento backend e frontend de integrações, e addons internos no SAP B1, e por ultimo criação de relatórios em SQL e HANA para o SAP B1._\
+**- [Paulo Sérgio da Silva Jr.](https://www.linkedin.com/paulsrgiojr), Tech Lead**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Garbosa)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Garbosa)
+<hr />
 
----
+### 🥷 Giovanni Severo <a id="giosvro"></a> [☝️](#se_index)
 
-### 🥷 Giovanni Severo <a id="giovanni-severo"></a>
+🛡️🗡️: Xcode, Swift
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/giosvro)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/giovanni-severo/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Giovanni é uma pessoa que tem muita atenção aos detalhes ao desenvolver qualquer coisa. Grande foco em criar documentações para ajudar o time a desenvolver de forma organizada_\
+**- [Daniel Pucciariello](https://github.com/danielpucci), Tech Lead**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=giosvro)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=giosvro)
+<hr />
 
----
+### 🥷 Guilherme Melo <a id="mufolk"></a> [☝️](#se_index)
 
-### 🥷 Guilherme Melo <a id="guilherme-melo"></a>
+🛡️🗡️: Angular, Node.js, MongoDB, React, Python, Java, JavaScript, C, HTML, CSS, C++, TypeScript, Vue, Fortran, React, Nextjs 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Mufolk)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilhermemelo138/)
@@ -315,24 +426,28 @@ _Fellipe é um profissional extremamente resiliente, seu forte é o backend, cos
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Mufolk)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Mufolk)
+<hr />
 
----
+### 🥷 Gustavo Augusto Brayn <a id="gustavobrayn"></a> [☝️](#se_index)
 
-### 🥷 Gustavo Augusto Brayn <a id="gustavo-augusto-brayn"></a>
+🛡️🗡️: TypeScript, Node.js, React, JavaScript 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gustavobrayn)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gustavobrayn/)
 
-_Gustavo Augusto Brayn possui uma história inspiradora e é conhecido por sua abertura ao aprendizado. Durante o período em que trabalharam juntos, ele sempre absorvia o conhecimento compartilhado e ajudava a enxergar novas perspectivas. Mesmo com pouco tempo de trabalho em conjunto, Gustavo demonstrou uma capacidade notável de assimilar conteúdo e estava sempre disposto a compartilhar seu conhecimento._\
-**- Pedro Braga, Software Engineer Front End Colleague**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Gustavo Augusto Brayn possui uma história inspiradora e é conhecido por sua abertura ao aprendizado. Durante o período em que trabalharam juntos, ele sempre absorvia o conhecimento compartilhado e ajudava a enxergar novas perspectivas. Mesmo com pouco tempo de trabalho em conjunto, Gustavo demonstrou uma capacidade notável de assimilar conteúdo e estava sempre disposto a compartilhar seu conhecimento._\
+**- [Pedro Lisboa](https://github.com/pedrobslisboa), Software Engineer Front End Colleague**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=gustavobrayn)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gustavobrayn)
+<hr />
 
----
+### 🥷 Gustavo Presa Rosa <a id="gustavopresa"></a> [☝️](#se_index)
 
-### 🥷 Gustavo Presa Rosa <a id="gustavo-presa-rosa"></a>
+🛡️🗡️: Python, JavaScript, Redis, Docker, Java, Django, HTML, CSS, PostgreSQL, GraphQL, MySQL, Go 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gustavoPresa)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gustavo-presa-rosa/)
@@ -340,10 +455,12 @@ _Gustavo Augusto Brayn possui uma história inspiradora e é conhecido por sua a
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=gustavoPresa)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=gustavoPresa)
+<hr />
 
----
+### 🥷 Igor Guimaraes Veludo <a id="igorveludo2"></a> [☝️](#se_index)
 
-### 🥷 Igor Guimaraes Veludo <a id="igor-guimaraes-veludo"></a>
+🛡️🗡️: TypeScript, JavaScript, CSS, HTML, Next.js, Node.js, GraphQL, Vue, Laravel, React, Nextjs, PostgreSQL, MySQL, Express 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/IgorVeludo2)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/igorveludo/)
@@ -351,57 +468,76 @@ _Gustavo Augusto Brayn possui uma história inspiradora e é conhecido por sua a
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=IgorVeludo2)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=IgorVeludo2)
+<hr />
 
----
+### 🥷 Igor Imperiali <a id="imperiali"></a> [☝️](#se_index)
 
-### 🥷 Igor Imperiali <a id="igor-imperiali"></a>
+🛡️🗡️: Docker, Flutter, Vue, Express, Python, Java, React, GraphQL, Node.js, JavaScript, Nextjs, Next.js, HTML, CSS, Webpack, Angular, MongoDB, MySQL, PHP, Jest, Sass, Django 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Imperiali)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/igor-imperiali/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Foi uma honra participar do desenvolvimento do Igor. Ele é uma pessoa muito inteligente, pró-ativa e que sempre defende seus pontos de vista, um profissional muito versátil que soube se aperfeiçoar no frontend e expandir seus conhecimentos no backend. Nosso time planejou e construiu muitos sistemas úteis e de sucesso, e isso é notável._\
+**- [Daniel Tré](https://github.com/donwellus), Tech Lead**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Imperiali)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Imperiali)
+<hr />
 
----
+### 🥷 José Ribeiro <a id="jtonynet"></a> [☝️](#se_index)
 
-### 🥷 José Ribeiro <a id="jose-ribeiro"></a>
+🛡️🗡️: Python, MySQL, PHP, Go, MongoDB, Redis 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jtonynet)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _José é uma pessoa muito inteligente, com raciocínios rápidos e bastante questionador o que sempre foi ótimo para mantermos as discussões caminhando para a solução. É um profissional com skills fortes em backend, e nos contatos que tive come ele, sempre demosntrou ser bem prático e resolutivo._\
+**- [Daniel Tré](https://github.com/donwellus), Tech Lead coworker**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=jtonynet)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=jtonynet)
+<hr />
 
----
+### 🥷 José Vinicius <a id="jviniciusoliveira"></a> [☝️](#se_index)
 
-### 🥷 José Vinicius <a id="jose-vinicius"></a>
+🛡️🗡️: Node.js, JavaScript, React, PHP, JQuery, C#, Amazon Web Services 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jviniciusoliveira)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jose-vinicius-os/)
 
-_José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impressão de maturidade e dedicação ao desenvolvimento, bem como um forte desejo de compartilhar e adquirir conhecimento._\
-**- Pedro Braga, Software Engineer Front End Colleague**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impressão de maturidade e dedicação ao desenvolvimento, bem como um forte desejo de compartilhar e adquirir conhecimento._\
+**- [Pedro Lisboa](https://github.com/pedrobslisboa), Software Engineer Front End Colleague**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=jviniciusoliveira)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=jviniciusoliveira)
+<hr />
 
----
+### 🥷 Lucas Carvalho de Vasconcellos <a id="lcarvalho94"></a> [☝️](#se_index)
 
-### 🥷 Lucas Carvalho De Vasconcellos <a id="lucas-carvalho-de-vasconcellos"></a>
+🛡️🗡️: HTML, CSS, JavaScript, PHP, C#, Node.js, React, MySQL, MongoDB, Redis, Docker 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lcarvalho94)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lcarvalho94/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Tive o imenso prazer de trabalhar ao lado de Lucas, inicialmente na mesma equipe e em um segundo momento somando forças em squads diferentes porém próximos, e seu conhecimento nesse tempo foi de extrema importância para ambos os Times. Recomento o Lucas por sua postura profissional, boa comunicação e conhecimento em Arquiteturas de Microserviços e Backend no geral._\
+**- [Renato Lins](https://github.com/renatolinsjr), Software Engineer Front End Colleague**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=lcarvalho94)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lcarvalho94)
+<hr />
 
----
+### 🥷 Lucas Scherpel <a id="scherpel"></a> [☝️](#se_index)
 
-### 🥷 Lucas Scherpel <a id="lucas-scherpel"></a>
+🛡️🗡️: Node.js, React, React, Flutter, Python, Go 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Scherpel)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-scherpel-902116136/)
@@ -409,10 +545,12 @@ _José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impr
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Scherpel)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Scherpel)
+<hr />
 
----
+### 🥷 Lucas Cavalheiro <a id="lgcavalheiro"></a> [☝️](#se_index)
 
-### 🥷 Lucas Cavalheiro <a id="lucas-cavalheiro"></a>
+🛡️🗡️: Angular, Deno, Electron, Java, Maven, GraphQL, Gulp, Node.js, TypeScript, Python, React, JavaScript 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lgcavalheiro)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lgcavalheiro/)
@@ -420,10 +558,12 @@ _José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impr
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=lgcavalheiro)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lgcavalheiro)
+<hr />
 
----
+### 🥷 Luis Fernando Fontoura Spaniol <a id="lffspaniol"></a> [☝️](#se_index)
 
-### 🥷 Luis Fernando Fontoura Spaniol <a id="luis-fernando-fontoura-spaniol"></a>
+🛡️🗡️: Go, Python, Angular, MySQL, Prometheus 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lffspaniol)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lffspaniol/)
@@ -431,35 +571,44 @@ _José Vinicius, embora tenha trabalhado por pouco tempo comigo, deixou uma impr
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=lffspaniol)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=lffspaniol)
+<hr />
 
----
+### 🥷 Marcos Dissotti <a id="marcosdissotti"></a> [☝️](#se_index)
 
-### 🥷 Marcos Dissotti <a id="marcos-dissotti"></a>
+🛡️🗡️: React, Redux, TypeScript, JavaScript, Styled Components, C#, Google Cloud Platform 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/marcosdissotti)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcosdissotti/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Marcos é um profissional dedicado, capacitado e interessado. Sempre disposto a ajudar e resolver problemas, aliado com ótimo relacionamento interpessoal e espirito de equipe._\
+**- [Lucas Freitas](https://github.com/lucasfreitas-dev), Tech Lead**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=marcosdissotti)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=marcosdissotti)
+<hr />
 
----
+### 🥷 Mateus Barbosa <a id="mateusxis"></a> [☝️](#se_index)
 
-### 🥷 Mateus Barbosa <a id="mateus-nascimento-barbosa"></a>
+🛡️🗡️: Node.js, React, Express, MongoDB, GraphQL, Python, Django, MySQL, PostgreSQL, Redis, JavaScript 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mateusxis)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mateusxis/)
 
-_Profissional muito ativo, multi-tarefa, conhece tanto backend quanto frontend, tem bons conhecimentos de banco de dados, e vestiu a camisa de security champion, trazendo sempre a preocupação de se desenvolver aplicações seguras._\
-**- Daniel Tré, Tech Lead**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Profissional muito ativo, multi-tarefa, conhece tanto backend quanto frontend, tem bons conhecimentos de banco de dados, e vestiu a camisa de security champion, conquistando duas certificações de segurança, o que trouxe base para trazer sempre a preocupação de se desenvolver aplicações seguras._\
+**- [Daniel Tré](https://github.com/donwellus), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mateusxis)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mateusxis)
+<hr />
 
----
+### 🥷 Matheus Baldas <a id="mbaldas"></a> [☝️](#se_index)
 
-### 🥷 Matheus Baldas <a id="matheus-baldas"></a>
+🛡️🗡️: React, TypeScript, CSS, Nginx, Docker, Webpack, Jest, C#, Node.js, Nextjs, PHP 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mbaldas)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheusbaldas/)
@@ -467,91 +616,111 @@ _Profissional muito ativo, multi-tarefa, conhece tanto backend quanto frontend, 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mbaldas)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mbaldas)
+<hr />
 
----
+### 🥷 Matheus Pelegrinetti <a id="pelegrinetti"></a> [☝️](#se_index)
 
-### 🥷 Matheus Pelegrinetti <a id="matheus-pelegrinetti"></a>
+🛡️🗡️: React, TypeScript, JavaScript, CSS, Nextjs 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Pelegrinetti)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-pelegrinetti/)
 
-_Entende muito bem tanto de front quanto de back. Tivemos ótimas discussões sobre a arquitetura de uma API que fizemos e ele pegava bem rápido as motivações das decisões, conseguindo assim argumentar sobre elas._\
-**- Daniel Tré, Tech Lead**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Entende muito bem tanto de front quanto de back. Tivemos ótimas discussões sobre a arquitetura de uma API que fizemos e ele pegava bem rápido as motivações das decisões, conseguindo assim argumentar sobre elas._\
+**- [Daniel Tré](https://github.com/donwellus), Tech Lead**
 
-_Matheus Pelegrinetti mostrou grande capacidade de adaptação e habilidade ao assumir o desafio de trabalhar tanto no Backend quanto no Frontend quando não tinha experiência com este. Contribuiu para o desenvolvimento e arquitetura de vários projetos importantes que impactaram positivamente a experiência do usuário. Com sede de aprendizado e uma postura colaborativa, Matheus é uma fonte inesgotável de conhecimento._\
-**- Pedro Braga, Software Engineer Front End Colleague**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Matheus Pelegrinetti mostrou grande capacidade de adaptação e habilidade ao assumir o desafio de trabalhar tanto no Backend quanto no Frontend quando não tinha experiência com este. Contribuiu para o desenvolvimento e arquitetura de vários projetos importantes que impactaram positivamente a experiência do usuário. Com sede de aprendizado e uma postura colaborativa, Matheus é uma fonte inesgotável de conhecimento._\
+**- [Pedro Lisboa](https://github.com/pedrobslisboa), Software Engineer Front End Colleague**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Pelegrinetti)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Pelegrinetti)
+<hr />
 
----
+### 🥷 Mayara Lima <a id="mayaralima22"></a> [☝️](#se_index)
 
-### 🥷 Mayara Lima <a id="mayara-lima"></a>
+🛡️🗡️: Docker, Flask, Go, MySQL, Python, Vue, Rabbitmq, C#, JavaScript, Java, Kotlin, MongoDB 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mayaralima22)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/limay/)
 
-_A Mayara Lima, desenvolvedora back-end, foi minha grande parceira e sempre demonstrou muita responsabilidade em seu trabalho, sendo uma referência em segurança web no time._\
-**- Daniele Reis, Tech Lead**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _A Mayara Lima, desenvolvedora back-end, foi minha grande parceira e sempre demonstrou muita responsabilidade em seu trabalho, sendo uma referência em segurança web no time. Além de estar constantemente preocupada com o desempenho do time, a Mayara também era capaz de manter uma comunicação clara com pessoas de diferentes backgrounds._\
+**- [Daniele Reis](https://github.com/danielesreis), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mayaralima22)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mayaralima22)
+<hr />
 
----
+### 🥷 Moises Santos <a id="mdeosjr"></a> [☝️](#se_index)
 
-### 🥷 Moises Santos <a id="moises-santos"></a>
+🛡️🗡️: JavaScript, TypeScript, HTML, CSS, Bash, Java, Node.js, React, Nextjs, Docker, Redis, GraphQL 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mdeosjr)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/moisesjr/)
 
-_Muito esforçado, entrou como assistente, sabendo pouco, tem sede por conhecimento, sempre prestou atenção a tudo e por conta disso, pegou o trabalho bem rápido, iniciou trabalhando com frontend, mas pegou diversas tarefas ponta-a-ponta pegando back também._\
-**- Daniele Reis, Tech Lead**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Muito esforçado, entrou como assistente, sabendo pouco, tem sede por conhecimento, sempre prestou atenção a tudo e por conta disso, pegou o trabalho bem rápido, iniciou trabalhando com frontend, mas pegou diversas tarefas ponta-a-ponta pegando back também._\
+**- [Daniel Tré](https://github.com/donwellus), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=mdeosjr)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=mdeosjr)
+<hr />
 
----
+### 🥷 Pamela Santos <a id="pamelasantoss"></a> [☝️](#se_index)
 
-### 🥷 Pamela Santos <a id="pamela-santos"></a>
+🛡️🗡️: React, Nextjs, HTML, Wordpress, JavaScript, TypeScript, CSS 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/pamelasantoss)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pamela-santos-frontend/)
 
-_A Pamela Santos, desenvolvedora front-end, extremamente desenrolada e adaptável, sempre entregando um trabalho de alta qualidade._\
-**- Daniele Reis, Tech Lead**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _A Pamela Santos, desenvolvedora front-end, extremamente desenrolada e adaptável, sempre entregando um trabalho de alta qualidade. O time sempre podia contar com ela para entregar as demandas mais urgentes em tempo hábil._\
+**- [Daniele Reis](https://github.com/danielesreis), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=pamelasantoss)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=pamelasantoss)
+<hr />
 
----
+### 🥷 Pedro Resende da Silva <a id="pedr-oresende"></a> [☝️](#se_index)
 
-### 🥷 Pedro Resende Da Silva <a id="pedro-resende-da-silva"></a>
+🛡️🗡️: Androidstudio, Kotlin 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/pedr-oResende)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pedro-resende-da-silva-228384177/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Pedro é uma pessoa com um potencial incrível, tivemos pouco tempo trabalhando juntos, mesmo assim pude notar que é bem atualizado._\
+**- [Daniel Pucciariello](https://github.com/danielpucci), Tech Lead**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=pedr-oResende)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=pedr-oResende)
+<hr />
 
----
+### 🥷 Rafael Blemer <a id="rblemer"></a> [☝️](#se_index)
 
-### 🥷 Rafael Blemer <a id="rafael-blemer"></a>
+🛡️🗡️: Androidstudio, Kotlin 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Rblemer)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-blemer-8b278b138/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Rafael começou conosco e tinha bem pouca experiência, mas muita vontade de aprender e fazer acontecer. Se desenvolveu muito no tempo que trabalhamos juntos e foi incrível ver o seu desenvolvimento. Tem sempre muitas idéias de como fazer as coisas e está sempre disponível para ajudar seus colegas._\
+**- [Daniel Pucciariello](https://github.com/danielpucci), Tech Lead**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Rblemer)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Rblemer)
+<hr />
 
----
+### 🥷 Rafael Lima <a id="rafaellrf09"></a> [☝️](#se_index)
 
-### 🥷 Rafael Lima <a id="rafael-lima"></a>
+🛡️🗡️: Go, Next.js, GraphQL, MongoDB, Spring, Vue, PHP, Laravel, Node.js, Java 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rafaellrf09)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafaellrf/)
@@ -559,10 +728,12 @@ _A Pamela Santos, desenvolvedora front-end, extremamente desenrolada e adaptáve
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=rafaellrf09)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rafaellrf09)
+<hr />
 
----
+### 🥷 Raphael Carvalho <a id="zraphael"></a> [☝️](#se_index)
 
-### 🥷 Raphael Carvalho <a id="raphael-carvalho"></a>
+🛡️🗡️: JavaScript, CSS, HTML, TypeScript, Solidity, Go, Python, Bash, Webpack, Styled Components, React, Node.js, Amazon Web Services, Java, C#, Sequelize 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/zraphael)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raphael-de-carvalho/)
@@ -570,21 +741,28 @@ _A Pamela Santos, desenvolvedora front-end, extremamente desenrolada e adaptáve
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=zraphael)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=zraphael)
+<hr />
 
----
+### 🥷 Rodrigo Oliveira <a id="rodrigosdo"></a> [☝️](#se_index)
 
-### 🥷 Rodrigo Oliveira <a id="rodrigo-oliveira"></a>
+🛡️🗡️: Go, Python, Redis, Amazon Web Services, PHP, MySQL, PostgreSQL, Docker, Google Cloud Platform, Node.js, JavaScript 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rodrigosdo)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodrigosdo/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Rodrigo é um profissional muito inteligente, com grande habilidade para encontrar padrões sobre as coisas. Seu forte é o backend, sempre preocupado com qualidade de código e em criar a melhor em arquitetura para os sistemas, tem habilidades adicionais nas áreas de banco de dados, cacheamento, processo de deploy._\
+**- [Daniel Tré](https://github.com/donwellus), Tech Lead coworker**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=rodrigosdo)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rodrigosdo)
+<hr />
 
----
+### 🥷 Rodrigo Cortezi <a id="rodrigovcortezi"></a> [☝️](#se_index)
 
-### 🥷 Rodrigo Cortezi <a id="rodrigo-cortezi"></a>
+🛡️🗡️: JavaScript, Node.js, C, Python, Ruby, Go 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rodrigovcortezi)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodrigo-cortezi/)
@@ -592,35 +770,44 @@ _A Pamela Santos, desenvolvedora front-end, extremamente desenrolada e adaptáve
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=rodrigovcortezi)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=rodrigovcortezi)
+<hr />
 
----
+### 🥷 Romulo Monteiro <a id="romulomga"></a> [☝️](#se_index)
 
-### 🥷 Romulo Monteiro <a id="romulo-monteiro"></a>
+🛡️🗡️: Xcode, Swift
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Romulomga)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/romulomga/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Romulo é um profissional excelente, faz o ambiente ficar muito mais leve. Tá sempre disposto a ajudar qualquer um com o que precisar. É uma pessoa muito compentente!_\
+**- [Daniel Pucciariello](https://github.com/danielpucci), Tech Lead**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=Romulomga)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=Romulomga)
+<hr />
 
----
+### 🥷 Saul Vieira <a id="vieirasaul"></a> [☝️](#se_index)
 
-### 🥷 Saul Vieira <a id="saul-vieira"></a>
+🛡️🗡️: React, Styled Components, Webpack, TypeScript, JavaScript, Node.js 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vieirasaul)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vieirasaul/)
 
-_Trabalhei com Saul por algum tempo, mas ele estava se desenvolvendo muito bem, é um Dev Jr que com um pouco mais de experiência pode chegar a Pleno, trabalhava mais com Frontend, mas costumava pegar tarefas de backend para expandir seus conhecimentos._\
-**- Daniel Tré, Tech Lead**
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Trabalhei com Saul por algum tempo, mas ele estava se desenvolvendo muito bem, é um Dev Jr que com um pouco mais de experiência pode chegar a Pleno, trabalhava mais com Frontend, mas costumava pegar tarefas de backend para expandir seus conhecimentos._\
+**- [Daniel Tré](https://github.com/donwellus), Tech Lead**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=vieirasaul)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=vieirasaul)
+<hr />
 
----
+### 🥷 Thales Paim Fachinelli <a id="thalesfachinelli"></a> [☝️](#se_index)
 
-### 🥷 Thales Paim Fachinelli <a id="thales-paim-fachinelli"></a>
+🛡️🗡️: Docker, MongoDB, Kotlin, Spring, C#, Dotnet, Node.js, React, Kubernetes, Java 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ThalesFachinelli)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thales-paim-fachinelli-b8b455b4/)
@@ -628,32 +815,44 @@ _Trabalhei com Saul por algum tempo, mas ele estava se desenvolvendo muito bem, 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=ThalesFachinelli)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=ThalesFachinelli)
+<hr />
 
----
+### 🥷 Thiago Assis <a id="assisthiago"></a> [☝️](#se_index)
 
-### 🥷 Thiago Assis <a id="thiago-assis"></a>
+🛡️🗡️: HTML, CSS, JavaScript, PHP, Python, Flask, Django, JQuery, React, Node.js, MySQL, MongoDB, Redis, Docker 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/assisthiago)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thiagomassis/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Thiago é um profissional completo com excelente postura e bastante conhecimento em Backend e Arquitetura, chegou em nossa Equipe assumindo grandes responsabilidades e preocupação com os Usuários dos Sistemas da Empresa, resolvendo bugs e sugerindo soluções para o Sistema Único de Login (SSO). Compartilhamos boas Sprints com excelentes resultados graças ao seu enorme conhecimento e sou imensamente grato pelo conhecimento que adquiri ao lado do Thiago nesses últimos meses._\
+**- [Renato Lins](https://github.com/renatolinsjr), Software Engineer Front End Colleague**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=assisthiago)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=assisthiago)
+<hr />
 
----
+### 🥷 Vinicius Nunes <a id="viniciusnuunes"></a> [☝️](#se_index)
 
-### 🥷 Vinicius Nunes <a id="vinicius-nunes"></a>
+🛡️🗡️: Dotnet, C#, Python, Kotlin, Gulp, Docker, Redis, JavaScript, MySQL, MongoDB, TypeScript, Node.js, Gitlab 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/viniciusnuunes)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/viniciuspnunes/)
 
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Vinicius é um profissional completo, com uma amplitude de atuação que vai desde a investigação de problemas críticos em sistemas legado à modelagem e desenho de novos sistemas. Sempre pude contar com interesse e dedicação do Vinicius em qualquer solução necessária._\
+**- [Lucas Freitas](https://github.com/lucasfreitas-dev), Tech Lead**
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=viniciusnuunes)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=viniciusnuunes)
+<hr />
 
----
+### 🥷 Yan Mello <a id="ydoro"></a> [☝️](#se_index)
 
-### 🥷 Yan Mello <a id="yan-mello"></a>
+🛡️🗡️: Node.js, TypeScript, Laravel, PHP, Selenium, Docker, MongoDB, Yarn, Husky, Python, MySQL, React 
+
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YDoro)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yan-mello-1a6429127/)
@@ -661,16 +860,178 @@ _Trabalhei com Saul por algum tempo, mas ele estava se desenvolvendo muito bem, 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=github_dark&username=YDoro)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&username=YDoro)
+<hr />
 
----
+
 
 ## Project managers
 
-### 🥷 Camila Ribeiro <a id="camila-ribeiro"></a>
+
+### 🥷 Camila Ribeiro <a id="camila-ribeiro-01299992"></a> [☝️](#pm_index)
+
+🛡️🗡️: PMO, Agile
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/camila-ribeiro-01299992/)
 
----
+<hr />
+
+
+
+## Product designers
+
+
+### 🥷 Andressa Vasconcellos <a id="andressa-vasconcellos"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andressavasconcellos/)
+
+<hr />
+
+### 🥷 Beatriz De Lima Santos <a id="beatriz-de-lima-santos"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/beatrizlimacunha/)
+
+<hr />
+
+### 🥷 Clara Baluz <a id="clara-baluz"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/clara-baluz/)
+
+<hr />
+
+### 🥷 Francine Tavares <a id="francine-tavares"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francine-tavares-pesquisa-ux-research-consumer-insights-pesquisa/)
+
+<hr />
+
+### 🥷 Goubert Rodrigues <a id="goubert-rodrigues"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/goubertrodrigues/)
+
+<hr />
+
+### 🥷 Guilherme Totoli <a id="guilherme-totoli"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guitotoli/)
+
+<hr />
+
+### 🥷 Iara Amaral <a id="iara-amaral"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/iaraamaral-uxresearcher/)
+
+<hr />
+
+### 🥷 Isabel Cristina Alves Oliveira <a id="isabel-cristina-alves-oliveira"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI, Hotjar, Pesquisa De Experiência Do Usuário, Design Thinking, Wireframes, Design De Interface Do Usuário, Design De Interação, Design Detalhado, Sistemas De Design, Usabilidade
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/isabellvs/)
+
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Recomendar a Isabel é fácil pois é uma Profissional dedicada no que faz, absorvendo e repassando conhecimento com extrema facilidade. No tempo em que trabalhamos juntos nossa comunicação sempre foi muito tranquila, sempre sugeriu soluções com base no que estudava, entendia as limitações técnicas do time e ajudou o Squad de Customer Experience da Hurb a alcançar excelentes resultados com o seu empenho._\
+**- [Renato Lins](https://github.com/renatolinsjr), Software Engineer Front End Colleague**
+
+<img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" /> _Super recomendo a Isa como uma profissional de Product Design excepcional. Durante nosso trabalho em conjunto, fiquei impressionada com sua comunicação eficaz, abertura para sugestões e dedicação exemplar em todas as tarefas. Além de sua simpatia contagiante, ela se destaca por sua habilidade excepcional de trabalhar em equipe, promovendo um ambiente colaborativo e harmonioso. Seus wireframes impecáveis refletem sua busca incansável pela melhor experiência do usuário, e sua disposição em solicitar feedbacks enriquece ainda mais a jornada, alinhando-a às escolhas técnicas do time. Isa é uma profissional notável que contribui significativamente para o sucesso dos projetos em que está envolvida. Sua presença em qualquer equipe certamente levará ao alcance de resultados extraordinários._\
+**- [Elis Carvalho](https://github.com/ElizCarvalho), Software Engineer Backend Colleague**
+
+<hr />
+
+### 🥷 Ligia Henemann <a id="ligia-henemann"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ligia-henemann/)
+
+<hr />
+
+### 🥷 Luiz Eduardo Luckner Costa <a id="luiz-eduardo-luckner-costa"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luizluckner/)
+
+<hr />
+
+### 🥷 Mateus Maria Prado <a id="mateus-maria-prado"></a> [☝️](#pd_index)
+
+🛡️🗡️: True, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mateus-maria-prado/)
+
+<hr />
+
+### 🥷 Matheus Lamoço <a id="matheus-lamoço"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-lamoco/)
+
+<hr />
+
+### 🥷 Nathan Santos <a id="nathan-santos"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nathansantosp/)
+
+<hr />
+
+### 🥷 Thaissa Veiga <a id="thaissa-veiga"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thaissaveiga/)
+
+<hr />
+
+### 🥷 Vitoria Seidel Dos Santos <a id="vitoria-seidel-dos-santos"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vitoriaseidel/)
+
+<hr />
+
+### 🥷 Willy Fontenelle <a id="willy-fontenelle"></a> [☝️](#pd_index)
+
+🛡️🗡️: Figma, UX, UI
+
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/willyfontenelle/)
+
+<hr />
+
+
 
 ## Weapons badges
 
