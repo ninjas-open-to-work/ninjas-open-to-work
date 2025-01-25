@@ -1,16 +1,16 @@
 # Ninjas #OpenToWork
 
-Idioma: [[EN _(soon)_](.)] [[PT-BR](/README.md)]
+{{ $.Site.Param "h1_lang" }}: [[EN](README.en.md)] [[PT](README.md)]
 
-Ninjas 🥷💻 Prontos para lutar novamente!
+{{ $.Site.Param "h1_subtitle" }}
 
-## Senioridade
+## {{ $.Site.Param "h2_seniority" }}
 
-██░░░░ - _júnior_
+██░░░░ - _{{ $.Site.Param "h2_seniority_jr" }}_
 
-████░░ - _pleno_
+████░░ - _{{ $.Site.Param "h2_seniority_in" }}_
 
-██████ - _sênior_
+██████ - _{{ $.Site.Param "h2_seniority_sn" }}_
 
 <hr />
 
@@ -28,11 +28,11 @@ Ninjas 🥷💻 Prontos para lutar novamente!
 
 {{ if $.Site.Data.product_designers }}{{ partial "profiles/pd.html" . }}{{ end }}
 
-## Insígnias de habilidades
+## {{ $.Site.Param "h2_weapon" }}
 
 - <https://github.com/tandpfun/skill-icons>
 - <https://home.aveek.io/GitHub-Profile-Badges>
 
-## Aviso
+## {{ $.Site.Param "h2_disclaimer" }}
 
-- Traduções de depoimentos podem ser feitas sem a revisão dos autores. Parte do significado pode ser perdido na tradução. Textos originais serão marcados com a insígnia <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />.
+- {{ $.Site.Param "h2_disclaimer_txt" }} <img width="20em" height="20em" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Icon-badge.svg" />.

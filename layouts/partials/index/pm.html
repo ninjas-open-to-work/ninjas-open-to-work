@@ -1,6 +1,6 @@
-## Índice de Gerentes de Projeto Ninjas <a id="pm_index"></a>
+## {{ $.Site.Param "pm_title" }} {{ $.Site.Param "index" }} <a id="pm_index"></a>
 
-Nome | Habilidades | De volta à luta?
+{{ $.Site.Param "pm_table_header" }}
 --- | --- | :--:
-{{ range $.Site.Data.project_managers }}[{{ .name }}](#{{ lower .linkedin }}) | {{ .skills }} | {{ if .hired }}✅🚀🥳👏🎆🎉{{ else }}⌛{{ end }}
+{{ range $.Site.Data.project_managers }}[{{ .name }}](#{{ lower .linkedin }}) | {{ .skills }} | {{ if .hired }}{{ $.Site.Param "hired_flag" }}{{ else }}⌛{{ end }}
 {{ end }}

@@ -1,6 +1,6 @@
-## Índice de Designers de Produto Ninjas <a id="pd_index"></a>
+## {{ $.Site.Param "pd_title" }} {{ $.Site.Param "index" }} <a id="pd_index"></a>
 
-Nome | Habilidades | De volta à luta?
+{{ $.Site.Param "pd_table_header" }}
 --- | --- | :--:
-{{ range $.Site.Data.product_designers }}[{{ .name }}](#{{ .name | anchorize }}) | {{ .skills }} | {{ if .hired }}✅🚀🥳👏🎆🎉{{ else }}⌛{{ end }}
+{{ range $.Site.Data.product_designers }}[{{ .name }}](#{{ .name | anchorize }}) | {{ .skills }} | {{ if .hired }}{{ $.Site.Param "hired_flag" }}{{ else }}⌛{{ end }}
 {{ end }}
