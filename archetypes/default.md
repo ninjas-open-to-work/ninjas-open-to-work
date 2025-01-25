@@ -1,6 +1,6 @@
 # Ninjas #OpenToWork
 
-{{ $.Site.Param "h1_lang" }}: [[EN](README.en.md)] [[PT](README.md)]
+{{ $.Site.Param "h1_lang" }}: [[EN](README.en-us.md)] [[PT](README.md)]
 
 {{ $.Site.Param "h1_subtitle" }}
 
