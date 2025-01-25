@@ -1,0 +1,56 @@
+languageCode: 'pt-br'
+title: 'ninjas open to work'
+
+disableKinds:
+  - home
+  - section
+  - taxonomy
+  - term
+  - RSS
+  - sitemap
+  - robotsTXT
+  - "404"
+
+params:
+  hired_flag: ✅🚀🥳👏🎆🎉
+
+languages:
+  pt:
+    params:
+      h1_lang: 'Idiomas'
+      h1_subtitle: 'Ninja Devs 🥷💻 Prontos para lutar novamente!'
+      h2_seniority: 'Senioridade'
+      h2_seniority_jr: 'júnior'
+      h2_seniority_in: 'pleno'
+      h2_seniority_sn: 'sênior'
+      h2_weapon: 'Insígnias de habilidades'
+      h2_disclaimer: 'Aviso'
+      h2_disclaimer_txt: 'Traduções de depoimentos podem ser feitas sem a revisão dos autores. Parte do significado pode ser perdido na tradução. Textos originais serão marcados com a insígnia'
+
+      index: '- índice'
+      pd_table_header: 'Name | Skills | Back to the fight?'
+      pd_title: 'Designers de produto'
+      pm_table_header: 'Name | Skills | Back to the fight?'
+      pm_title: 'Gerentes de projeto'
+      se_table_header: 'Name | Seniority | Weapons | Back to the fight?'
+      se_title: 'Engenheiros de Software'
+
+  en:
+    params:
+      h1_lang: 'Languages'
+      h1_subtitle: 'Ninja Devs 🥷💻 Ready to fight again!'
+      h2_seniority: 'Seniority'
+      h2_seniority_jr: 'junior'
+      h2_seniority_in: 'intermediate'
+      h2_seniority_sn: 'senior'
+      h2_weapon: 'Weapons badges'
+      h2_disclaimer: 'Disclaimers'
+      h2_disclaimer_txt: "Some testimonials' translations are made without owners' review. Be advised that something might get lost in translation. Original texts will also be marked with a badge"
+
+      index: 'index'
+      pd_table_header: 'Name | Skills | Back to the fight?'
+      pd_title: 'Product designers'
+      pm_table_header: 'Name | Skills | Back to the fight?'
+      pm_title: 'Project managers'
+      se_table_header: 'Name | Seniority | Weapons | Back to the fight?'
+      se_title: 'Software engineers'
